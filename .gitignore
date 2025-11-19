@@ -1,3 +1,5 @@
 .venv/
 images/
 __pycache__/
+faces_yolo/
+*.pt
