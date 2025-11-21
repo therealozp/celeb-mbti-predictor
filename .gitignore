@@ -1,5 +1,7 @@
 .venv/
-images/
+images*/
 __pycache__/
-faces_yolo/
+faces_yolo*/
+affectnet-yolo-format/
+affectnet-yolo-format*
 *.pt
