@@ -1,26 +1,26 @@
 id,name,four_letter,images_fetched,split
-24955,Beomgyu (TXT),ENFJ,4,val
-70,Barack Obama,ENFJ,4,val
+24955,Beomgyu (TXT),ENFJ,4,train
+70,Barack Obama,ENFJ,4,train
 4245,Jimin (BTS),ENFJ,4,train
-28434,Bang Chan (Stray Kids),ENFJ,3,val
+28434,Bang Chan (Stray Kids),ENFJ,3,test
 8943,Jackson Wang (GOT7),ENFJ,4,train
-11993,Anya Taylor-Joy,ENFJ,4,train
-971,Emma Stone,ENFJ,4,test
+11993,Anya Taylor-Joy,ENFJ,4,val
+971,Emma Stone,ENFJ,4,train
 52937,Sydney Sweeney,ENFJ,4,train
-10686,Meghan Markle,ENFJ,4,test
+10686,Meghan Markle,ENFJ,4,val
 19051,Alexandria Ocasio-Cortez,ENFJ,3,train
 422117,Huh Yunjin (LE SSERAFIM),ENFJ,4,train
-529174,Danielle (NewJeans),ENFJ,4,val
+529174,Danielle (NewJeans),ENFJ,4,train
 29749,Dove Cameron,ENFJ,4,train
 6126,Anthony Padilla,ENFJ,4,train
-64059,Ekrem İmamoğlu,ENFJ,4,val
-689,Oprah Winfrey,ENFJ,4,test
+64059,Ekrem İmamoğlu,ENFJ,4,train
+689,Oprah Winfrey,ENFJ,4,train
 20619,Choerry (ARTMS),ENFJ,3,train
 16719,Saoirse Ronan,ENFJ,4,train
 8919,Chanyeol (EXO),ENFJ,4,train
 2192,Justin Trudeau,ENFJ,4,train
-8916,Suho (EXO),ENFJ,4,test
-2712,Meryl Streep,ENFJ,4,train
+8916,Suho (EXO),ENFJ,4,train
+2712,Meryl Streep,ENFJ,4,test
 470,Matthew McConaughey,ENFJ,4,train
 29502,Malala Yousafzai,ENFJ,3,train
 3400,Gal Gadot,ENFJ,4,train
@@ -30,25 +30,25 @@ id,name,four_letter,images_fetched,split
 3281,Johann Wolfgang von Goethe,ENFJ,4,train
 13533,Jim Jones,ENFJ,4,train
 14234,Franz Liszt,ENFJ,4,train
-26715,"Minnie, (G)I-DLE",ENFJ,4,train
-11777,Colleen Ballinger,ENFJ,4,val
+26715,"Minnie, (G)I-DLE",ENFJ,4,test
+11777,Colleen Ballinger,ENFJ,4,train
 11324,Luka Magnotta,ENFJ,4,val
-459797,Kit Connor,ENFJ,3,train
-290043,Yassine Bounou,ENFJ,4,train
+459797,Kit Connor,ENFJ,3,val
+290043,Yassine Bounou,ENFJ,4,val
 16710,Hailee Steinfeld,ENFJ,3,train
 12473,Chloë Grace Moretz,ENFJ,4,train
 11673,Jessica Chastain,ENFJ,4,train
-809543,Sung Hanbin (ZEROBASEONE),ENFJ,4,test
+809543,Sung Hanbin (ZEROBASEONE),ENFJ,4,train
 462,Kate Winslet,ENFJ,4,train
 27109,Willem Dafoe,ENFJ,3,train
 81146,Ian Somerhalder,ENFJ,4,train
-15914,Ewan McGregor,ENFJ,4,test
+15914,Ewan McGregor,ENFJ,4,train
 129644,Q (The Boyz),ENFJ,3,train
 114093,Projota,ENFJ,4,train
-40338,Lea Michele,ENFJ,4,val
+40338,Lea Michele,ENFJ,4,test
 18589,Kang Daniel,ENFJ,4,train
 40312,Ramani Durvasula,ENFJ,2,train
-31138,Chris Ulmer (Special Books by Special Kids),ENFJ,4,test
+31138,Chris Ulmer (Special Books by Special Kids),ENFJ,4,train
 14694,Bradley Cooper,ENFJ,3,train
 137,Reese Witherspoon,ENFJ,4,train
 12664,Ethan Hawke,ENFJ,4,train
@@ -58,18 +58,18 @@ id,name,four_letter,images_fetched,split
 124294,Rezo,ENFJ,4,train
 280170,Edvin Ryding,ENFJ,4,train
 162840,Simu Liu,ENFJ,4,train
-5806,Jared Padalecki,ENFJ,4,train
-10153,Victoria Justice,ENFJ,4,test
-194846,Madelyn Cline,ENFJ,4,train
-34613,Gisele Bündchen,ENFJ,4,train
+5806,Jared Padalecki,ENFJ,4,val
+10153,Victoria Justice,ENFJ,4,train
+194846,Madelyn Cline,ENFJ,4,val
+34613,Gisele Bündchen,ENFJ,4,test
 58951,Vivien Leigh,ENFJ,4,train
 19460,Jacinda Ardern,ENFJ,4,train
-17678,Paola Carosella,ENFJ,4,test
+17678,Paola Carosella,ENFJ,4,train
 213570,Rachel Zegler,ENFJ,4,train
 298361,Ananda Morais,ENFJ,4,train
 20091,Sharon Osbourne,ENFJ,4,train
 30819,Bang Shi Hyuk,ENFJ,4,train
-42452,Cameron Boyce,ENFJ,4,val
+42452,Cameron Boyce,ENFJ,4,train
 314583,Kang Yeseo (Kep1er),ENFJ,4,train
 252755,Renato Cariani,ENFJ,4,train
 16704,Camila Mendes,ENFJ,4,train
@@ -77,116 +77,116 @@ id,name,four_letter,images_fetched,split
 23918,Kwon Yuri (SNSD),ENFJ,3,train
 131784,Naya Rivera,ENFJ,4,test
 10457,Giancarlo Esposito,ENFJ,4,train
-38383,Grayson Dolan,ENFJ,4,train
+38383,Grayson Dolan,ENFJ,4,test
 16718,Natalie Dormer,ENFJ,4,train
-165483,Javier Santaolalla (Date un Vlog),ENFJ,3,val
+165483,Javier Santaolalla (Date un Vlog),ENFJ,3,train
 408163,Dmytro Komarov,ENFJ,4,train
 142428,Choi Hyunsuk (TREASURE),ENFJ,3,train
 30973,Adam Mickiewicz,ENFJ,4,train
 18904,Taddl (Dat Adam),ENFJ,4,train
-20677,Jane Fonda,ENFJ,4,test
+20677,Jane Fonda,ENFJ,4,train
 58338,Sarah Michelle Gellar,ENFJ,4,train
-74066,Keke Palmer,ENFJ,4,train
+74066,Keke Palmer,ENFJ,4,val
 32766,Ansel Elgort,ENFJ,4,train
-11313,Dakota Fanning,ENFJ,4,train
-26323,Alfred Adler,ENFJ,4,test
+11313,Dakota Fanning,ENFJ,4,test
+26323,Alfred Adler,ENFJ,4,train
 3741,F. Scott Fitzgerald,ENFJ,4,train
-114106,Brené Brown,ENFJ,4,train
+114106,Brené Brown,ENFJ,4,test
 3484,Michael Phelps,ENFJ,3,train
-25512,Michelle Yeoh,ENFJ,3,train
+25512,Michelle Yeoh,ENFJ,3,val
 15269,Leonard Bernstein,ENFJ,4,train
-144174,Park Min-young,ENFJ,4,test
+144174,Park Min-young,ENFJ,4,train
 179231,Kerem Bürsin,ENFJ,4,train
-145999,Alexander Rybak,ENFJ,4,train
+145999,Alexander Rybak,ENFJ,4,val
 23289,Viola Davis,ENFJ,4,train
 282572,Karamo Brown,ENFJ,3,train
 40689,Celso Portiolli,ENFJ,4,train
 11597,Cory Booker,ENFJ,4,train
-41756,U-Know Yunho (TVXQ),ENFJ,4,val
-73235,Masih Alinejad,ENFJ,4,test
+41756,U-Know Yunho (TVXQ),ENFJ,4,train
+73235,Masih Alinejad,ENFJ,4,train
 35120,Sophia Loren,ENFJ,4,train
 19311,Lupita Nyong'o,ENFJ,4,train
 232741,Serenay Sarıkaya,ENFJ,4,train
 50025,Sungjin (DAY6),ENFJ,3,train
 357935,Jesse James West,ENFJ,4,train
 30212,Ilhan Omar,ENFJ,4,train
-26953,Eric Nam,ENFJ,4,train
+26953,Eric Nam,ENFJ,4,val
 671577,Walid Regragui,ENFJ,4,train
 11479,Michael Moore,ENFJ,4,train
 77992,Danilo Zanna,ENFJ,3,train
-21392,Yunhyeong (iKON),ENFJ,3,val
+21392,Yunhyeong (iKON),ENFJ,3,train
 26324,Abraham Maslow,ENFJ,3,train
-22566,Antonio Banderas,ENFJ,4,train
-60899,Ali Daei,ENFJ,4,train
-16680,Sam Claflin,ENFJ,4,val
+22566,Antonio Banderas,ENFJ,4,val
+60899,Ali Daei,ENFJ,4,test
+16680,Sam Claflin,ENFJ,4,train
 312864,Niamh Adkins,ENFJ,4,train
 65030,Bryan Dechart,ENFJ,3,train
 41020,Maya Angelou,ENFJ,4,train
-113507,Catriona Gray,ENFJ,3,train
+113507,Catriona Gray,ENFJ,3,test
 47401,IZA,ENFJ,4,train
-39761,Sofia Carson,ENFJ,3,test
-46236,Glória Maria,ENFJ,4,val
+39761,Sofia Carson,ENFJ,3,train
+46236,Glória Maria,ENFJ,4,train
 16923,Rebecca “Becca” Parham (Let Me Explain Studios),ENFJ,3,train
 972,AnnaSophia Robb,ENFJ,4,train
-47299,Dele Alli,ENFJ,4,train
+47299,Dele Alli,ENFJ,4,test
 362028,Sam Yang (samdoesarts),ENFJ,4,train
-18598,Yoon Jisung,ENFJ,3,train
-129154,Alok (DJ),ENFJ,4,train
+18598,Yoon Jisung,ENFJ,3,val
+129154,Alok (DJ),ENFJ,4,test
 72276,Cinta Laura,ENFJ,4,train
 8877,Erich Fromm,ENFJ,4,train
 267008,Chanty Binx,ENFJ,4,train
-155885,Tini Stoessel,ENFJ,3,train
-21659,Taraneh Alidousti,ENFJ,4,train
-21393,Donghyuk (iKON),ENFJ,4,val
-44719,Eunseo (WJSN),ENFJ,4,train
+155885,Tini Stoessel,ENFJ,3,test
+21659,Taraneh Alidousti,ENFJ,4,val
+21393,Donghyuk (iKON),ENFJ,4,train
+44719,Eunseo (WJSN),ENFJ,4,val
 275672,Eda Erdem Dündar,ENFJ,4,train
-27901,Jessica Lange,ENFJ,4,val
+27901,Jessica Lange,ENFJ,4,test
 257470,Amanda Gorman,ENFJ,4,train
 135705,Szymon Hołownia,ENFJ,4,train
-299029,Ananda Morais,ENFJ,4,test
+299029,Ananda Morais,ENFJ,4,val
 10294,Karlie Kloss,ENFJ,4,train
 34926,Elkie (CLC),ENFJ,4,train
 34787,Helen Mirren,ENFJ,4,train
 77355,Hayley Atwell,ENFJ,4,train
-36253,Olivia Munn,ENFJ,4,train
+36253,Olivia Munn,ENFJ,4,test
 39841,Keith Raniere,ENFJ,4,train
 58380,Krystal Ball,ENFJ,4,train
 5888,Giuseppe Verdi,ENFJ,4,train
 40026,Rob McElhenney,ENFJ,4,test
-515617,Perrell Brown (Dreamybull),ENFJ,4,val
+515617,Perrell Brown (Dreamybull),ENFJ,4,train
 29243,Nigella Lawson,ENFJ,2,train
 102806,Carles Puyol,ENFJ,4,train
 24656,Ailee,ENFJ,4,train
-208428,Rob Zeke Collopy,ENFJ,3,train
+208428,Rob Zeke Collopy,ENFJ,3,test
 126601,Emicida,ENFJ,3,train
-21517,Laura Dern,ENFJ,4,train
+21517,Laura Dern,ENFJ,4,val
 18582,Iker Casillas,ENFJ,4,train
 20640,Don Lemon,ENFJ,4,train
 134937,Débora Aladim,ENFJ,4,train
 19094,Rashida Jones,ENFJ,4,train
-22551,Patrick Swayze,ENFJ,4,val
+22551,Patrick Swayze,ENFJ,4,train
 28446,Iman,ENFJ,4,train
 258958,Michael Chandler,ENFJ,4,train
 86750,Zuho (SF9),ENFJ,3,train
 79332,Tedua (Mario Molinari),ENFJ,4,train
 105883,Ray Chen,ENFJ,4,train
-44713,EXY (WJSN),ENFJ,4,train
-62138,Belinda,ENFJ,4,test
-31496,Jason Nash,ENFJ,4,train
+44713,EXY (WJSN),ENFJ,4,val
+62138,Belinda,ENFJ,4,train
+31496,Jason Nash,ENFJ,4,test
 50919,"Farah Diba, Shahbanu of Iran",ENFJ,4,train
 32341,Jet Li,ENFJ,4,train
-22866,Stephanie Beatriz,ENFJ,4,train
+22866,Stephanie Beatriz,ENFJ,4,val
 63416,César Millán,ENFJ,4,train
 16295,"Larry Wheels"" Williams""",ENFJ,3,train
-287248,OG Buda,ENFJ,4,val
-318833,Sophia Valverde,ENFJ,3,train
+287248,OG Buda,ENFJ,4,train
+318833,Sophia Valverde,ENFJ,3,test
 60950,Jonathan Groff,ENFJ,4,train
 19746,Colin Kaepernick,ENFJ,4,train
 38693,Deepak Chopra,ENFJ,3,train
 151499,Eddie Woo,ENFJ,4,train
-329224,Will Neff,ENFJ,4,test
+329224,Will Neff,ENFJ,4,train
 268545,Pınar Deniz,ENFJ,4,train
-96001,Sophia,ENFJ,4,train
+96001,Sophia,ENFJ,4,val
 25613,Jeff Bridges,ENFJ,4,train
 88766,Priscilla Chan Zuckerberg,ENFJ,4,train
 68890,Ravn,ENFJ,4,train
@@ -197,60 +197,60 @@ id,name,four_letter,images_fetched,split
 366062,"Bruno Mossa de Rezende Bruno""""",ENFJ,4,train
 231563,Kate Walsh,ENFJ,4,train
 573948,Victor Wembanyama,ENFJ,4,train
-2956,Charlie Rose,ENFJ,4,val
-29776,Dan Crenshaw,ENFJ,4,test
+2956,Charlie Rose,ENFJ,4,train
+29776,Dan Crenshaw,ENFJ,4,train
 4247,"Taehyung V"" (BTS)""",ENFP,4,train
-970,Jennifer Lawrence,ENFP,4,train
+970,Jennifer Lawrence,ENFP,4,val
 28432,Lee Felix (Stray Kids),ENFP,4,train
 13846,Tom Holland,ENFP,4,train
 97,Will Smith,ENFP,4,train
 162398,Hoyeon,ENFP,4,train
 24957,Huening Kai (TXT),ENFP,4,train
-566,Jim Carrey,ENFP,4,train
+566,Jim Carrey,ENFP,4,val
 975,Anne Frank,ENFP,4,train
 20622,Chuu,ENFP,4,train
 20605,Sana (TWICE),ENFP,4,train
 2530,Ellen DeGeneres,ENFP,4,train
 978,Robin Williams,ENFP,4,train
 26711,"Shuhua, (G)I-DLE",ENFP,3,train
-11815,John Mulaney,ENFP,4,test
+11815,John Mulaney,ENFP,4,train
 529172,Hanni (NewJeans),ENFP,4,train
-4274,Salvador Dalí,ENFP,4,val
+4274,Salvador Dalí,ENFP,4,test
 976,Walt Disney,ENFP,4,train
-974,Oscar Wilde,ENFP,3,val
+974,Oscar Wilde,ENFP,3,train
 23619,Bad Bunny,ENFP,4,train
-1304,George Carlin,ENFP,4,train
-452,Donald Glover / Childish Gambino,ENFP,4,test
-152876,Sunoo (ENHYPEN),ENFP,4,test
+1304,George Carlin,ENFP,4,test
+452,Donald Glover / Childish Gambino,ENFP,4,train
+152876,Sunoo (ENHYPEN),ENFP,4,train
 10257,Yeri (Red Velvet),ENFP,4,train
-39192,Hirohiko Araki,ENFP,4,val
+39192,Hirohiko Araki,ENFP,4,train
 3226,Brie Larson,ENFP,4,train
 587,Daniel Radcliffe,ENFP,3,train
 16990,Jake Gyllenhaal,ENFP,4,train
-12096,Pedro Pascal,ENFP,3,train
+12096,Pedro Pascal,ENFP,3,test
 26814,Lia (ITZY),ENFP,4,train
 770,Charles Manson,ENFP,4,train
 120233,Ningning (aespa),ENFP,3,train
-15881,Lily Collins,ENFP,4,train
+15881,Lily Collins,ENFP,4,test
 9708,Jackie Chan,ENFP,3,train
 3821,Chris Pratt,ENFP,4,train
 6134,Helena Bonham Carter,ENFP,4,train
 16085,Dylan O'Brien,ENFP,4,train
-11070,Jack Black,ENFP,4,train
+11070,Jack Black,ENFP,4,val
 22723,Pete Davidson,ENFP,4,train
 20468,Noel Miller,ENFP,3,train
-3110,Andy Samberg,ENFP,4,test
+3110,Andy Samberg,ENFP,4,train
 24969,Hoshi (SEVENTEEN),ENFP,4,train
-5939,Cara Delevingne,ENFP,4,val
+5939,Cara Delevingne,ENFP,4,train
 482316,Nakamura Kazuha (LE SSERAFIM),ENFP,4,train
 297841,Thomas Raggi,ENFP,4,train
-29190,Russell Brand,ENFP,4,test
-17651,Dave Chappelle,ENFP,4,test
+29190,Russell Brand,ENFP,4,train
+17651,Dave Chappelle,ENFP,4,val
 23910,Matthew Gray Gubler,ENFP,4,train
-43732,Kim Jonghyun (SHINee),ENFP,3,train
+43732,Kim Jonghyun (SHINee),ENFP,3,test
 20202,Ezra Miller,ENFP,4,train
 16157,Blake Lively,ENFP,4,train
-29449,Lin-Manuel Miranda,ENFP,4,test
+29449,Lin-Manuel Miranda,ENFP,4,val
 199707,Tatsuki Fujimoto,ENFP,4,train
 442475,Pedro Scooby,ENFP,4,train
 16123,Steve Carell,ENFP,4,train
@@ -258,58 +258,58 @@ id,name,four_letter,images_fetched,split
 42879,Jaden Smith,ENFP,3,train
 105487,Linn da Quebrada (Lina),ENFP,4,train
 34146,CallMeCarson,ENFP,4,train
-16125,John Krasinski,ENFP,4,test
-120527,Ice Cream Sandwich,ENFP,4,train
+16125,John Krasinski,ENFP,4,val
+120527,Ice Cream Sandwich,ENFP,4,val
 22144,Jack Ma,ENFP,4,train
-6236,Victor Hugo,ENFP,4,val
+6236,Victor Hugo,ENFP,4,train
 24543,Heung-Min Son,ENFP,4,train
 29781,Maisa Silva,ENFP,3,train
-103932,Alice Oseman,ENFP,4,train
+103932,Alice Oseman,ENFP,4,val
 30818,Jeon Somi,ENFP,3,train
-22127,Akira Toriyama,ENFP,4,train
-20110,Cher,ENFP,4,train
+22127,Akira Toriyama,ENFP,4,val
+20110,Cher,ENFP,4,test
 8814,Liza Koshy,ENFP,4,train
 6576,Trevor Noah,ENFP,3,train
 38589,Eiichiro Oda,ENFP,4,train
-136,Sandra Bullock,ENFP,4,test
+136,Sandra Bullock,ENFP,4,train
 25479,Shia LaBeouf,ENFP,4,train
 16693,Madelaine Petsch,ENFP,4,train
-979,Keira Knightley,ENFP,4,test
+979,Keira Knightley,ENFP,4,train
 5941,Kristen Bell,ENFP,4,train
 6311,Arthur Rimbaud,ENFP,4,train
 31949,Kim Yoohyeon (DREAMCATCHER),ENFP,4,train
-29812,Michael Sheen,ENFP,4,val
-4945,Carrie Fisher,ENFP,4,val
-87814,Manu Gavassi,ENFP,4,train
-24705,Jonah Hill,ENFP,4,val
-45998,Neil Cicierega,ENFP,4,val
+29812,Michael Sheen,ENFP,4,train
+4945,Carrie Fisher,ENFP,4,train
+87814,Manu Gavassi,ENFP,4,test
+24705,Jonah Hill,ENFP,4,train
+45998,Neil Cicierega,ENFP,4,train
 31903,Jooheon (MONSTA X),ENFP,4,train
 2309,Zooey Deschanel,ENFP,4,train
 6615,Michio Kaku,ENFP,4,train
-365775,Young Multi,ENFP,4,test
-429802,Jooyeon (Xdinary Heroes),ENFP,4,train
+365775,Young Multi,ENFP,4,train
+429802,Jooyeon (Xdinary Heroes),ENFP,4,test
 8815,Sarah Paulson,ENFP,4,train
-358333,Lily (NMIXX),ENFP,3,train
+358333,Lily (NMIXX),ENFP,3,val
 23900,Arca,ENFP,2,train
 159578,Weston Koury (wes10),ENFP,3,train
 6566,Julian Assange,ENFP,4,train
 49549,Vladimir Mayakovsky,ENFP,4,train
 9261,Mark Hamill,ENFP,4,train
 14463,Arin Hanson (Egoraptor),ENFP,4,train
-20952,Jack Dylan Grazer,ENFP,3,train
-3154,James McAvoy,ENFP,4,test
+20952,Jack Dylan Grazer,ENFP,3,val
+3154,James McAvoy,ENFP,4,val
 94502,BIBI,ENFP,3,train
 22499,Elijah Wood,ENFP,4,train
-22031,Lord Byron,ENFP,4,train
+22031,Lord Byron,ENFP,4,test
 26959,Yerin (GFRIEND),ENFP,4,train
 18903,Julien Bam,ENFP,4,train
-10637,Renato Russo,ENFP,3,test
+10637,Renato Russo,ENFP,3,train
 16646,Amybeth McNulty,ENFP,3,train
-16084,Elle Fanning,ENFP,4,train
-62835,Israel Adesanya,ENFP,4,train
-977,Kurt Vonnegut,ENFP,4,test
+16084,Elle Fanning,ENFP,4,test
+62835,Israel Adesanya,ENFP,4,test
+977,Kurt Vonnegut,ENFP,4,train
 31827,Amber Liu,ENFP,4,train
-34789,Gustavo Cerati,ENFP,4,train
+34789,Gustavo Cerati,ENFP,4,val
 44701,Ben Barnes,ENFP,4,train
 414405,Reneé Rapp,ENFP,4,train
 6274,Charles Dickens,ENFP,4,train
@@ -317,14 +317,14 @@ id,name,four_letter,images_fetched,split
 36148,Adam Conover (Adam Ruins Everything),ENFP,3,train
 108679,Daniel Thrasher,ENFP,4,val
 33664,Giannis Antetokounmpo,ENFP,4,train
-29794,Theo Von,ENFP,4,val
+29794,Theo Von,ENFP,4,train
 29441,Choi Yujin (Kep1er),ENFP,3,train
 1399,Debby Ryan,ENFP,4,train
-116537,Barbascura X,ENFP,3,val
-41634,Gaten Matarazzo,ENFP,4,train
+116537,Barbascura X,ENFP,3,train
+41634,Gaten Matarazzo,ENFP,4,val
 451,Alison Brie,ENFP,3,train
-127798,Meatcanyon,ENFP,3,val
-9219,Dr. Seuss,ENFP,4,train
+127798,Meatcanyon,ENFP,3,train
+9219,Dr. Seuss,ENFP,4,val
 24658,Eunji (Apink),ENFP,4,train
 11485,Greta Gerwig,ENFP,4,train
 22610,Woody Harrelson,ENFP,4,train
@@ -334,59 +334,59 @@ id,name,four_letter,images_fetched,split
 12474,Seth Rogen,ENFP,4,train
 315063,Emily Alyn Lind,ENFP,4,train
 20739,Owen Wilson,ENFP,4,train
-809519,Kim Gyuvin (ZEROBASEONE),ENFP,4,test
-410661,Bae (NMIXX),ENFP,3,train
+809519,Kim Gyuvin (ZEROBASEONE),ENFP,4,train
+410661,Bae (NMIXX),ENFP,3,test
 426619,Leeseo (IVE),ENFP,4,train
 110988,Kim Go-eun,ENFP,4,train
 217173,Yoon (STAYC),ENFP,3,train
-11590,Gabriel Garcia Márquez,ENFP,4,train
+11590,Gabriel Garcia Márquez,ENFP,4,val
 33105,James Acaster,ENFP,4,train
 11762,Roald Dahl,ENFP,4,train
 981,Shailene Woodley,ENFP,4,train
 29783,Park Bom,ENFP,4,train
-41594,Marco Merrino (croix89),ENFP,4,val
-22753,Gus Johnson,ENFP,4,train
+41594,Marco Merrino (croix89),ENFP,4,train
+22753,Gus Johnson,ENFP,4,test
 11373,Orson Welles,ENFP,4,train
 25484,Kaya Scodelario,ENFP,4,train
 119210,Luca Macarini (Drawn Mask),ENFP,4,train
 71209,Eugenio Derbez,ENFP,4,train
 11179,Rick Riordan,ENFP,2,train
-13398,Thomas Sanders,ENFP,4,val
+13398,Thomas Sanders,ENFP,4,train
 30949,Cho Seungyoun (WOODZ),ENFP,3,train
 134909,Juhaknyeon (The Boyz),ENFP,3,train
 464411,Harvey (XG),ENFP,4,train
-70548,Shannon (CreepShow Art),ENFP,4,val
+70548,Shannon (CreepShow Art),ENFP,4,train
 30272,Zara Larsson,ENFP,4,train
 49205,Bill Kaulitz,ENFP,3,train
 407725,Anupam Tripathi,ENFP,4,train
-13050,Will Ferrell,ENFP,4,train
-237513,Moon Ga-Young,ENFP,4,train
+13050,Will Ferrell,ENFP,4,test
+237513,Moon Ga-Young,ENFP,4,test
 70773,Paulo Gustavo,ENFP,4,train
 96165,Grant Gustin,ENFP,4,test
-192410,Jack Quaid,ENFP,4,val
+192410,Jack Quaid,ENFP,4,train
 3773,Gene Wilder,ENFP,4,val
 8913,Michael J. Fox,ENFP,4,train
-338321,Ceyda Kasabalı,ENFP,4,test
+338321,Ceyda Kasabalı,ENFP,4,train
 89233,Josh Hutcherson,ENFP,4,train
 22262,Peter Jackson,ENFP,4,train
 249042,Jovani Vázquez,ENFP,4,train
-49090,Misha Collins,ENFP,3,test
+49090,Misha Collins,ENFP,3,train
 2160,J. J. Abrams,ENFP,4,train
 449972,Beomhan,ENFP,4,train
-74359,Moriah Elizabeth,ENFP,4,val
-10926,Matt Smith,ENFP,4,test
-50368,Kat Dennings,ENFP,4,train
+74359,Moriah Elizabeth,ENFP,4,train
+10926,Matt Smith,ENFP,4,train
+50368,Kat Dennings,ENFP,4,test
 26224,Sarah Hyland,ENFP,4,train
-137899,Berk Keklik (uberkuloz),ENFP,4,train
+137899,Berk Keklik (uberkuloz),ENFP,4,test
 250961,DarioMocciaChannel (Dario Moccia),ENFP,4,train
-16715,Maisie Williams,ENFP,3,train
-483512,Ke Huy Quan,ENFP,4,val
+16715,Maisie Williams,ENFP,3,val
+483512,Ke Huy Quan,ENFP,4,train
 143631,Yıldız Tilbe,ENFP,2,test
 69223,Percy Shelley,ENFP,3,train
 16792,Graham Norton,ENFP,4,train
 22292,Macaulay Culkin,ENFP,4,train
 165279,Hazal Kaya,ENFP,3,train
-14849,Kiernan Shipka,ENFP,4,train
+14849,Kiernan Shipka,ENFP,4,test
 38232,Raffa Moreira,ENFP,4,train
 28825,Beto O'Rourke,ENFP,3,train
 74314,Tony Ferguson,ENFP,3,train
@@ -398,21 +398,21 @@ id,name,four_letter,images_fetched,split
 28206,Olivia Colman,ENFP,3,train
 231221,Li Bai (Li Bo),ENFP,3,train
 597968,Haley Kalil,ENFP,4,train
-177301,Gun ATP Atthaphan Phunsawat,ENFP,4,train
+177301,Gun ATP Atthaphan Phunsawat,ENFP,4,val
 288397,Jenna Ortega,ENTJ,4,train
 444,Steve Jobs,ENTJ,4,train
 108,Arnold Schwarzenegger,ENTJ,4,train
 43105,Aidan Gallagher,ENTJ,4,train
 152884,Ni-Ki (ENHYPEN),ENTJ,4,train
-20610,Heejin (ARTMS),ENTJ,4,val
-60814,Javier Milei,ENTJ,4,train
-294109,Jude Bellingham,ENTJ,4,train
-30917,Elizabeth Holmes,ENTJ,4,test
+20610,Heejin (ARTMS),ENTJ,4,train
+60814,Javier Milei,ENTJ,4,val
+294109,Jude Bellingham,ENTJ,4,test
+30917,Elizabeth Holmes,ENTJ,4,train
 2313,Carl Sagan,ENTJ,3,train
 24453,Mohammed bin Salman (MBS),ENTJ,4,train
-12718,Simon Cowell,ENTJ,4,val
-315,Franklin D. Roosevelt,ENTJ,4,test
-23886,Naomi Campbell,ENTJ,4,train
+12718,Simon Cowell,ENTJ,4,train
+315,Franklin D. Roosevelt,ENTJ,4,val
+23886,Naomi Campbell,ENTJ,4,test
 35388,Elizabeth Gillies,ENTJ,4,train
 488229,Tristan Tate,ENTJ,4,train
 1573,James Cameron,ENTJ,4,train
@@ -423,24 +423,24 @@ id,name,four_letter,images_fetched,split
 16149,Gillian Anderson,ENTJ,4,train
 65026,Muharrem İnce,ENTJ,3,train
 373058,Seo Youngeun (Kep1er),ENTJ,4,train
-6491,Charlize Theron,ENTJ,4,train
+6491,Charlize Theron,ENTJ,4,val
 830129,Park Gunwook (ZEROBASEONE),ENTJ,4,train
 844525,Ahyeon (BABYMONSTER),ENTJ,4,train
 967,George Clooney,ENTJ,3,train
 3739,Richard Wagner,ENTJ,3,train
-30278,Gabrielle Bonheur “Coco” Chanel,ENTJ,4,train
-104717,Ted Nivison,ENTJ,4,val
-36831,Katharine Hepburn,ENTJ,4,test
+30278,Gabrielle Bonheur “Coco” Chanel,ENTJ,4,val
+104717,Ted Nivison,ENTJ,4,train
+36831,Katharine Hepburn,ENTJ,4,train
 837119,Kim Taerae (ZEROBASEONE),ENTJ,4,train
 5645,Elizabeth Warren,ENTJ,4,train
-33029,Pete Buttigieg,ENTJ,4,val
+33029,Pete Buttigieg,ENTJ,4,train
 16059,Nancy Pelosi,ENTJ,3,train
 12281,George Soros,ENTJ,4,train
 4937,Lauren Southern,ENTJ,4,train
 117535,Doda (Dorota Rabczewska),ENTJ,4,train
 10138,Vince McMahon,ENTJ,4,val
 6495,Johan Cruyff,ENTJ,4,train
-36557,Mindy Kaling,ENTJ,4,train
+36557,Mindy Kaling,ENTJ,4,test
 16799,Jimmy Carr,ENTJ,4,train
 34339,Song Joong-Ki,ENTJ,4,train
 14469,Jack London,ENTJ,4,train
@@ -452,121 +452,121 @@ id,name,four_letter,images_fetched,split
 11586,Rudy Giuliani,ENTJ,4,train
 65698,Dana White,ENTJ,3,train
 41856,Whoopi Goldberg,ENTJ,4,train
-54482,Angela Davis,ENTJ,4,test
-320823,Oleg Tinkov,ENTJ,4,train
-431240,Erik ten Hag,ENTJ,4,train
+54482,Angela Davis,ENTJ,4,train
+320823,Oleg Tinkov,ENTJ,4,test
+431240,Erik ten Hag,ENTJ,4,test
 20362,Elizabeth Bathory,ENTJ,4,val
-34991,Enrico Fermi,ENTJ,4,test
-35045,Andrew Cuomo,ENTJ,4,val
-14323,Triple H,ENTJ,4,val
+34991,Enrico Fermi,ENTJ,4,train
+35045,Andrew Cuomo,ENTJ,4,train
+14323,Triple H,ENTJ,4,train
 31319,Zico (Block B),ENTJ,4,train
 161512,Doyoung (TREASURE),ENTJ,3,train
 24907,"Anne, Princess Royal of the United Kingdom",ENTJ,4,train
-11651,Chelsea Handler,ENTJ,4,train
+11651,Chelsea Handler,ENTJ,4,test
 60722,Pedro Alonso,ENTJ,3,train
-20038,Barbra Streisand,ENTJ,4,test
+20038,Barbra Streisand,ENTJ,4,train
 131961,Simon Leviev “The Tinder Swindler”,ENTJ,4,train
 50,Chris Paul,ENTJ,4,train
 301725,Thomas Tuchel,ENTJ,4,val
 22549,Jimmy Savile,ENTJ,4,train
 688,Rush Limbaugh,ENTJ,3,train
 36165,Dan (Danplan),ENTJ,4,train
-106839,Vittorio Sgarbi,ENTJ,4,test
+106839,Vittorio Sgarbi,ENTJ,4,train
 117286,Rain,ENTJ,4,train
 255198,Valentina Zenere,ENTJ,4,train
 12332,Robert Redford,ENTJ,4,train
-27926,Booba,ENTJ,4,train
+27926,Booba,ENTJ,4,test
 33411,Richard Spencer,ENTJ,3,train
 23762,Sandra Oh,ENTJ,4,train
 43788,Harlan Ellison,ENTJ,4,train
 9674,Lauren Bacall,ENTJ,4,train
-324316,Ehsan Alikhani,ENTJ,4,train
+324316,Ehsan Alikhani,ENTJ,4,val
 2086,Penn Jillette,ENTJ,4,train
-84893,Najwa Nimri,ENTJ,4,val
-44243,Lee Seung-gi,ENTJ,4,train
-49624,Shoko Asahara,ENTJ,4,val
+84893,Najwa Nimri,ENTJ,4,train
+44243,Lee Seung-gi,ENTJ,4,test
+49624,Shoko Asahara,ENTJ,4,train
 236472,Yury Dud,ENTJ,4,train
 475412,Ümit Özdağ,ENTJ,3,train
 13921,Michael Douglas,ENTJ,4,train
-53835,Lisa Su,ENTJ,4,test
-28634,Dan Peña,ENTJ,4,train
+53835,Lisa Su,ENTJ,4,train
+28634,Dan Peña,ENTJ,4,val
 82639,Arran Lomas (Thoughty2),ENTJ,4,train
-56021,Patrick Bet-David,ENTJ,4,test
+56021,Patrick Bet-David,ENTJ,4,train
 71358,Daniel Sloss,ENTJ,2,train
-195419,Thiago Nigro (O Primo Rico),ENTJ,3,train
-50525,Ava Gardner,ENTJ,3,test
+195419,Thiago Nigro (O Primo Rico),ENTJ,3,val
+50525,Ava Gardner,ENTJ,3,train
 36935,Cobie Smulders,ENTJ,4,train
 20176,Klaus Kinski,ENTJ,4,train
 37774,Donatella Versace,ENTJ,4,train
-354814,Dave Farina (Professor Dave Explains),ENTJ,4,train
-135849,"Junior Rorimpandey Juna""""",ENTJ,4,val
-197247,Haluk Tatar,ENTJ,2,val
+354814,Dave Farina (Professor Dave Explains),ENTJ,4,test
+135849,"Junior Rorimpandey Juna""""",ENTJ,4,train
+197247,Haluk Tatar,ENTJ,2,train
 130436,Eteri Tutberidze,ENTJ,4,train
-96857,Antón Álvarez (C. Tangana),ENTJ,4,val
+96857,Antón Álvarez (C. Tangana),ENTJ,4,train
 175629,Florentino Pérez,ENTJ,4,train
 367253,Kim Yeon-Koung,ENTJ,4,train
-1500,Theo James,ENTJ,4,val
-1525,Larry Ellison,ENTJ,4,train
-28658,Jesse Ventura,ENTJ,4,train
+1500,Theo James,ENTJ,4,test
+1525,Larry Ellison,ENTJ,4,test
+28658,Jesse Ventura,ENTJ,4,val
 28476,J. K. Simmons,ENTJ,4,train
 303828,Shalom Harlow,ENTJ,4,train
 120338,Cody Rhodes,ENTJ,4,train
 129096,Yoon (WINNER),ENTJ,4,train
-47019,Charlamagne tha God,ENTJ,4,train
+47019,Charlamagne tha God,ENTJ,4,val
 37379,Matt Dillahunty,ENTJ,4,train
-56779,Bernard Arnault,ENTJ,4,train
+56779,Bernard Arnault,ENTJ,4,test
 476772,Alex Hormozi,ENTJ,4,train
 13920,Kirk Douglas,ENTJ,4,train
-138502,Özgür Demirtaş,ENTJ,3,test
+138502,Özgür Demirtaş,ENTJ,3,train
 75383,Greg Davies,ENTJ,3,train
-125959,Nevşin Mengü,ENTJ,4,test
-130471,Kayleigh McEnany,ENTJ,4,train
+125959,Nevşin Mengü,ENTJ,4,train
+130471,Kayleigh McEnany,ENTJ,4,test
 264641,Viki Gabor,ENTJ,3,train
 35557,Eduardo Bonvallet,ENTJ,3,train
 324363,Thiago Finch,ENTJ,4,train
-34970,Pierre-Simon Laplace,ENTJ,4,train
+34970,Pierre-Simon Laplace,ENTJ,4,val
 56259,Kollegah,ENTJ,4,train
 35555,Oliver Kahn,ENTJ,4,train
-29921,Carl Orff,ENTJ,4,train
+29921,Carl Orff,ENTJ,4,test
 113198,Jones Manoel,ENTJ,3,train
 258963,María Félix,ENTJ,4,train
 103195,Michael Franzese,ENTJ,4,train
 39590,Gavin Newsom,ENTJ,4,train
-150677,Jelena Karleusa,ENTJ,4,test
+150677,Jelena Karleusa,ENTJ,4,train
 176621,Chad Michael Murray,ENTJ,4,train
 14874,Abby Martin,ENTJ,4,train
-16058,Paul Ryan,ENTJ,4,train
+16058,Paul Ryan,ENTJ,4,test
 64194,Mark Phillips,ENTJ,4,train
 267177,Nurlan Saburov,ENTJ,4,train
 218960,Radwa El Sherbiny,ENTJ,3,train
-119418,Fatih Altaylı,ENTJ,3,train
+119418,Fatih Altaylı,ENTJ,3,val
 199853,Richard D. Wolff,ENTJ,4,train
 7238,Louis van Gaal,ENTJ,4,train
 38239,Phil Spencer,ENTJ,4,train
 27091,Charles Sobhraj,ENTJ,4,train
-24050,Chuck Schumer,ENTJ,4,val
+24050,Chuck Schumer,ENTJ,4,test
 216898,Jon Ossoff,ENTJ,4,train
 464404,Jurin (XG),ENTJ,3,train
 10492,Frances McDormand,ENTJ,4,train
-11087,Eric Cantona,ENTJ,4,val
+11087,Eric Cantona,ENTJ,4,train
 459263,Ashneer Grover,ENTJ,3,train
-22263,George Westinghouse,ENTJ,4,train
-36855,Sheryl Sandberg,ENTJ,4,test
+22263,George Westinghouse,ENTJ,4,val
+36855,Sheryl Sandberg,ENTJ,4,train
 20080,Grace Jones,ENTJ,4,train
 40886,Mr. T,ENTJ,4,train
 16078,Satya Nadella,ENTJ,3,train
-373044,Maximilian Schmidt,ENTJ,2,test
+373044,Maximilian Schmidt,ENTJ,2,val
 119921,Seo Woobin (CRAVITY),ENTJ,4,train
-52471,Dian Sastrowardoyo,ENTJ,3,test
+52471,Dian Sastrowardoyo,ENTJ,3,train
 366845,Roman Reigns (Tribal Chief),ENTJ,4,train
 49164,Mel Robbins,ENTJ,4,train
 76040,Jane Lynch,ENTJ,4,train
 77491,Napoleon Hill,ENTJ,3,train
 48170,Fernandinho Beira-Mar,ENTJ,4,train
 329238,Matteo Professione (Ernia),ENTJ,4,train
-10799,Yngwie Malmsteen,ENTJ,4,train
-13913,Diane Kruger,ENTJ,4,test
-33381,Rosie O'Donnell,ENTJ,4,test
+10799,Yngwie Malmsteen,ENTJ,4,test
+13913,Diane Kruger,ENTJ,4,train
+33381,Rosie O'Donnell,ENTJ,4,val
 23122,David Hogg,ENTJ,4,train
 60345,Miyuki Sawashiro,ENTJ,4,train
 107262,Ajda Pekkan,ENTJ,4,train
@@ -576,51 +576,51 @@ id,name,four_letter,images_fetched,split
 93511,Cus D'Amato,ENTJ,4,train
 67385,Gué Pequeno (Cosimo Fini),ENTJ,4,train
 38837,Farhang Holakouee,ENTJ,4,train
-48540,Nancy Reagan,ENTJ,4,val
+48540,Nancy Reagan,ENTJ,4,train
 133875,Shelia Eddy,ENTJ,4,train
 7219,Piero Scaruffi,ENTJ,4,train
 97276,Judge Lauren Lake,ENTJ,3,train
-76096,"Charles Lucky"" Luciano""",ENTJ,4,train
-424076,Monika (Shin Jungwoo),ENTJ,4,train
-69850,Peter Jones,ENTJ,4,val
+76096,"Charles Lucky"" Luciano""",ENTJ,4,test
+424076,Monika (Shin Jungwoo),ENTJ,4,val
+69850,Peter Jones,ENTJ,4,train
 557079,Bahareh Afshari,ENTJ,3,train
 98024,Philip Zimbardo,ENTJ,4,train
 34790,Ilia Chavchavadze,ENTJ,4,train
-90627,Dennis Quaid,ENTJ,4,test
+90627,Dennis Quaid,ENTJ,4,train
 150037,Abimael Guzmán,ENTJ,4,train
-45264,Josh Hawley,ENTJ,4,train
+45264,Josh Hawley,ENTJ,4,test
 54401,Mae West,ENTJ,4,train
 568349,Mike O'Hearn,ENTJ,4,train
-509135,Brian Tracy,ENTJ,4,train
-76100,Bugsy Siegel,ENTJ,4,train
+509135,Brian Tracy,ENTJ,4,val
+76100,Bugsy Siegel,ENTJ,4,val
 43556,Marília Gabriela,ENTJ,4,train
 236244,Kahi (After School),ENTJ,4,train
 252004,Park Yoo-na,ENTJ,3,train
 139066,Dr. Dodo,ENTJ,3,train
 50181,Gertrude Stein,ENTJ,4,train
-36692,Jamie Dimon,ENTJ,3,val
+36692,Jamie Dimon,ENTJ,3,train
 12937,Kim Jisoo (BLACKPINK),ENTP,4,train
 28428,Han (Stray Kids),ENTP,4,train
 1735,Quentin Tarantino,ENTP,4,train
-24954,Yeonjun (TXT),ENTP,4,val
+24954,Yeonjun (TXT),ENTP,4,train
 1884,Ted Bundy,ENTP,4,val
 151,Robert Downey Jr.,ENTP,4,train
 3496,Neil deGrasse Tyson,ENTP,3,train
 534943,mbti_tties,ENTP,3,train
-20948,Finn Wolfhard,ENTP,4,train
+20948,Finn Wolfhard,ENTP,4,test
 9242,Ricky Gervais,ENTP,4,train
 39981,Sunwoo (The Boyz),ENTP,4,train
-2310,Ryan Reynolds,ENTP,4,val
+2310,Ryan Reynolds,ENTP,4,train
 152871,Jay (ENHYPEN),ENTP,4,train
 16694,Cole Sprouse,ENTP,4,train
 24927,Johnny (NCT),ENTP,3,train
 687,Conan O'Brien,ENTP,4,train
-6535,Stan Lee,ENTP,4,train
+6535,Stan Lee,ENTP,4,test
 539,Benjamin Franklin,ENTP,4,train
-20467,"Cody Kolodziejzyk Cody Ko""""",ENTP,4,train
+20467,"Cody Kolodziejzyk Cody Ko""""",ENTP,4,val
 2710,Richard Feynman,ENTP,4,train
 24921,Kim Sejeong,ENTP,4,train
-8823,Thomas Müller,ENTP,4,train
+8823,Thomas Müller,ENTP,4,test
 30946,Yunho (ATEEZ),ENTP,4,train
 2292,Martin Scorsese,ENTP,4,train
 589,Tom Hanks,ENTP,4,train
@@ -630,27 +630,27 @@ id,name,four_letter,images_fetched,split
 43886,Yangyang (WayV) (NCT),ENTP,3,train
 9691,Josef Mengele,ENTP,4,train
 10916,David Tennant,ENTP,4,train
-1524,John McAfee,ENTP,4,train
-19874,Tucker Carlson,ENTP,4,train
-1042,Anna Kendrick,ENTP,4,train
-11277,The Zodiac Killer,ENTP,4,test
+1524,John McAfee,ENTP,4,test
+19874,Tucker Carlson,ENTP,4,val
+1042,Anna Kendrick,ENTP,4,val
+11277,The Zodiac Killer,ENTP,4,train
 5992,Shah Rukh Khan,ENTP,4,train
-2861,Jürgen Klopp,ENTP,4,train
+2861,Jürgen Klopp,ENTP,4,val
 21545,Alex Hirsch,ENTP,4,train
 480,Howard Stern,ENTP,4,train
 2705,Sacha Baron Cohen,ENTP,4,train
-12439,Paul Rudd,ENTP,4,val
-31953,Lee Siyeon (DREAMCATCHER),ENTP,3,train
+12439,Paul Rudd,ENTP,4,test
+31953,Lee Siyeon (DREAMCATCHER),ENTP,3,test
 8918,Chen (EXO),ENTP,4,train
 6935,Jeff Goldblum,ENTP,4,train
-2055,"Bill Nye The Science Guy""""",ENTP,3,train
-10455,Bryan Cranston,ENTP,4,train
+2055,"Bill Nye The Science Guy""""",ENTP,3,test
+10455,Bryan Cranston,ENTP,4,val
 8005,Bill Hader,ENTP,4,val
-23123,Sam Hyde / Million Dollar Extreme,ENTP,4,test
+23123,Sam Hyde / Million Dollar Extreme,ENTP,4,train
 41461,Cem Yılmaz,ENTP,4,train
-27557,Kim Heechul (Super Junior),ENTP,4,val
+27557,Kim Heechul (Super Junior),ENTP,4,train
 36316,Robert Sheehan,ENTP,4,train
-3163,Bill Maher,ENTP,3,val
+3163,Bill Maher,ENTP,3,test
 624644,Percy Hynes White,ENTP,4,train
 60911,Celal Şengör,ENTP,4,train
 34166,Wheein (MAMAMOO),ENTP,4,train
@@ -658,9 +658,9 @@ id,name,four_letter,images_fetched,split
 33254,Rogério Skylab,ENTP,4,train
 445,Steve Wozniak,ENTP,4,train
 11300,Marquis De Sade,ENTP,4,train
-42420,Hyunjae (The Boyz),ENTP,4,train
+42420,Hyunjae (The Boyz),ENTP,4,val
 34969,Erwin Schrödinger,ENTP,4,train
-12661,John Oliver,ENTP,4,val
+12661,John Oliver,ENTP,4,train
 997,Céline Dion,ENTP,3,train
 30061,Derek Muller (Veritasium),ENTP,4,train
 2099,Seth MacFarlane,ENTP,4,train
@@ -669,36 +669,36 @@ id,name,four_letter,images_fetched,split
 9227,Rhett McLaughlin,ENTP,4,train
 47830,Phoebe Waller-Bridge,ENTP,4,train
 18632,Trey Parker,ENTP,4,train
-483144,Walker Scobell,ENTP,4,test
+483144,Walker Scobell,ENTP,4,train
 29416,Emily Fan (Not Even Emily),ENTP,4,train
 23350,Jack Douglass (Jacksfilms),ENTP,4,train
 63763,Mark Manson,ENTP,4,train
-42720,Alexander Pushkin,ENTP,4,train
-147125,Cemre Demirel,ENTP,4,train
+42720,Alexander Pushkin,ENTP,4,test
+147125,Cemre Demirel,ENTP,4,val
 45151,Tatá Werneck,ENTP,4,train
 40834,Nardwuar,ENTP,4,train
 103787,Paul Wesley,ENTP,4,train
-72649,Muudea Sedik (twomad),ENTP,3,test
-11681,PSY,ENTP,4,train
+72649,Muudea Sedik (twomad),ENTP,3,train
+11681,PSY,ENTP,4,test
 6286,Ada Lovelace,ENTP,4,train
 30285,Chris Rock,ENTP,3,train
 25838,Bob Odenkirk,ENTP,4,train
-25107,Stephen Fry,ENTP,4,val
+25107,Stephen Fry,ENTP,4,train
 30319,Park Jinyoung (JYP / J. Y. Park),ENTP,4,train
 47241,Katherine Fauvre,ENTP,4,train
-35049,Hypatia,ENTP,4,val
+35049,Hypatia,ENTP,4,train
 22592,Danny DeVito,ENTP,3,train
 36199,Mark Rober,ENTP,4,train
 11628,David Foster Wallace,ENTP,4,train
-7175,Anthony Bourdain,ENTP,4,test
+7175,Anthony Bourdain,ENTP,4,train
 56513,Young K (DAY6),ENTP,4,train
-36362,Caroline Konstnar,ENTP,4,test
+36362,Caroline Konstnar,ENTP,4,train
 32508,Chuck Palahniuk,ENTP,4,train
-146335,Lee Young-ji,ENTP,4,test
+146335,Lee Young-ji,ENTP,4,train
 3097,Salma Hayek,ENTP,4,train
-3818,Kate McKinnon,ENTP,4,test
+3818,Kate McKinnon,ENTP,4,train
 429804,Gaon (Xdinary Heroes),ENTP,4,train
-123580,Léo Lins,ENTP,4,train
+123580,Léo Lins,ENTP,4,val
 45154,Bobby Lee,ENTP,4,val
 465,Charles Barkley,ENTP,2,train
 2806,John Cleese,ENTP,4,train
@@ -709,152 +709,152 @@ id,name,four_letter,images_fetched,split
 37571,Billie Lourd,ENTP,4,train
 48780,Miiasaurous,ENTP,4,train
 26412,CM Punk,ENTP,4,train
-11649,Bassem Youssef,ENTP,4,train
+11649,Bassem Youssef,ENTP,4,test
 21521,Brandon Rogers,ENTP,3,train
-20444,Raul Seixas,ENTP,4,test
-4156,Nicolaus Copernicus,ENTP,4,train
+20444,Raul Seixas,ENTP,4,train
+4156,Nicolaus Copernicus,ENTP,4,test
 10500,Jordan Peele,ENTP,4,train
-10297,Max Stanley (Maxmoefoe),ENTP,4,train
+10297,Max Stanley (Maxmoefoe),ENTP,4,val
 4771,Chael Sonnen,ENTP,4,train
 197618,Lee Do-hyun,ENTP,3,train
-30514,John von Neumann,ENTP,4,train
+30514,John von Neumann,ENTP,4,val
 964,Amy Poehler,ENTP,4,train
 11708,David Harbour,ENTP,3,train
-80930,Anthony Potero (Anthpo),ENTP,4,test
-145364,Emma Langevin,ENTP,4,val
-2706,Bill Hicks,ENTP,4,val
+80930,Anthony Potero (Anthpo),ENTP,4,train
+145364,Emma Langevin,ENTP,4,train
+2706,Bill Hicks,ENTP,4,train
 33992,Justin Roiland,ENTP,4,train
 62920,Armie Hammer,ENTP,4,train
 11720,Danny Elfman,ENTP,4,train
 34145,Matheus Canella,ENTP,3,train
 11710,Ennio Morricone,ENTP,4,train
-1080,Zach Galifianakis,ENTP,4,val
-3014,Jon Stewart,ENTP,4,val
-326125,Gaspi,ENTP,4,val
+1080,Zach Galifianakis,ENTP,4,test
+3014,Jon Stewart,ENTP,4,test
+326125,Gaspi,ENTP,4,train
 137851,Çağrı Mert Bakırcı,ENTP,4,train
 519511,Seunghan (RIIZE),ENTP,3,train
-170959,Ethan Becker,ENTP,4,train
+170959,Ethan Becker,ENTP,4,val
 267224,Barry Keoghan,ENTP,4,train
-3149,Craig Ferguson,ENTP,4,test
-71464,Yeeun (EL7Z UP),ENTP,3,train
+3149,Craig Ferguson,ENTP,4,val
+71464,Yeeun (EL7Z UP),ENTP,3,test
 408722,Slava KPSS,ENTP,4,train
 119019,The Rock,ENTP,4,train
 82640,Paolo Bonolis,ENTP,4,train
 5533,Emma Thompson,ENTP,4,train
-2962,Sarah Silverman,ENTP,4,train
-104953,Aykut Elmas,ENTP,4,test
+2962,Sarah Silverman,ENTP,4,test
+104953,Aykut Elmas,ENTP,4,train
 57894,Shädman,ENTP,4,train
 75462,Brian Limond (Limmy),ENTP,4,train
 81400,Michael Messineo (Mike's Mic),ENTP,3,train
-3067,Hugh Grant,ENTP,4,train
-143629,"Adrián Nario El Bananero""""",ENTP,3,test
+3067,Hugh Grant,ENTP,4,val
+143629,"Adrián Nario El Bananero""""",ENTP,3,train
 40823,Andrew Schulz,ENTP,4,train
 27743,Karl Lagerfeld,ENTP,3,train
 144903,Besim Tibuk,ENTP,3,train
-19619,Camille Paglia,ENTP,4,test
+19619,Camille Paglia,ENTP,4,train
 441235,Sam Bankman-Fried,ENTP,4,train
 53988,Dinho (Mamonas Assassinas),ENTP,3,train
 4537,Omar Khayyam,ENTP,4,train
 14547,Natasha Lyonne,ENTP,4,val
 11427,Jean-Luc Godard,ENTP,4,train
-16124,Rainn Wilson,ENTP,4,val
+16124,Rainn Wilson,ENTP,4,train
 34319,Frank Abagnale,ENTP,3,train
 33303,Darren Criss,ENTP,4,train
 76774,Jose Luis Crespo (Quantum Fracture),ENTP,4,train
 32104,Steven Pinker,ENTP,4,train
-3383,Douglas Adams,ENTP,4,test
-18590,Ong Seongwoo,ENTP,2,test
-72644,Kim Sihyeon (EVERGLOW),ENTP,3,test
+3383,Douglas Adams,ENTP,4,train
+18590,Ong Seongwoo,ENTP,2,train
+72644,Kim Sihyeon (EVERGLOW),ENTP,3,train
 138429,Tolga Çevik,ENTP,4,train
 21657,Mahmoud Ahmadinejad,ENTP,4,train
 55630,Okan Bayülgen,ENTP,4,train
-38771,Joan Rivers,ENTP,4,train
+38771,Joan Rivers,ENTP,4,val
 104355,Alexa Chung,ENTP,4,train
-3096,Federico Fellini,ENTP,4,test
+3096,Federico Fellini,ENTP,4,train
 11758,Alexander Skarsgård,ENTP,4,train
 40016,John Kricfalusi,ENTP,4,train
 334876,Brennan Lee Mulligan,ENTP,4,train
-72075,Ray Dalio,ENTP,4,train
+72075,Ray Dalio,ENTP,4,test
 88550,I did a thing,ENTP,4,train
 63536,Devon Bostick,ENTP,4,train
 164364,Ahmed Helmy,ENTP,4,train
-6217,Josh Peck,ENTP,4,train
+6217,Josh Peck,ENTP,4,test
 50182,Bret Easton Ellis,ENTP,4,train
 5211,Morgan,ENTP,3,train
-314518,Noize MC,ENTP,3,val
+314518,Noize MC,ENTP,3,train
 40044,Matt Groening,ENTP,4,train
 16261,Jon Hamm,ENTP,4,train
 25899,Peter Dinklage,ENTP,4,train
 66878,Hero Fiennes-Tiffin,ENTP,4,train
 282652,Danila Poperechnyy,ENTP,4,val
-6313,Miguel de Cervantes,ENTP,4,train
+6313,Miguel de Cervantes,ENTP,4,val
 21284,Ken Jeong,ENTP,4,train
-83959,Kieran Culkin,ENTP,4,test
+83959,Kieran Culkin,ENTP,4,train
 156628,Damien Haas (Smosh),ENTP,4,train
 115484,Emrah Safa Gürkan,ENTP,4,train
 74404,Dylan Wang,ENTP,3,train
 52020,Golshifteh Farahani,ENTP,4,train
-180841,Nicolas Cantu (Junky Janker),ENTP,4,test
-8721,Chris Jericho,ENTP,4,train
+180841,Nicolas Cantu (Junky Janker),ENTP,4,train
+8721,Chris Jericho,ENTP,4,test
 60316,Katie McGrath,ENTP,3,train
 77748,Joe Burrow,ENTP,4,train
-27522,Terry Gilliam,ENTP,4,train
+27522,Terry Gilliam,ENTP,4,test
 43014,Noah Schnapp,ESFJ,4,train
-155318,Olivia Rodrigo,ESFJ,4,test
+155318,Olivia Rodrigo,ESFJ,4,train
 4246,J-Hope (BTS),ESFJ,4,train
 12940,Rosé (BLACKPINK),ESFJ,4,train
-2304,Joe Biden,ESFJ,4,train
+2304,Joe Biden,ESFJ,4,val
 20602,Kim Dahyun (TWICE),ESFJ,3,train
 24923,Mark Lee (NCT),ESFJ,4,train
-8971,Millie Bobby Brown,ESFJ,4,val
-120232,Karina (aespa),ESFJ,4,train
-923,Chris Evans,ESFJ,4,val
+8971,Millie Bobby Brown,ESFJ,4,train
+120232,Karina (aespa),ESFJ,4,test
+923,Chris Evans,ESFJ,4,test
 9123,Emilia Clarke,ESFJ,3,train
-998,Mariah Carey,ESFJ,4,train
-1372,Jimmy Fallon,ESFJ,4,test
+998,Mariah Carey,ESFJ,4,val
+1372,Jimmy Fallon,ESFJ,4,train
 10133,Gigi Hadid,ESFJ,3,train
 988,Anne Hathaway,ESFJ,4,train
 9259,Margot Robbie,ESFJ,4,train
 10255,Wendy (Red Velvet),ESFJ,3,train
-24925,Jungwoo (NCT),ESFJ,4,val
+24925,Jungwoo (NCT),ESFJ,4,train
 980,Jennifer Aniston,ESFJ,4,train
-26716,"Miyeon, (G)I-DLE",ESFJ,4,val
+26716,"Miyeon, (G)I-DLE",ESFJ,4,train
 4310,John Cena,ESFJ,4,train
-24973,Mingyu (SEVENTEEN),ESFJ,4,train
+24973,Mingyu (SEVENTEEN),ESFJ,4,test
 47,LeBron James,ESFJ,4,train
 42218,Emily Sim (Emirichu),ESFJ,4,train
 23917,Tiffany Young (SNSD),ESFJ,4,train
-24975,Seungkwan (SEVENTEEN),ESFJ,4,train
-10136,Hailey Bieber,ESFJ,4,train
-20613,Haseul (ARTMS),ESFJ,3,train
+24975,Seungkwan (SEVENTEEN),ESFJ,4,val
+10136,Hailey Bieber,ESFJ,4,val
+20613,Haseul (ARTMS),ESFJ,3,test
 25330,Emma Roberts,ESFJ,4,train
 8620,Jennifer Lopez,ESFJ,4,train
 1028,Gwyneth Paltrow,ESFJ,4,train
-23551,Sofía Vergara,ESFJ,4,test
+23551,Sofía Vergara,ESFJ,4,train
 22239,Minho (SHINee),ESFJ,4,train
-43381,Felipe Castanhari (Canal Nostalgia),ESFJ,3,val
-31944,JiU (DREAMCATCHER),ESFJ,4,train
-21187,Terry Crews,ESFJ,4,train
+43381,Felipe Castanhari (Canal Nostalgia),ESFJ,3,train
+31944,JiU (DREAMCATCHER),ESFJ,4,val
+21187,Terry Crews,ESFJ,4,val
 217626,Triz Pariz,ESFJ,4,train
 9741,John Wayne Gacy,ESFJ,4,train
 19925,Steve Harvey,ESFJ,4,train
 195196,Shotaro (RIIZE),ESFJ,4,train
 438328,Naiara Azevedo,ESFJ,4,train
-355742,Huening Bahiyyih (Kep1er),ESFJ,4,train
-10333,Yoo Kihyun (MONSTA X),ESFJ,4,train
+355742,Huening Bahiyyih (Kep1er),ESFJ,4,test
+10333,Yoo Kihyun (MONSTA X),ESFJ,4,test
 62862,Simone Biles,ESFJ,4,train
 993,Vin Diesel,ESFJ,4,train
 49596,Sangyeon (The Boyz),ESFJ,4,train
-31981,Wendy Williams,ESFJ,4,test
+31981,Wendy Williams,ESFJ,4,train
 25880,Adriana Lima,ESFJ,4,train
-20194,"Grace Kelly, Princess of Monaco",ESFJ,4,test
+20194,"Grace Kelly, Princess of Monaco",ESFJ,4,train
 221080,Tadeu Schmidt,ESFJ,3,train
 1607,Tyra Banks,ESFJ,3,test
-89555,Beatrice Chestnut,ESFJ,4,train
-999,Whitney Houston,ESFJ,4,val
-30254,Chayanne,ESFJ,4,val
+89555,Beatrice Chestnut,ESFJ,4,val
+999,Whitney Houston,ESFJ,4,test
+30254,Chayanne,ESFJ,4,train
 30057,Dave Rubin,ESFJ,3,train
-3861,Daisy Ridley,ESFJ,3,train
+3861,Daisy Ridley,ESFJ,3,test
 73354,Rowoon (SF9),ESFJ,4,train
 96183,Meral Akşener,ESFJ,4,train
 18592,Lee Daehwi (AB6IX),ESFJ,4,train
@@ -864,52 +864,52 @@ id,name,four_letter,images_fetched,split
 454821,Kyujin (NMIXX),ESFJ,3,train
 119528,Tiago Abravanel,ESFJ,4,train
 34925,Sorn (CLC),ESFJ,4,train
-76145,"Sergio Kun"" Agüero""",ESFJ,4,train
+76145,"Sergio Kun"" Agüero""",ESFJ,4,val
 43537,Larissa Manoela,ESFJ,4,train
 129791,Hande Erçel,ESFJ,4,train
-13924,Jessica Alba,ESFJ,4,train
+13924,Jessica Alba,ESFJ,4,test
 217179,Isa (STAYC),ESFJ,4,train
-175609,Dianna Agron,ESFJ,4,test
-31323,Chrissy Teigen,ESFJ,4,train
-136914,Ece Üner,ESFJ,4,train
+175609,Dianna Agron,ESFJ,4,train
+31323,Chrissy Teigen,ESFJ,4,val
+136914,Ece Üner,ESFJ,4,test
 10290,Sarah Palin,ESFJ,4,train
 142048,Aitana,ESFJ,4,train
 40688,"Fausto Faustão"" da Silva""",ESFJ,4,train
 237257,Mehmet Dural (Rehber Matematik),ESFJ,4,train
-42886,Butch Hartman,ESFJ,4,val
+42886,Butch Hartman,ESFJ,4,train
 102061,BM (KARD),ESFJ,3,train
 76,Gerald Ford,ESFJ,4,train
-73621,Susan Wojcicki,ESFJ,4,val
+73621,Susan Wojcicki,ESFJ,4,test
 29683,Penélope Cruz,ESFJ,4,train
 305830,Jessie Mei Li,ESFJ,3,train
 31772,Joseph Morgan,ESFJ,4,train
 206669,Mason Mount,ESFJ,4,train
-49246,Harland Sanders,ESFJ,3,test
+49246,Harland Sanders,ESFJ,3,val
 53931,Ghislaine Maxwell,ESFJ,4,train
-45098,Marília Mendonça,ESFJ,4,val
-40348,Jennifer Garner,ESFJ,4,val
+45098,Marília Mendonça,ESFJ,4,train
+40348,Jennifer Garner,ESFJ,4,train
 46220,Luciano Hang (Véio da Havan/Elder of Havan),ESFJ,4,train
 142431,Yoon Jaehyuk (TREASURE),ESFJ,4,train
-43700,Satomi Ishihara,ESFJ,3,train
+43700,Satomi Ishihara,ESFJ,3,val
 20633,Chris Wallace,ESFJ,4,train
-28910,Georg Friedrich Händel,ESFJ,4,train
-68908,Bora (Cherry Bullet),ESFJ,3,test
+28910,Georg Friedrich Händel,ESFJ,4,test
+68908,Bora (Cherry Bullet),ESFJ,3,train
 13535,Ivete Sangalo,ESFJ,4,train
 406618,Ariadna Cabero Lemus (Ariann Music),ESFJ,4,train
 20286,Bryce Dallas Howard,ESFJ,3,train
 428072,Taz Skylar,ESFJ,4,train
 18642,Leeteuk (Super Junior),ESFJ,4,train
 62867,Shawn Johnson,ESFJ,4,train
-72062,Lee Saerom (fromis_9),ESFJ,3,train
+72062,Lee Saerom (fromis_9),ESFJ,3,val
 227782,Angelababy (Yeung Wing),ESFJ,3,train
-286321,Rogério Vilela,ESFJ,4,test
-62133,Anahí,ESFJ,3,test
+286321,Rogério Vilela,ESFJ,4,train
+62133,Anahí,ESFJ,3,train
 106798,Beyazıt Öztürk (Beyaz),ESFJ,4,train
-331934,Memo Aponte,ESFJ,4,train
+331934,Memo Aponte,ESFJ,4,val
 166774,Colleen Hoover,ESFJ,4,train
 48756,Rodrigo Faro,ESFJ,3,train
-116207,Burak Özdemir (CZN Burak),ESFJ,3,val
-235109,Jenni Rivera,ESFJ,4,train
+116207,Burak Özdemir (CZN Burak),ESFJ,3,train
+235109,Jenni Rivera,ESFJ,4,val
 4350,Hulk Hogan,ESFJ,4,train
 34259,Laura Marano,ESFJ,4,train
 500948,Darwin Núñez,ESFJ,4,train
@@ -918,13 +918,13 @@ id,name,four_letter,images_fetched,split
 202313,Álvaro Soler,ESFJ,4,train
 975185,Key Alves (BBB23),ESFJ,4,train
 261953,Abdelmadjid Tebboune,ESFJ,3,test
-16951,Melissa Benoist,ESFJ,4,test
+16951,Melissa Benoist,ESFJ,4,train
 322,William McKinley,ESFJ,3,train
 47811,Ana Maria Braga,ESFJ,4,train
 9230,Gerry Scotti (Virginio Scotti),ESFJ,4,train
-131769,Hyeri (Girl's Day),ESFJ,3,val
+131769,Hyeri (Girl's Day),ESFJ,3,train
 119564,Bomi (Apink),ESFJ,4,train
-13922,Catherine Zeta-Jones,ESFJ,4,val
+13922,Catherine Zeta-Jones,ESFJ,4,train
 20290,Idina Menzel,ESFJ,3,train
 48301,Sabrina Sato,ESFJ,4,train
 157049,Amadeus,ESFJ,2,train
@@ -934,12 +934,12 @@ id,name,four_letter,images_fetched,split
 73986,Amir Hossein Arman,ESFJ,4,val
 62871,McKayla Maroney,ESFJ,4,train
 35111,Nancy (MOMOLAND),ESFJ,4,train
-132038,Giorgio Chiellini,ESFJ,4,train
+132038,Giorgio Chiellini,ESFJ,4,test
 31770,Laura Pausini,ESFJ,4,train
 41006,Naomi Scott,ESFJ,4,train
 32735,Tite,ESFJ,4,train
 28480,Thalía,ESFJ,4,train
-427516,Neslihan Atagül,ESFJ,4,train
+427516,Neslihan Atagül,ESFJ,4,test
 116011,Fahrettin Koca,ESFJ,2,train
 14723,Daniel Cormier,ESFJ,4,train
 152862,Hanbin (TEMPEST),ESFJ,4,train
@@ -948,56 +948,56 @@ id,name,four_letter,images_fetched,split
 126010,Charles Melton,ESFJ,4,train
 230711,Tom Daley,ESFJ,4,train
 120483,Hiro Mashima,ESFJ,4,train
-48640,Laura Bailey,ESFJ,4,train
+48640,Laura Bailey,ESFJ,4,test
 15772,Holly Willoughby,ESFJ,4,train
-113737,Nicole Bahls,ESFJ,3,test
+113737,Nicole Bahls,ESFJ,3,train
 427963,Suhyeon (Billlie),ESFJ,4,train
 200655,Yoojung (OnlyOneOf),ESFJ,4,train
 23487,Anni-Frid Lyngstad,ESFJ,3,train
-48725,Mauricio de Sousa,ESFJ,4,train
-332,Franklin Pierce,ESFJ,4,test
+48725,Mauricio de Sousa,ESFJ,4,test
+332,Franklin Pierce,ESFJ,4,train
 10146,Drew Brees,ESFJ,4,train
-49946,Hebe Camargo,ESFJ,4,test
+49946,Hebe Camargo,ESFJ,4,train
 11933,Myra Hindley,ESFJ,4,train
 179633,Flordelis,ESFJ,4,train
-28413,Ashley (Ladies' Code),ESFJ,3,test
+28413,Ashley (Ladies' Code),ESFJ,3,train
 31828,LUNA,ESFJ,1,train
-71465,Priscilla (ex Alcântara),ESFJ,3,test
+71465,Priscilla (ex Alcântara),ESFJ,3,train
 40691,Eliana Bezerra (SBT),ESFJ,4,train
 95983,Ivy Moraes,ESFJ,3,train
-106791,Eunkwang (BTOB),ESFJ,4,val
-464410,Juria (XG),ESFJ,3,train
+106791,Eunkwang (BTOB),ESFJ,4,train
+464410,Juria (XG),ESFJ,3,test
 64348,Killa Hakan,ESFJ,4,train
 20274,Mirai Shida,ESFJ,4,train
 366249,Rebeca Andrade,ESFJ,4,train
-315888,Hayley Orrantia,ESFJ,4,val
-16713,Lana Condor,ESFJ,4,train
-22612,Sarah Jessica Parker,ESFJ,4,val
+315888,Hayley Orrantia,ESFJ,4,train
+16713,Lana Condor,ESFJ,4,val
+22612,Sarah Jessica Parker,ESFJ,4,train
 30432,Kate Hudson,ESFJ,4,train
 30490,Alyson Hannigan,ESFJ,4,train
 163117,Francisco Saavedra,ESFJ,4,train
 200366,Madison Cawthorn,ESFJ,4,train
 161088,Jaehee (Weeekly),ESFJ,4,train
 456370,Chanel,ESFJ,4,train
-47807,Grazi Massafera,ESFJ,4,train
+47807,Grazi Massafera,ESFJ,4,test
 47160,Shannon Sharpe,ESFJ,4,train
 53979,Elize Matsunaga,ESFJ,4,train
-45101,Luan Santana,ESFJ,4,train
-48431,Angela Kinsey,ESFJ,4,test
+45101,Luan Santana,ESFJ,4,val
+48431,Angela Kinsey,ESFJ,4,train
 58424,Eva Longoria,ESFJ,4,train
 55315,John Quiñones,ESFJ,4,train
-20311,Doutzen Kroes,ESFJ,4,val
+20311,Doutzen Kroes,ESFJ,4,train
 21095,Olivia Newton-John,ESFJ,4,train
 43534,Claudia Leitte,ESFJ,4,train
 288470,Wanessa Camargo,ESFJ,3,train
 35559,Claudio Bravo,ESFJ,4,train
-313638,Aka7ven (Luca Marzano),ESFJ,3,train
+313638,Aka7ven (Luca Marzano),ESFJ,3,val
 53317,Lena Meyer-Landrut,ESFJ,4,train
 163907,Nikolay Baskov,ESFJ,4,train
 22605,Kathy Bates,ESFJ,4,train
-242292,Piper Rockelle,ESFJ,4,train
+242292,Piper Rockelle,ESFJ,4,val
 33241,Meghan McCain,ESFJ,4,train
-400155,Raimondo Todaro,ESFJ,4,test
+400155,Raimondo Todaro,ESFJ,4,train
 2747,Katie Couric,ESFJ,4,train
 44,Cristiano Ronaldo,ESFP,4,train
 12938,Lisa (BLACKPINK),ESFP,4,train
@@ -1008,109 +1008,109 @@ id,name,four_letter,images_fetched,split
 5669,Wolfgang Amadeus Mozart,ESFP,4,train
 220296,Damiano David,ESFP,4,train
 11744,Mads Mikkelsen,ESFP,4,train
-7389,Shakira,ESFP,4,train
+7389,Shakira,ESFP,4,val
 312,John F. Kennedy,ESFP,4,train
-8917,Baekhyun (EXO),ESFP,3,train
+8917,Baekhyun (EXO),ESFP,3,val
 14348,Anitta,ESFP,4,train
-8828,Neymar Jr,ESFP,4,train
-24931,Haechan (NCT),ESFP,4,val
+8828,Neymar Jr,ESFP,4,val
+24931,Haechan (NCT),ESFP,4,train
 31877,Mingi (ATEEZ),ESFP,4,train
 10256,Joy (Red Velvet),ESFP,4,train
-25500,Florence Pugh,ESFP,4,test
+25500,Florence Pugh,ESFP,4,train
 26811,Shin Yuna (ITZY),ESFP,4,train
-33501,Jessi,ESFP,4,test
-4975,Pablo Picasso,ESFP,3,test
+33501,Jessi,ESFP,4,train
+4975,Pablo Picasso,ESFP,3,train
 217087,Karol Conká,ESFP,3,train
 529167,Hyein (NewJeans),ESFP,3,train
-18599,S.Coups (SEVENTEEN),ESFP,3,val
-17967,"Prince Harry, Duke of Sussex",ESFP,4,val
+18599,S.Coups (SEVENTEEN),ESFP,3,train
+17967,"Prince Harry, Duke of Sussex",ESFP,4,train
 2957,Muhammad Ali,ESFP,4,train
-74,Ronald Reagan,ESFP,4,train
+74,Ronald Reagan,ESFP,4,test
 72,Bill Clinton,ESFP,4,train
 284478,Victoria De Angelis,ESFP,4,train
 31885,Wooyoung (ATEEZ),ESFP,4,train
 11989,HyunA,ESFP,4,train
-195616,MC Poze Do Rodo,ESFP,3,train
+195616,MC Poze Do Rodo,ESFP,3,val
 404852,Mia Khalifa (Mia Callista),ESFP,3,train
 6160,Lilly Singh (¡¡Superwoman¡¡),ESFP,4,train
 99363,MORGENSHTERN,ESFP,4,train
 8618,Kevin Hart,ESFP,4,train
 29637,Berkcan Güven,ESFP,4,test
-3128,Amy Schumer,ESFP,4,train
-1052,Drew Barrymore,ESFP,4,train
-127152,Fedez,ESFP,4,train
+3128,Amy Schumer,ESFP,4,test
+1052,Drew Barrymore,ESFP,4,test
+127152,Fedez,ESFP,4,test
 19312,Nina Dobrev,ESFP,4,train
 31955,SuA (DREAMCATCHER),ESFP,4,train
 65723,Jojo Todynho,ESFP,4,train
-11033,James Franco,ESFP,4,train
-21389,Bobby (iKON),ESFP,4,val
+11033,James Franco,ESFP,4,val
+21389,Bobby (iKON),ESFP,4,train
 127219,Joshua Bassett,ESFP,4,train
 686,Jimmy Kimmel,ESFP,3,train
-9051,James Corden,ESFP,4,val
-472,Lindsay Lohan,ESFP,4,train
+9051,James Corden,ESFP,4,train
+472,Lindsay Lohan,ESFP,4,val
 33143,Bella Thorne,ESFP,4,train
 26327,Paulo Coelho,ESFP,4,train
 96848,Julia Fox,ESFP,4,train
 7495,Aileen Wuornos,ESFP,4,train
-55682,"Aziz Zyzz"" Shavershian""",ESFP,3,test
+55682,"Aziz Zyzz"" Shavershian""",ESFP,3,train
 24812,Choi Yena,ESFP,4,train
-273426,Instasamka,ESFP,3,test
+273426,Instasamka,ESFP,3,train
 10627,Ronaldinho,ESFP,4,train
 464,Shaquille “Shaq” O'Neal,ESFP,4,train
 73743,Gabriele D'Annunzio,ESFP,4,train
-195813,Camilo,ESFP,4,train
-58620,Elizabeth Taylor,ESFP,3,test
+195813,Camilo,ESFP,4,val
+58620,Elizabeth Taylor,ESFP,3,train
 28868,Luis Miguel,ESFP,4,train
 27169,Aaron Paul,ESFP,4,train
 19098,Barbara Palvin,ESFP,4,train
 28678,Choi Sooyoung (SNSD),ESFP,4,train
-192064,Faraón Love Shady,ESFP,4,test
-303979,Mc Hariel,ESFP,3,test
+192064,Faraón Love Shady,ESFP,4,train
+303979,Mc Hariel,ESFP,3,train
 16732,Noah Centineo,ESFP,4,train
 428555,Tsuki (Billlie),ESFP,4,train
-989,Vanessa Hudgens,ESFP,4,train
+989,Vanessa Hudgens,ESFP,4,test
 66595,EDP445,ESFP,4,train
 14118,Whindersson Nunes,ESFP,4,train
-40692,Pabllo Vittar,ESFP,4,train
+40692,Pabllo Vittar,ESFP,4,val
 143749,Kim Tae-ri,ESFP,4,train
 989495,Bruna Griphao,ESFP,4,train
-1058324,MC Pipokinha,ESFP,4,val
-102807,Alia Bhatt,ESFP,4,test
+1058324,MC Pipokinha,ESFP,4,train
+102807,Alia Bhatt,ESFP,4,train
 94262,Mata,ESFP,2,train
 13543,"Joey CoCo"" Diaz""",ESFP,4,train
 196935,Courtney Adanna (courtreezy),ESFP,3,train
 261323,Dayane Mello,ESFP,4,train
 90984,Moonbin (ASTRO),ESFP,4,train
-9648,Tonya Harding,ESFP,4,val
-4774,Floyd Mayweather Jr.,ESFP,4,val
-454820,Jiwoo (NMIXX),ESFP,4,test
-23161,Ross Lynch,ESFP,4,val
-9957,Evgenia Medvedeva,ESFP,4,train
+9648,Tonya Harding,ESFP,4,train
+4774,Floyd Mayweather Jr.,ESFP,4,train
+454820,Jiwoo (NMIXX),ESFP,4,train
+23161,Ross Lynch,ESFP,4,train
+9957,Evgenia Medvedeva,ESFP,4,test
 72064,Park Jiwon (fromis_9),ESFP,4,train
-61824,J Balvin,ESFP,4,train
-36795,Lele Pons,ESFP,4,train
+61824,J Balvin,ESFP,4,test
+36795,Lele Pons,ESFP,4,test
 129,Jamie Foxx,ESFP,4,train
 264390,Young Leosia,ESFP,4,train
 32203,Magda Gessler,ESFP,4,train
-95567,Brent Rivera,ESFP,4,train
+95567,Brent Rivera,ESFP,4,test
 20443,Cazuza,ESFP,3,train
-53496,MC Mirella,ESFP,4,val
-206667,Jack Grealish,ESFP,4,val
+53496,MC Mirella,ESFP,4,train
+206667,Jack Grealish,ESFP,4,train
 8480,Hugh Hefner,ESFP,4,train
-45155,Michael B. Jordan,ESFP,4,train
+45155,Michael B. Jordan,ESFP,4,val
 391,Serena Williams,ESFP,4,train
 50585,Brittany Murphy,ESFP,4,train
-147389,Marjorie Taylor Greene,ESFP,4,val
+147389,Marjorie Taylor Greene,ESFP,4,train
 36535,Courtney Miller (Smosh),ESFP,4,train
-72397,Wang Yiren (EVERGLOW),ESFP,4,test
-1009,Cameron Diaz,ESFP,4,train
-40687,Xuxa Meneghel,ESFP,4,train
-74088,Chlöe,ESFP,4,val
+72397,Wang Yiren (EVERGLOW),ESFP,4,train
+1009,Cameron Diaz,ESFP,4,test
+40687,Xuxa Meneghel,ESFP,4,test
+74088,Chlöe,ESFP,4,test
 36639,Drake Bell,ESFP,4,train
 9861,Guy Fieri,ESFP,3,train
 237635,Mángel Caravantes (Sailorfag),ESFP,4,train
 203196,Egor Kreed,ESFP,3,train
-198883,Lali Espósito,ESFP,3,test
+198883,Lali Espósito,ESFP,3,train
 44673,Tom Ellis,ESFP,4,train
 156930,Omar Rudberg,ESFP,4,train
 84312,Travis Kelce,ESFP,4,train
@@ -1124,19 +1124,19 @@ id,name,four_letter,images_fetched,split
 26388,Park Jeongwoo (TREASURE),ESFP,3,train
 45412,Son Dongpyo (MIRAE),ESFP,4,train
 49,Earvin “Magic” Johnson,ESFP,4,train
-72404,JAMIE (Jimin Park),ESFP,4,train
+72404,JAMIE (Jimin Park),ESFP,4,val
 6614,Shawn Michaels,ESFP,4,train
 63643,Ana Clara Lima (BBB18),ESFP,4,train
 35281,Maluma,ESFP,4,train
-35044,Chris Cuomo,ESFP,4,train
-18313,Tyson Fury,ESFP,4,val
+35044,Chris Cuomo,ESFP,4,test
+18313,Tyson Fury,ESFP,4,train
 6477,Jamie Oliver,ESFP,4,train
-76616,Choi Yoojung (Weki Meki),ESFP,4,val
-95982,Daniel Lenhardt,ESFP,4,val
-136917,Berat Albayrak,ESFP,4,train
+76616,Choi Yoojung (Weki Meki),ESFP,4,test
+95982,Daniel Lenhardt,ESFP,4,train
+136917,Berat Albayrak,ESFP,4,val
 2787,Richard Branson,ESFP,3,train
 43379,Júlio Cocielo,ESFP,3,train
-109017,Machaizelli (MacDoesIt),ESFP,4,test
+109017,Machaizelli (MacDoesIt),ESFP,4,train
 34493,Rebel Wilson,ESFP,4,train
 131783,Cha Woongki,ESFP,4,train
 49434,"Princess Margaret, Countess of Snowdon",ESFP,3,train
@@ -1144,24 +1144,24 @@ id,name,four_letter,images_fetched,split
 74163,Glória Groove,ESFP,4,train
 22048,Draymond Green,ESFP,4,train
 60721,Úrsula Corberó,ESFP,4,train
-199348,Leia (BLACKSWAN),ESFP,4,train
-34006,Kim Petras,ESFP,3,train
+199348,Leia (BLACKSWAN),ESFP,4,test
+34006,Kim Petras,ESFP,3,val
 756351,Gemini Norawit Titicharoenrak,ESFP,4,train
 25380,Seunghee (OH MY GIRL),ESFP,4,train
-66072,Hiro Shimono,ESFP,4,train
-19924,Bill Cosby,ESFP,4,test
+66072,Hiro Shimono,ESFP,4,val
+19924,Bill Cosby,ESFP,4,train
 11926,Anna Nicole Smith,ESFP,4,train
-72647,Lee Mijoo (Lovelyz),ESFP,4,train
+72647,Lee Mijoo (Lovelyz),ESFP,4,test
 187823,Lee Hyori,ESFP,4,train
 49424,MC Melody,ESFP,3,train
 396197,Ariana Greenblatt,ESFP,4,train
 111562,Lee Jae-wook,ESFP,4,train
-45122,Ludmilla,ESFP,3,train
+45122,Ludmilla,ESFP,3,val
 40534,John Wilkes Booth,ESFP,4,train
 152883,Taki (&Team),ESFP,4,train
 62139,Karol G,ESFP,4,train
-90241,Cyril Hanouna,ESFP,4,train
-15716,Ricky Martin,ESFP,4,val
+90241,Cyril Hanouna,ESFP,4,test
+15716,Ricky Martin,ESFP,4,train
 160368,Abdulaziz Bakr (The Saudi Reporters),ESFP,4,train
 444735,KERKIKERK,ESFP,3,train
 37913,Gabriel Iglesias,ESFP,4,train
@@ -1169,55 +1169,55 @@ id,name,four_letter,images_fetched,split
 568123,Rodrigo de Paul,ESFP,3,train
 109226,Alena Kostornaia,ESFP,4,train
 352063,BLANCO (Riccardo Fabbriconi),ESFP,4,train
-8842,Chris Farley,ESFP,4,test
+8842,Chris Farley,ESFP,4,train
 25806,Channing Tatum,ESFP,4,train
 582034,Alizade,ESFP,3,train
 46411,Gretchen Miranda,ESFP,4,train
-131504,Emily Skinner,ESFP,4,train
-56227,Bert Kreischer,ESFP,4,train
+131504,Emily Skinner,ESFP,4,val
+56227,Bert Kreischer,ESFP,4,val
 251417,Jake Angeli,ESFP,4,train
 464405,Chisa (XG),ESFP,3,train
-40181,David Guetta,ESFP,4,test
+40181,David Guetta,ESFP,4,train
 52424,Sabina Hidalgo (Now United),ESFP,3,train
 315985,Alfredo Adame,ESFP,4,train
 38879,Paul Pogba,ESFP,4,train
 65573,"Gabriel Barbosa Gabigol""""",ESFP,4,train
 277744,Matthew Lillard,ESFP,4,train
 822200,George Santos,ESFP,4,train
-33261,Deontay Wilder,ESFP,4,train
-71296,Dayoung (WJSN),ESFP,3,test
-131823,Yousef Erakat (fouseyTUBE),ESFP,4,test
-69942,Ranveer Singh,ESFP,3,train
+33261,Deontay Wilder,ESFP,4,test
+71296,Dayoung (WJSN),ESFP,3,train
+131823,Yousef Erakat (fouseyTUBE),ESFP,4,train
+69942,Ranveer Singh,ESFP,3,test
 194845,Madison Bailey,ESFP,4,train
 214541,Ja Morant,ESFP,4,train
 27853,Arturo Vidal,ESFP,3,train
-325774,Elena-Kristina Lebed (Елена-Кристина Лебедь),ESFP,4,val
-68898,Seunghun (CIX),ESFP,3,train
+325774,Elena-Kristina Lebed (Елена-Кристина Лебедь),ESFP,4,train
+68898,Seunghun (CIX),ESFP,3,val
 279526,Alla Pugacheva,ESFP,4,train
 11216,Charles Ross (Vlog Creations),ESFP,3,train
 151411,Alfred Douglas,ESFP,3,val
 8714,Ric Flair,ESFP,4,train
 423577,Virat Kohli,ESFP,4,val
-455533,Pablo Marçal,ESFP,4,test
-4683,Gordon Ramsay,ESTJ,4,val
-588,Emma Watson,ESTJ,3,val
-26713,"Soyeon, (G)I-DLE",ESTJ,4,val
-20603,Park Jihyo (TWICE),ESTJ,4,train
-7523,Recep Tayyip Erdoğan,ESTJ,4,test
+455533,Pablo Marçal,ESFP,4,val
+4683,Gordon Ramsay,ESTJ,4,train
+588,Emma Watson,ESTJ,3,train
+26713,"Soyeon, (G)I-DLE",ESTJ,4,train
+20603,Park Jihyo (TWICE),ESTJ,4,test
+7523,Recep Tayyip Erdoğan,ESTJ,4,train
 6654,Michelle Obama,ESTJ,4,train
 25382,Doyoung (NCT),ESTJ,3,train
-2062,Judge Judy,ESTJ,4,train
-529168,Minji (NewJeans),ESTJ,4,test
+2062,Judge Judy,ESTJ,4,val
+529168,Minji (NewJeans),ESTJ,4,val
 2063,Phil McGraw (Dr. Phil),ESTJ,4,train
 20617,Kim Lip (ARTMS),ESTJ,4,train
 42,Tom Brady,ESTJ,4,train
-6764,Ali Khamenei,ESTJ,4,val
+6764,Ali Khamenei,ESTJ,4,train
 24977,Dino (SEVENTEEN),ESTJ,4,train
 28680,Jessica Jung,ESTJ,3,train
 2185,Ted Cruz,ESTJ,4,train
-259410,Andrew Huberman,ESTJ,1,train
+259410,Andrew Huberman,ESTJ,1,val
 425663,Haewon (NMIXX),ESTJ,4,train
-64091,Mansur Yavaş,ESTJ,4,val
+64091,Mansur Yavaş,ESTJ,4,train
 419926,Kooleen,ESTJ,3,train
 2488,Uma Thurman,ESTJ,4,train
 5618,Chris Hansen,ESTJ,4,train
@@ -1231,11 +1231,11 @@ id,name,four_letter,images_fetched,split
 37550,Devin James Stone (LegalEagle),ESTJ,4,train
 299371,Fernanda Concon,ESTJ,3,train
 35838,Luciano Huck,ESTJ,3,train
-2723,Kevin O'Leary,ESTJ,4,train
+2723,Kevin O'Leary,ESTJ,4,test
 34267,Berlin Edmond (Berleezy),ESTJ,4,train
-2225,Heidi Klum,ESTJ,3,train
-12476,Priyanka Chopra Jonas,ESTJ,4,test
-18588,Hwang Minhyun (NU'EST),ESTJ,4,test
+2225,Heidi Klum,ESTJ,3,val
+12476,Priyanka Chopra Jonas,ESTJ,4,train
+18588,Hwang Minhyun (NU'EST),ESTJ,4,train
 217180,Sieun (STAYC),ESTJ,4,train
 35431,Ron DeSantis,ESTJ,4,train
 35058,Alex Ferguson,ESTJ,3,train
@@ -1246,75 +1246,75 @@ id,name,four_letter,images_fetched,split
 985,Larry King,ESTJ,4,train
 98731,Tiffany Pollard,ESTJ,4,train
 11584,Ana Kasparian,ESTJ,3,train
-152861,K (&Team),ESTJ,4,val
+152861,K (&Team),ESTJ,4,train
 82759,Kaitlin Bennett,ESTJ,4,train
-70758,Najwa Shihab,ESTJ,3,val
+70758,Najwa Shihab,ESTJ,3,train
 100540,Atila Iamarino (Nerdologia),ESTJ,4,train
 72942,Virgil van Dijk,ESTJ,4,train
 9673,John Wayne,ESTJ,4,train
-11964,Bette Davis,ESTJ,4,train
-10151,Bill O'Reilly,ESTJ,4,val
+11964,Bette Davis,ESTJ,4,test
+10151,Bill O'Reilly,ESTJ,4,train
 17927,Megyn Kelly,ESTJ,4,train
 49116,Courteney Cox,ESTJ,4,train
 44046,Joe Bastianich,ESTJ,4,train
-136652,Ceren Sungur,ESTJ,4,val
+136652,Ceren Sungur,ESTJ,4,train
 14948,Ann Coulter,ESTJ,4,train
 29605,Melinda Gates,ESTJ,3,train
-830134,Park Hanbin (EVNNE),ESTJ,4,train
+830134,Park Hanbin (EVNNE),ESTJ,4,test
 509200,Eslen Delanogare,ESTJ,4,train
-153275,Dave Ramsey,ESTJ,4,train
+153275,Dave Ramsey,ESTJ,4,val
 2224,Cindy Crawford,ESTJ,4,train
-34022,Lucy Liu,ESTJ,3,val
+34022,Lucy Liu,ESTJ,3,train
 33149,Kellyanne Conway,ESTJ,4,train
-67505,Jorge Jesus,ESTJ,4,train
+67505,Jorge Jesus,ESTJ,4,val
 35749,Jimmy Butler,ESTJ,4,val
-33502,Donald Trump Jr.,ESTJ,3,train
+33502,Donald Trump Jr.,ESTJ,3,val
 8825,Maria Sharapova,ESTJ,4,train
 16350,El Chapo,ESTJ,4,train
-50518,Luiz Carlos Alborghetti,ESTJ,4,val
-48442,'Craque' Neto,ESTJ,4,train
+50518,Luiz Carlos Alborghetti,ESTJ,4,train
+48442,'Craque' Neto,ESTJ,4,test
 62758,Michael Bisping,ESTJ,4,train
-45953,Martha Stewart,ESTJ,4,train
+45953,Martha Stewart,ESTJ,4,test
 14852,Tomi Lahren,ESTJ,3,train
 158002,Karol Sevilla,ESTJ,4,train
 19517,Richard Kuklinski,ESTJ,4,val
 5646,Lindsey Graham,ESTJ,4,train
 341,James Monroe,ESTJ,3,train
 43,Peyton Manning,ESTJ,4,train
-143661,Mehmet Yalçınkaya,ESTJ,3,train
-33465,Amy Klobuchar,ESTJ,4,test
-45153,Ratinho (Little Mouse),ESTJ,4,test
+143661,Mehmet Yalçınkaya,ESTJ,3,val
+33465,Amy Klobuchar,ESTJ,4,train
+45153,Ratinho (Little Mouse),ESTJ,4,train
 11669,Nikki Haley,ESTJ,4,train
 203086,Ilya Varlamov,ESTJ,3,train
 9645,Jenna Moreci,ESTJ,4,train
 72933,Rachel Sheherazade,ESTJ,4,train
-20559,"Scott Morrison ScoMo""""",ESTJ,3,train
+20559,"Scott Morrison ScoMo""""",ESTJ,3,val
 29507,Katie Hopkins,ESTJ,4,train
-94879,Bruno Fernandes,ESTJ,4,train
-15886,Dean Martin,ESTJ,4,test
-137077,Süleyman Soylu,ESTJ,4,val
+94879,Bruno Fernandes,ESTJ,4,test
+15886,Dean Martin,ESTJ,4,val
+137077,Süleyman Soylu,ESTJ,4,train
 64615,Risto Mejide,ESTJ,4,train
-323,Grover Cleveland,ESTJ,4,train
+323,Grover Cleveland,ESTJ,4,val
 207577,Gabriela Bailas (Física e Afins),ESTJ,4,train
 27747,Katherine Heigl,ESTJ,4,train
 8805,Steve Ballmer,ESTJ,3,train
 49214,Joan Crawford,ESTJ,4,train
-157048,Carlo Conti,ESTJ,4,test
-19876,Donald Rumsfeld,ESTJ,2,val
-106383,Diego Simeone,ESTJ,4,test
+157048,Carlo Conti,ESTJ,4,train
+19876,Donald Rumsfeld,ESTJ,2,train
+106383,Diego Simeone,ESTJ,4,val
 302614,Alessandra Celentano,ESTJ,3,train
 11966,Dick Van Dyke,ESTJ,4,train
 74191,Gary Neville,ESTJ,4,train
 71841,Arturo Pérez Reverte,ESTJ,4,train
-13165,Sean Hannity,ESTJ,4,test
-227781,Yang Mi,ESTJ,4,val
+13165,Sean Hannity,ESTJ,4,train
+227781,Yang Mi,ESTJ,4,train
 129666,Halide Edip Adıvar,ESTJ,4,train
 652,Tom Clancy,ESTJ,4,train
 11585,Chris Christie,ESTJ,4,train
 143382,Suge Knight,ESTJ,4,test
 100930,Yolanda Hadid/Foster,ESTJ,4,train
-46985,Sonia Sotomayor,ESTJ,3,train
-136069,Philippe Etchebest,ESTJ,4,train
+46985,Sonia Sotomayor,ESTJ,3,val
+136069,Philippe Etchebest,ESTJ,4,test
 37473,Queen Letizia of Spain,ESTJ,4,train
 257924,Jen Psaki,ESTJ,4,train
 359666,Abu Ubaidah (أبو عبيدة),ESTJ,4,train
@@ -1325,16 +1325,16 @@ id,name,four_letter,images_fetched,split
 2064,Nancy Grace,ESTJ,4,train
 20087,Shirley Temple,ESTJ,4,train
 34341,Takuya Kimura,ESTJ,4,train
-297519,Young Don The Sauce God (Donald Hinds),ESTJ,4,train
+297519,Young Don The Sauce God (Donald Hinds),ESTJ,4,val
 227079,Cem Toker,ESTJ,4,train
-146075,Maggie Cheung,ESTJ,4,test
+146075,Maggie Cheung,ESTJ,4,train
 54317,Frederick Winslow Taylor,ESTJ,3,train
 33412,David Duke,ESTJ,4,train
 88492,Antonio Conte,ESTJ,4,train
-22570,Malcolm McDowell,ESTJ,4,train
+22570,Malcolm McDowell,ESTJ,4,val
 48466,Luana Piovani,ESTJ,4,train
 129651,Doğu Perinçek,ESTJ,4,train
-252722,Kaja Godek,ESTJ,4,test
+252722,Kaja Godek,ESTJ,4,train
 48754,Datena,ESTJ,4,train
 154174,Angel Ganev,ESTJ,4,train
 22637,Angela Lansbury,ESTJ,4,train
@@ -1342,21 +1342,21 @@ id,name,four_letter,images_fetched,split
 23260,Stephanie McMahon,ESTJ,4,train
 193223,Tati Quebra-Barraco,ESTJ,4,train
 41441,Laura Bozzo,ESTJ,4,train
-75077,Dieter Bohlen,ESTJ,4,test
+75077,Dieter Bohlen,ESTJ,4,val
 151950,Christina Rocha,ESTJ,3,train
-190510,Rudy Zerbi,ESTJ,4,test
+190510,Rudy Zerbi,ESTJ,4,train
 20378,Tamerlan Tsarnaev,ESTJ,4,train
 306627,Princess Mako of Japan,ESTJ,4,train
-11707,Ron Perlman,ESTJ,3,train
+11707,Ron Perlman,ESTJ,3,test
 141351,Cathy Newman,ESTJ,4,train
-33123,Sarah Huckabee Sanders,ESTJ,3,test
+33123,Sarah Huckabee Sanders,ESTJ,3,val
 160685,Alberto Chicote,ESTJ,4,train
 33771,Bushido,ESTJ,3,train
 133065,Jim Cornette,ESTJ,4,train
 9679,Jenny McCarthy,ESTJ,4,train
 49114,Rogério Ceni,ESTJ,4,train
 48299,Joseph James DeAngelo (The Golden State Killer),ESTJ,4,train
-14947,Laura Ingraham,ESTJ,4,test
+14947,Laura Ingraham,ESTJ,4,train
 33118,Jeanine Pirro,ESTJ,4,train
 496623,Renat Agzamov,ESTJ,3,train
 39819,Spechie,ESTJ,4,val
@@ -1366,69 +1366,69 @@ id,name,four_letter,images_fetched,split
 449080,Serena Carella,ESTJ,3,train
 260980,Evandro Guedes,ESTJ,4,train
 63087,Saagar Enjeti,ESTJ,4,train
-36090,John Bolton,ESTJ,4,val
-202847,Kinga Spyra (Blondynki Też Grają),ESTJ,3,val
+36090,John Bolton,ESTJ,4,train
+202847,Kinga Spyra (Blondynki Też Grają),ESTJ,3,train
 436675,Logan (Matemática em Evidência),ESTJ,4,train
-531649,Maryam Amirjalali,ESTJ,4,train
+531649,Maryam Amirjalali,ESTJ,4,test
 124113,Fabio Akita,ESTJ,4,train
-95261,Iliza Schlesinger,ESTJ,4,train
-458974,陈睿 (Chen Rui),ESTJ,4,test
+95261,Iliza Schlesinger,ESTJ,4,test
+458974,陈睿 (Chen Rui),ESTJ,4,train
 280859,"Jacob Rothschild, 4th Baron Rothschild",ESTJ,3,train
 119390,Peter R. de Vries,ESTJ,4,train
 496626,Konstantin Ivlev,ESTJ,4,train
 22613,Kiefer Sutherland,ESTJ,4,train
 124039,Giovanni Storti,ESTJ,4,train
 344864,Burcu Özberk,ESTJ,4,train
-61173,Leah Remini,ESTJ,3,train
-35888,Kelsey Grammer,ESTJ,4,test
+61173,Leah Remini,ESTJ,3,test
+35888,Kelsey Grammer,ESTJ,4,train
 39363,Gennaro Gattuso,ESTJ,4,train
-144185,Brandi Love,ESTJ,4,train
-268353,Feyza Altun,ESTJ,4,train
+144185,Brandi Love,ESTJ,4,test
+268353,Feyza Altun,ESTJ,4,test
 67210,Sean Spicer,ESTJ,4,train
-33688,Adam Schiff,ESTJ,3,train
+33688,Adam Schiff,ESTJ,3,test
 87812,Robert Irvine,ESTJ,4,train
 136783,Jinny (Secret Number),ESTJ,3,train
 138578,Kim Junsu,ESTJ,4,train
-123350,Canan Karatay,ESTJ,4,test
+123350,Canan Karatay,ESTJ,4,train
 49506,Joe Jackson,ESTJ,4,train
 30446,Jeremy Kyle,ESTJ,4,train
 194804,Stephanie Lazarus,ESTJ,4,train
 283847,Irma Grese,ESTJ,3,train
 2709,Marcus Lemonis,ESTJ,4,train
-165137,Winnie Harlow,ESTJ,4,train
-33222,Rocky Marciano,ESTJ,4,train
-351178,Señor Santo (El Santo de MIGALA),ESTJ,4,train
-121853,Al Ghazali,ESTJ,4,val
+165137,Winnie Harlow,ESTJ,4,test
+33222,Rocky Marciano,ESTJ,4,test
+351178,Señor Santo (El Santo de MIGALA),ESTJ,4,test
+121853,Al Ghazali,ESTJ,4,test
 449,Donald Trump,ESTP,4,train
-14643,Amber Heard,ESTP,4,test
-96,Tom Cruise,ESTP,4,train
+14643,Amber Heard,ESTP,4,train
+96,Tom Cruise,ESTP,4,val
 25003,Kylian Mbappé,ESTP,4,train
-152870,Jake (ENHYPEN),ESTP,4,train
-1001,Angelina Jolie,ESTP,4,test
+152870,Jake (ENHYPEN),ESTP,4,test
+1001,Angelina Jolie,ESTP,4,val
 1861,Dwayne “The Rock” Johnson,ESTP,4,train
 26714,"Yuqi, (G)I-DLE",ESTP,4,train
 28433,Seo Changbin (Stray Kids),ESTP,4,train
-6865,Conor McGregor,ESTP,4,train
-71,George W. Bush,ESTP,4,train
+6865,Conor McGregor,ESTP,4,test
+71,George W. Bush,ESTP,4,test
 9715,Richard Ramirez,ESTP,4,train
-1585,Zlatan Ibrahimovic,ESTP,4,train
+1585,Zlatan Ibrahimovic,ESTP,4,test
 42437,Jeffrey Epstein,ESTP,4,train
 1733,Alfred Hitchcock,ESTP,4,train
 24936,Chenle (NCT),ESTP,3,train
-24934,Yuta (NCT),ESTP,4,train
+24934,Yuta (NCT),ESTP,4,val
 24935,Lucas,ESTP,4,train
 11078,Diego Maradona,ESTP,4,train
 6309,Ernest Hemingway,ESTP,4,train
 321,Theodore Roosevelt,ESTP,4,train
 1034,Chris Hemsworth,ESTP,4,train
-9737,Jason Momoa,ESTP,4,test
+9737,Jason Momoa,ESTP,4,train
 20614,YeoJin (Loossemble),ESTP,4,train
-211788,Keeho (P1Harmony),ESTP,4,train
+211788,Keeho (P1Harmony),ESTP,4,test
 5223,Pablo Escobar,ESTP,4,train
-24813,Yujin (IVE),ESTP,4,test
-779,Ben Affleck,ESTP,4,val
+24813,Yujin (IVE),ESTP,4,train
+779,Ben Affleck,ESTP,4,train
 7101,Novak Djokovic,ESTP,4,train
-1745,Mila Kunis,ESTP,4,test
+1745,Mila Kunis,ESTP,4,train
 24685,Danilo Gentili,ESTP,4,train
 31966,Moonbyul (MAMAMOO),ESTP,4,train
 29442,Oscar Isaac,ESTP,3,train
@@ -1444,61 +1444,61 @@ id,name,four_letter,images_fetched,split
 8946,BamBam (GOT7),ESTP,4,train
 11599,Anthony Mackie,ESTP,4,train
 31901,Minhyuk (MONSTA X),ESTP,4,train
-8847,Kevin Spacey,ESTP,3,test
+8847,Kevin Spacey,ESTP,3,train
 1000,Sir Arthur Conan Doyle,ESTP,3,train
-195197,Sungchan (RIIZE),ESTP,4,val
-11079,Pelé,ESTP,4,train
+195197,Sungchan (RIIZE),ESTP,4,train
+11079,Pelé,ESTP,4,val
 4145,Al Capone,ESTP,4,train
 20437,Mark Cuban,ESTP,3,train
 10150,Cenk Uygur,ESTP,3,train
 3068,Charlie Sheen,ESTP,4,train
 33195,"Prince Philip, Duke of Edinburgh",ESTP,3,train
-15382,Gerard Piqué,ESTP,4,val
+15382,Gerard Piqué,ESTP,4,train
 355587,"Emiliano Dibu"" Martínez""",ESTP,4,train
 36868,Luísa Sonza,ESTP,3,train
-64152,Deddy Corbuzier,ESTP,4,val
-15958,Silvio Santos (Senor Abravanel),ESTP,4,test
-339,Andrew Jackson,ESTP,4,train
+64152,Deddy Corbuzier,ESTP,4,train
+15958,Silvio Santos (Senor Abravanel),ESTP,4,train
+339,Andrew Jackson,ESTP,4,val
 9109,Jon Bernthal,ESTP,4,train
 574609,Yevgeny Prigozhin,ESTP,4,train
 57935,Aisha (EVERGLOW),ESTP,4,train
 13051,Mark Wahlberg,ESTP,3,train
 50206,"Camilla, Queen of the United Kingdom",ESTP,4,train
-2188,John McCain,ESTP,4,val
-28677,Hyoyeon (SNSD),ESTP,4,train
+2188,John McCain,ESTP,4,train
+28677,Hyoyeon (SNSD),ESTP,4,val
 35640,Caleb McLaughlin,ESTP,4,train
-11998,Eddie Murphy,ESTP,4,test
+11998,Eddie Murphy,ESTP,4,train
 3227,Idris Elba,ESTP,3,train
 26956,SinB (GFRIEND/VIVIZ),ESTP,2,val
 127693,Ramez Galal,ESTP,3,test
-120604,Jay Park,ESTP,3,val
+120604,Jay Park,ESTP,3,train
 5091,O.J. Simpson,ESTP,4,train
 447575,Sean Strickland,ESTP,4,train
 318387,Sedat Peker,ESTP,4,train
 316238,Rosa Chemical,ESTP,4,train
 8719,"Stone Cold"" Steve Austin""",ESTP,4,train
 78112,Everson Zoio,ESTP,4,train
-332481,Ebrar Karakurt,ESTP,3,train
-20287,Milla Jovovich,ESTP,4,train
-16697,KJ Apa,ESTP,4,train
+332481,Ebrar Karakurt,ESTP,3,test
+20287,Milla Jovovich,ESTP,4,test
+16697,KJ Apa,ESTP,4,val
 128163,Any Gabrielly (Now United),ESTP,4,train
 30199,Brenton Tarrant,ESTP,4,train
-68767,Cem Uzan,ESTP,4,val
+68767,Cem Uzan,ESTP,4,train
 56617,Robert Kiyosaki,ESTP,4,train
 161091,Monday (Weeekly),ESTP,4,train
 214683,Juliana Caetano (Bonde do Forró),ESTP,4,train
 21598,Lee Seung-hyun (Seungri),ESTP,4,train
 240838,Rhea Ripley,ESTP,4,val
-276609,DK,ESTP,2,train
+276609,DK,ESTP,2,val
 41810,Rafinha Bastos,ESTP,4,train
 280018,Yan Lapotkov (Toples),ESTP,3,train
 9840,Jordan Belfort,ESTP,3,train
 62640,William Jonathan Lenney (WillNE),ESTP,4,train
 14298,Alexa Bliss,ESTP,4,train
 48962,Dale Carnegie,ESTP,3,train
-20434,Alexandra Daddario,ESTP,4,train
+20434,Alexandra Daddario,ESTP,4,test
 37912,Nick Kyrgios,ESTP,4,train
-47400,Andressa Urach,ESTP,4,test
+47400,Andressa Urach,ESTP,4,train
 364151,Rayssa Leal,ESTP,4,train
 3151,Matt LeBlanc,ESTP,4,train
 198041,Khamzat Chimaev,ESTP,4,train
@@ -1510,92 +1510,92 @@ id,name,four_letter,images_fetched,split
 319175,Kanika Batra,ESTP,3,train
 94823,Sikêra Júnior,ESTP,4,train
 143659,Somer Sivrioğlu,ESTP,3,train
-12475,Salman Khan,ESTP,4,test
+12475,Salman Khan,ESTP,4,train
 140000,Lil Masti (Aniela Bogusz),ESTP,4,train
 157766,Filipe Ret,ESTP,4,train
 142899,Chaeyoung (fromis_9),ESTP,4,train
 16070,Daddy Yankee,ESTP,4,train
 629706,Cho Gue-sung,ESTP,4,train
-1097578,Nicholas Stewart (Jynxzi),ESTP,4,train
-152153,Wojciech Cejrowski,ESTP,4,val
+1097578,Nicholas Stewart (Jynxzi),ESTP,4,test
+152153,Wojciech Cejrowski,ESTP,4,train
 97190,Taylor Lautner,ESTP,4,train
 25381,Gong Jiho (OH MY GIRL),ESTP,4,train
-18595,Ha Sungwoon,ESTP,4,val
-52426,Joalin Loukamaa,ESTP,3,val
+18595,Ha Sungwoon,ESTP,4,train
+52426,Joalin Loukamaa,ESTP,3,train
 433174,Ohm Pawat Chittsawangdee,ESTP,4,train
 161454,"Prince Andrew, Duke of York",ESTP,3,train
 7496,Karla Homolka,ESTP,4,train
-29860,Lucille Ball,ESTP,4,val
+29860,Lucille Ball,ESTP,4,train
 107703,Francisco Lachowski,ESTP,4,train
 433,William Shatner,ESTP,4,train
-685,Jay Leno,ESTP,2,test
-298383,Nusret Gökçe (Salt Bae),ESTP,4,train
+685,Jay Leno,ESTP,2,train
+298383,Nusret Gökçe (Salt Bae),ESTP,4,val
 183449,Hasan Can Kaya,ESTP,4,train
-118226,Fatih Terim,ESTP,4,train
+118226,Fatih Terim,ESTP,4,test
 167804,Anushka Sharma,ESTP,4,train
 131506,Oliver Phelps,ESTP,4,train
 44704,Dean Norris,ESTP,3,train
-22503,Guy Ritchie,ESTP,4,val
-146961,Colby Covington,ESTP,4,test
+22503,Guy Ritchie,ESTP,4,train
+146961,Colby Covington,ESTP,4,train
 43930,Hyolyn (SISTAR),ESTP,4,train
 512474,Bada Lee (choreographer),ESTP,4,train
 34539,Gerard Butler,ESTP,3,train
-11699,Gérard Depardieu,ESTP,4,train
+11699,Gérard Depardieu,ESTP,4,val
 282720,Nastya Ivleeva,ESTP,4,train
 72485,Jorge Masvidal,ESTP,4,train
 19422,Judi Dench,ESTP,3,train
-19305,Ashley Benson,ESTP,4,train
+19305,Ashley Benson,ESTP,4,val
 48610,Dennis Hopper,ESTP,4,train
 34007,Bernie Madoff,ESTP,4,train
-9002,"Eddie The Beast"" Hall""",ESTP,4,train
-121891,Aras Bulut İynemli,ESTP,4,val
-144861,Can Yaman,ESTP,3,train
+9002,"Eddie The Beast"" Hall""",ESTP,4,val
+121891,Aras Bulut İynemli,ESTP,4,train
+144861,Can Yaman,ESTP,3,val
 119923,Kim Taeyoung (CRAVITY),ESTP,4,train
 18648,Shindong (Super Junior),ESTP,4,train
-390890,İrem Derici,ESTP,4,train
-229122,Moria Casán,ESTP,3,val
+390890,İrem Derici,ESTP,4,val
+229122,Moria Casán,ESTP,3,train
 331,James Buchanan,ESTP,4,train
-33444,Tim Allen,ESTP,4,test
-148434,Daniel Alves,ESTP,4,val
+33444,Tim Allen,ESTP,4,train
+148434,Daniel Alves,ESTP,4,train
 71297,Yeonjung (WJSN),ESTP,3,train
 137133,Khontkar,ESTP,4,train
 44561,Rumiko Takahashi,ESTP,3,train
 14709,Ali Wong,ESTP,3,train
-49423,MC Carol,ESTP,3,train
+49423,MC Carol,ESTP,3,val
 12140,Ilhoon,ESTP,4,train
-73972,Mohammad Reza Golzar,ESTP,4,train
-282737,Theo Becker,ESTP,4,train
+73972,Mohammad Reza Golzar,ESTP,4,test
+282737,Theo Becker,ESTP,4,test
 30987,Edge,ESTP,4,train
 8718,"Macho Man"" Randy Savage""",ESTP,4,train
-48641,Travis Willingham,ESTP,4,train
+48641,Travis Willingham,ESTP,4,test
 48587,Romário,ESTP,4,train
 31907,Byeongkwan (A.C.E),ESTP,4,train
-103859,Peniel (BTOB),ESTP,4,train
+103859,Peniel (BTOB),ESTP,4,test
 474198,Shane Gillis,ESTP,4,train
-20849,Michelle Rodriguez,ESTP,4,train
+20849,Michelle Rodriguez,ESTP,4,val
 2289,Bernard Tapie,ESTP,4,train
 199438,Grant Cardone,ESTP,4,train
 133911,Dawon (SF9),ESTP,4,train
-11698,Vincent Cassel,ESTP,4,train
-53648,Karl Urban,ESTP,4,val
-11186,Asuka,ESTP,4,test
-181210,Finn Wittrock,ESTP,4,test
+11698,Vincent Cassel,ESTP,4,test
+53648,Karl Urban,ESTP,4,test
+11186,Asuka,ESTP,4,val
+181210,Finn Wittrock,ESTP,4,val
 9714,Paul Bernardo,ESTP,3,train
 335618,Maxim Martsinkevich (Tesak),ESTP,4,train
-24454,Bobby Flay,ESTP,4,val
+24454,Bobby Flay,ESTP,4,train
 45411,Lee Hangyul (BAE173),ESTP,4,train
-66026,Salmo (Maurizio Pisciottu),ESTP,4,test
+66026,Salmo (Maurizio Pisciottu),ESTP,4,train
 102646,Kleber Bambam,ESTP,3,train
-347672,Kevin Levrone,ESTP,3,test
-332153,Afra Saraçoğlu,ESTP,3,train
-193893,Isabella Yun-Mi Guzmán,ESTP,4,test
+347672,Kevin Levrone,ESTP,3,train
+332153,Afra Saraçoğlu,ESTP,3,test
+193893,Isabella Yun-Mi Guzmán,ESTP,4,train
 41827,Matt Gaetz,ESTP,4,train
 149978,Trueno,ESTP,4,train
 126618,Susana Vieira,ESTP,4,train
 120343,Maxwell Jacob Friedman,ESTP,4,train
-125552,Nego do Borel,ESTP,4,train
+125552,Nego do Borel,ESTP,4,test
 136876,Cody Christian,ESTP,4,train
-321643,Sergey Goroshko,ESTP,4,val
+321643,Sergey Goroshko,ESTP,4,train
 273970,Luis Enrique,ESTP,4,train
 34800,Eli Roth,ESTP,4,train
 131473,Jangjun (Golden Child),ESTP,4,train
@@ -1604,9 +1604,9 @@ id,name,four_letter,images_fetched,split
 11071,Jordan Peterson,INFJ,4,train
 4244,RM (BTS),INFJ,4,train
 24987,Osamu Dazai,INFJ,4,train
-11589,Fyodor Dostoyevsky,INFJ,4,val
+11589,Fyodor Dostoyevsky,INFJ,4,train
 12809,Mina (TWICE),INFJ,4,train
-1024,Benedict Cumberbatch,INFJ,4,val
+1024,Benedict Cumberbatch,INFJ,4,train
 152868,Heeseung (ENHYPEN),INFJ,4,train
 20289,Rooney Mara,INFJ,4,train
 430014,Rei (IVE),INFJ,4,train
@@ -1614,72 +1614,72 @@ id,name,four_letter,images_fetched,split
 130,Mel Gibson,INFJ,4,train
 1021,Cate Blanchett,INFJ,4,train
 11594,Leo Tolstoy,INFJ,4,train
-26960,Cha Eunwoo (ASTRO),INFJ,4,train
+26960,Cha Eunwoo (ASTRO),INFJ,4,test
 6258,Nicole Kidman,INFJ,3,train
-20621,Yves,INFJ,3,train
-343,Thomas Jefferson,INFJ,4,train
+20621,Yves,INFJ,3,val
+343,Thomas Jefferson,INFJ,4,val
 3262,Dante Alighieri,INFJ,4,train
 1755,Al Pacino,INFJ,4,train
 1020,Agatha Christie,INFJ,4,train
 5790,Daniel Howell,INFJ,4,train
-31869,Hongjoong (ATEEZ),INFJ,4,val
+31869,Hongjoong (ATEEZ),INFJ,4,train
 146666,Lex Fridman,INFJ,4,train
 2717,Osama Bin Laden,INFJ,4,train
 6272,Emily Dickinson,INFJ,4,train
 3264,Hermann Hesse,INFJ,4,train
 297842,Ethan Torchio,INFJ,3,train
-31945,Dami (DREAMCATCHER),INFJ,4,train
+31945,Dami (DREAMCATCHER),INFJ,4,val
 92766,Tamino,INFJ,4,train
 8941,"JAY B JB"" (GOT7)""",INFJ,4,train
-39109,Penn Badgley,INFJ,4,test
-11298,Jodi Arias,INFJ,4,train
-35793,Kentaro Miura,INFJ,4,train
+39109,Penn Badgley,INFJ,4,train
+11298,Jodi Arias,INFJ,4,test
+35793,Kentaro Miura,INFJ,4,test
 11398,Andrei Tarkovsky,INFJ,4,train
 43997,Xiaojun (WayV) (NCT),INFJ,3,test
 454819,JINI (NMIXX),INFJ,4,train
 9852,Viggo Mortensen,INFJ,4,train
 33024,Yukio Mishima,INFJ,4,train
 44241,Gong Yoo,INFJ,4,train
-297723,Kim Jiwoong (ZEROBASEONE),INFJ,3,train
+297723,Kim Jiwoong (ZEROBASEONE),INFJ,3,val
 36551,Song Hye-kyo,INFJ,3,train
-3010,Alan Rickman,INFJ,4,test
+3010,Alan Rickman,INFJ,4,train
 13086,Edward Norton,INFJ,4,train
 35216,Claudio Naranjo,INFJ,4,train
 87681,肖战 Xiao Zhan/Sean Xiao,INFJ,3,train
 16720,Rosamund Pike,INFJ,3,test
-27558,Hani (EXID),INFJ,3,train
+27558,Hani (EXID),INFJ,3,val
 56271,Aishwarya Rai,INFJ,2,train
 4451,Niels Bohr,INFJ,4,train
 11596,Mary Shelley,INFJ,4,train
-3269,James Joyce,INFJ,3,test
-4266,Srinivasa Ramanujan,INFJ,3,val
+3269,James Joyce,INFJ,3,train
+4266,Srinivasa Ramanujan,INFJ,3,train
 23477,Adrien Brody,INFJ,4,train
-9052,Daniel Day-Lewis,INFJ,4,test
+9052,Daniel Day-Lewis,INFJ,4,train
 12333,Amy Adams,INFJ,3,train
 147581,Seo Ye-ji,INFJ,3,train
-11395,Ingmar Bergman,INFJ,4,val
+11395,Ingmar Bergman,INFJ,4,train
 12662,Luka Modrić,INFJ,4,test
 26955,Yuju (GFRIEND),INFJ,4,train
 27028,Jane Goodall,INFJ,3,train
 19843,Paul Dano,INFJ,3,train
 35121,Bridgit Mendler,INFJ,4,train
 49538,Jacob (The Boyz),INFJ,3,test
-1023,Carey Mulligan,INFJ,4,train
-45427,Kohei Horikoshi,INFJ,4,val
+1023,Carey Mulligan,INFJ,4,test
+45427,Kohei Horikoshi,INFJ,4,train
 432,Liam Neeson,INFJ,4,train
 20268,Tilda Swinton,INFJ,4,train
 44242,Park Seo-joon,INFJ,4,train
 42284,Naoki Urasawa,INFJ,4,train
 106793,Beren Saat,INFJ,4,train
 242621,Shay Rudolph,INFJ,3,train
-407747,Heo Sung-tae,INFJ,4,train
+407747,Heo Sung-tae,INFJ,4,test
 23933,Gustav Mahler,INFJ,4,train
-35763,Aamir Khan,INFJ,4,val
+35763,Aamir Khan,INFJ,4,test
 211513,Pedri,INFJ,4,train
 10208,Roman Polański,INFJ,4,train
-35211,Jo Yuri,INFJ,4,val
-19576,Cody Fern,INFJ,4,train
-34193,Park Bo-gum,INFJ,4,train
+35211,Jo Yuri,INFJ,4,train
+19576,Cody Fern,INFJ,4,val
+34193,Park Bo-gum,INFJ,4,val
 43734,Onew (SHINee),INFJ,4,train
 43199,Makoto Shinkai,INFJ,4,train
 26057,Katharine Cook Briggs,INFJ,4,train
@@ -1689,51 +1689,51 @@ id,name,four_letter,images_fetched,split
 24986,Sui Ishida,INFJ,4,train
 26094,Daniil Medvedev,INFJ,2,train
 11553,Marina Abramovic,INFJ,4,train
-6397,Charlotte Brontë,INFJ,4,val
+6397,Charlotte Brontë,INFJ,4,train
 1061,Wentworth Miller,INFJ,4,train
-216888,Anna Shcherbakova,INFJ,3,train
+216888,Anna Shcherbakova,INFJ,3,val
 14726,Georges St-Pierre,INFJ,4,train
 11519,Darren Aronofsky,INFJ,4,train
-52762,Belchior,INFJ,3,val
+52762,Belchior,INFJ,3,train
 22145,Simon Sinek,INFJ,1,train
 34966,Johannes Kepler,INFJ,4,train
 3816,Zoe Saldaña,INFJ,4,train
-239238,Kafka Asagiri,INFJ,3,train
+239238,Kafka Asagiri,INFJ,3,val
 26314,Dominic Panganiban (Domics),INFJ,4,train
 73296,Gabor Maté,INFJ,3,train
 211793,Jongseob (P1Harmony),INFJ,3,train
 29157,Louis Pasteur,INFJ,4,train
 3274,Werner Herzog,INFJ,4,train
 134630,Joseph Campbell,INFJ,3,train
-45096,Chico Buarque,INFJ,4,val
+45096,Chico Buarque,INFJ,4,train
 28277,Kate Beckinsale,INFJ,4,train
 163751,Mahmoud Darwish,INFJ,4,train
-51071,Terence McKenna,INFJ,3,train
+51071,Terence McKenna,INFJ,3,test
 46646,Florence Nightingale,INFJ,4,train
 47508,Maudy Ayunda,INFJ,3,train
 20950,Jaeden Martell,INFJ,4,train
-1022,Michelle Pfeiffer,INFJ,4,train
-20269,Julie Andrews,INFJ,4,test
+1022,Michelle Pfeiffer,INFJ,4,test
+20269,Julie Andrews,INFJ,4,val
 23603,Aaron Taylor-Johnson,INFJ,4,train
 44733,Will Poulter,INFJ,3,train
 11593,William Faulkner,INFJ,3,train
 9713,Dennis Nilsen,INFJ,4,train
 11440,Ang Lee,INFJ,4,train
 113877,Park Hyung-sik (ZE:A),INFJ,4,test
-10028,Eleanor Roosevelt,INFJ,4,test
-11458,Terrence Malick,INFJ,4,train
+10028,Eleanor Roosevelt,INFJ,4,val
+11458,Terrence Malick,INFJ,4,val
 357750,Taylor Russell,INFJ,4,train
 509962,Amirali Nabavian,INFJ,3,train
 124704,Salman Khan,INFJ,4,train
-44235,Park Yeon-mi,INFJ,4,val
+44235,Park Yeon-mi,INFJ,4,train
 21860,Tobias Jens Forge,INFJ,4,train
-108691,Grant Sanderson (3Blue1Brown),INFJ,4,train
-83806,Loreen,INFJ,3,train
-11625,Margaret Atwood,INFJ,4,train
-272798,Johnny Harris,INFJ,4,val
+108691,Grant Sanderson (3Blue1Brown),INFJ,4,test
+83806,Loreen,INFJ,3,test
+11625,Margaret Atwood,INFJ,4,test
+272798,Johnny Harris,INFJ,4,train
 19524,Seung-Hui Cho,INFJ,4,train
 16756,Jeremy Irons,INFJ,3,train
-6485,Evangeline Lilly,INFJ,4,test
+6485,Evangeline Lilly,INFJ,4,train
 38590,Hiromu Arakawa,INFJ,4,val
 60342,Hiroshi Kamiya,INFJ,4,train
 116343,Jung Hae In,INFJ,4,train
@@ -1741,33 +1741,33 @@ id,name,four_letter,images_fetched,split
 129331,Franco Battiato,INFJ,4,train
 11709,John Williams,INFJ,4,train
 305828,Freddy Carter,INFJ,3,train
-107088,Khalil Gibran,INFJ,4,train
-5900,Pekka-Eric Auvinen,INFJ,4,val
+107088,Khalil Gibran,INFJ,4,val
+5900,Pekka-Eric Auvinen,INFJ,4,train
 16741,Jenna Coleman,INFJ,4,train
-9993,Javier Bardem,INFJ,4,val
+9993,Javier Bardem,INFJ,4,train
 34961,Henri Poincaré,INFJ,4,train
-35321,Robert Sapolsky,INFJ,4,train
+35321,Robert Sapolsky,INFJ,4,test
 75855,Leigh Bardugo,INFJ,4,train
 99830,Maria De Filippi,INFJ,4,test
-130331,Paul Mescal,INFJ,4,train
-15848,Phil Jackson,INFJ,4,val
-19092,Felix Mendelssohn,INFJ,4,test
+130331,Paul Mescal,INFJ,4,val
+15848,Phil Jackson,INFJ,4,train
+19092,Felix Mendelssohn,INFJ,4,train
 44048,Ferdowsi,INFJ,4,train
-105141,Dane Dehaan,INFJ,4,train
+105141,Dane Dehaan,INFJ,4,test
 25279,Sundar Pichai,INFJ,4,train
 252944,José Luis H. (El Hobbit de MIGALA),INFJ,4,train
-34344,Kana Hanazawa,INFJ,4,test
-9802,Vera Farmiga,INFJ,4,train
+34344,Kana Hanazawa,INFJ,4,train
+9802,Vera Farmiga,INFJ,4,val
 118711,Ahmed Khaled Tawfik,INFJ,4,train
 141203,Natalia Lafourcade,INFJ,3,train
-25492,Rebecca Ferguson,INFJ,4,train
+25492,Rebecca Ferguson,INFJ,4,test
 155635,Mikel Arteta,INFJ,4,train
 45415,Seungwoo (VICTON),INFJ,4,train
 56284,Park Shin-hye,INFJ,4,train
 65731,James Gandolfini,INFJ,3,train
 11304,Maria Callas,INFJ,4,train
 10375,Sevdaliza,INFJ,3,train
-145325,Jay Shetty,INFJ,3,train
+145325,Jay Shetty,INFJ,3,val
 33260,Anthony Joshua,INFJ,4,train
 74062,Charlie Cox,INFJ,4,train
 5467,Jim Caviezel,INFJ,4,train
@@ -1777,18 +1777,18 @@ id,name,four_letter,images_fetched,split
 11592,John Steinbeck,INFJ,4,train
 66052,Sōma Saitō,INFJ,3,train
 301130,Mete Gazoz,INFJ,4,train
-11534,Krzysztof Kieślowski,INFJ,4,val
+11534,Krzysztof Kieślowski,INFJ,4,train
 35904,Ingrid Bergman,INFJ,4,train
 412823,Cho Yi-Hyun,INFJ,4,train
 29454,Derren Brown,INFJ,4,train
-48655,Fernanda Montenegro,INFJ,4,test
+48655,Fernanda Montenegro,INFJ,4,train
 49108,Josh Radnor,INFJ,3,train
 52799,Pedro Bial,INFJ,3,train
 136746,Georg Cantor,INFJ,4,train
-160693,Justin H. Min,INFJ,4,test
-9893,Richard Gere,INFJ,4,test
+160693,Justin H. Min,INFJ,4,train
+9893,Richard Gere,INFJ,4,train
 142434,So Junghwan (TREASURE),INFJ,4,train
-846891,Ruka (BABYMONSTER),INFJ,4,train
+846891,Ruka (BABYMONSTER),INFJ,4,val
 22976,PJ Liguori (KickThePj),INFJ,4,val
 58585,Maki Horikita,INFJ,4,val
 11517,Richard Linklater,INFJ,4,train
@@ -1796,62 +1796,62 @@ id,name,four_letter,images_fetched,split
 14151,Masaki Suda,INFJ,4,train
 16791,Brit Marling,INFJ,4,train
 56514,Ludovico Einaudi,INFJ,4,train
-130916,Natty (KISS OF LIFE),INFJ,4,test
-71414,Peter Capaldi,INFJ,3,test
+130916,Natty (KISS OF LIFE),INFJ,4,train
+71414,Peter Capaldi,INFJ,3,train
 34161,Elisabeth Moss,INFJ,4,train
 608,Johnny Depp,INFP,4,train
-2484,Keanu Reeves,INFP,4,test
+2484,Keanu Reeves,INFP,4,train
 16722,Timothée Chalamet,INFP,4,train
 13532,AURORA,INFP,2,train
-9183,Robert Pattinson,INFP,4,val
+9183,Robert Pattinson,INFP,4,test
 20601,Son Chaeyoung (TWICE),INFP,4,train
 24835,IU,INFP,4,train
 8911,Franz Kafka,INFP,4,train
-2111,Björk,INFP,4,train
+2111,Björk,INFP,4,val
 7741,Hayao Miyazaki,INFP,4,train
 961,Andrew Garfield,INFP,4,train
 958,Edgar Allan Poe,INFP,4,train
 760,Tom Hiddleston,INFP,4,train
 776,William Shakespeare,INFP,4,train
-3265,Sylvia Plath,INFP,3,test
+3265,Sylvia Plath,INFP,3,train
 9726,Joaquin Phoenix,INFP,4,train
-9034,Clarice Lispector,INFP,4,val
+9034,Clarice Lispector,INFP,4,train
 14042,Jaiden Dittfach (Jaiden Animations),INFP,4,train
 671,J. R. R. Tolkien,INFP,4,train
-3031,David Lynch,INFP,4,train
+3031,David Lynch,INFP,4,test
 1734,Tim Burton,INFP,4,train
 962,Heath Ledger,INFP,4,train
 6473,Winona Ryder,INFP,4,train
-954,George Orwell,INFP,2,train
+954,George Orwell,INFP,2,test
 10031,Kate Bush,INFP,3,train
-20618,JinSoul (ARTMS),INFP,3,test
-27346,Evan Peters,INFP,4,train
+20618,JinSoul (ARTMS),INFP,3,train
+27346,Evan Peters,INFP,4,val
 9260,Adam Driver,INFP,4,train
 44698,Jamie Campbell-Bower,INFP,4,train
 36085,Junji Ito,INFP,3,train
 17508,Victoria Pedretti,INFP,4,train
 1897,Stephen Colbert,INFP,4,train
 24930,Jisung (NCT),INFP,4,train
-461,Julia Roberts,INFP,4,train
+461,Julia Roberts,INFP,4,test
 6459,Marlon Brando,INFP,4,train
 5898,Dylan Klebold,INFP,4,train
-16253,Fred Rogers †,INFP,4,train
+16253,Fred Rogers †,INFP,4,val
 33904,Stromae,INFP,3,train
 40426,Germán Garmendia,INFP,4,train
-1572,George Lucas,INFP,4,test
-4979,Andy Warhol,INFP,3,test
-3263,Haruki Murakami,INFP,4,train
+1572,George Lucas,INFP,4,train
+4979,Andy Warhol,INFP,3,train
+3263,Haruki Murakami,INFP,4,val
 505852,Joseph Quinn,INFP,4,train
 5672,Pyotr Ilyich Tchaikovsky,INFP,4,train
 35184,Lily Ki (LilyPichu),INFP,4,train
-24922,Winwin (WayV) (NCT),INFP,4,train
+24922,Winwin (WayV) (NCT),INFP,4,test
 956,Virginia Woolf,INFP,4,val
-16610,Evanna Lynch,INFP,4,train
+16610,Evanna Lynch,INFP,4,test
 236045,Hwang In-Yeop,INFP,4,train
-20267,Mia Goth,INFP,4,train
+20267,Mia Goth,INFP,4,test
 24968,Jun (SEVENTEEN),INFP,4,train
 25515,Chadwick Boseman,INFP,4,train
-1515,John Green,INFP,3,val
+1515,John Green,INFP,3,train
 6763,Wes Anderson,INFP,4,train
 84299,Jacob Elordi,INFP,3,train
 36754,Rumi,INFP,4,train
@@ -1862,19 +1862,19 @@ id,name,four_letter,images_fetched,split
 24944,Naomi Osaka,INFP,4,train
 960,Nicolas Cage,INFP,4,train
 4170,Joseph Gordon-Levitt,INFP,4,train
-1736,Guillermo del Toro,INFP,4,val
-11727,Neil Gaiman,INFP,4,train
-42827,Maya Hawke,INFP,4,test
+1736,Guillermo del Toro,INFP,4,train
+11727,Neil Gaiman,INFP,4,val
+42827,Maya Hawke,INFP,4,train
 6310,Charles Baudelaire,INFP,4,train
 11520,Bong Joon-ho,INFP,4,train
 21388,B.I / Kim Hanbin,INFP,4,train
 34933,"Zhang Yixing Lay"" (EXO)""",INFP,4,train
 35819,Hideaki Anno,INFP,4,train
 18591,Park Jihoon,INFP,4,train
-1069,Louis C.K.,INFP,4,test
+1069,Louis C.K.,INFP,4,train
 29570,Brian Cox,INFP,4,train
 14152,Kento Yamazaki,INFP,4,train
-31954,Handong (DREAMCATCHER),INFP,4,test
+31954,Handong (DREAMCATCHER),INFP,4,val
 75886,Bladee,INFP,3,train
 24932,Taeil (NCT),INFP,4,train
 38555,Satoshi Kon,INFP,4,train
@@ -1883,44 +1883,44 @@ id,name,four_letter,images_fetched,split
 11655,Denis Villeneuve,INFP,4,train
 159133,"Infanta Leonor, Princess of Asturias",INFP,4,train
 26393,Asahi (TREASURE),INFP,4,train
-21546,Rebecca Sugar,INFP,4,test
+21546,Rebecca Sugar,INFP,4,train
 3271,Rainer Maria Rilke,INFP,4,train
 6405,Eddie Redmayne,INFP,3,train
 6248,Henry David Thoreau,INFP,4,train
-24097,Jude Law,INFP,4,train
+24097,Jude Law,INFP,4,test
 959,Hans Christian Andersen,INFP,4,train
 42891,Younghoon (The Boyz),INFP,2,train
-21969,Viktor Tsoi,INFP,4,val
+21969,Viktor Tsoi,INFP,4,train
 429806,Jun Han (Xdinary Heroes),INFP,4,train
 117777,Taylor Tomlinson,INFP,3,train
 49422,Yoñlu,INFP,3,train
 109010,Nam Joo-hyuk,INFP,4,train
 149977,Valentín Oliva (Wos),INFP,3,train
-8944,Kim Yugyeom (GOT7),INFP,3,test
-34616,Giacomo Leopardi,INFP,4,train
-66426,OrelSan,INFP,4,val
-95502,Koyoharu Gotouge,INFP,4,train
-108589,Kwon Mina,INFP,4,test
-11801,Karen Gillan,INFP,4,val
+8944,Kim Yugyeom (GOT7),INFP,3,train
+34616,Giacomo Leopardi,INFP,4,test
+66426,OrelSan,INFP,4,train
+95502,Koyoharu Gotouge,INFP,4,val
+108589,Kwon Mina,INFP,4,train
+11801,Karen Gillan,INFP,4,train
 205804,Avogado6 (アボガド6),INFP,4,train
-22291,Ben Stiller,INFP,4,train
+22291,Ben Stiller,INFP,4,test
 74072,Maude Apatow,INFP,4,train
 20307,Sophia Lillis,INFP,3,train
-43888,Edvard Munch,INFP,4,val
+43888,Edvard Munch,INFP,4,test
 14867,Franz Schubert,INFP,4,train
 3268,William Blake,INFP,4,train
-10697,Ricardo López (Björk Stalker),INFP,4,val
-66273,Avan Jogia,INFP,4,test
-11587,J. D. Salinger,INFP,4,val
+10697,Ricardo López (Björk Stalker),INFP,4,test
+66273,Avan Jogia,INFP,4,train
+11587,J. D. Salinger,INFP,4,train
 9742,Andrei Chikatilo,INFP,3,train
 29725,Hugh Laurie,INFP,4,train
 38876,Asano Inio,INFP,4,train
 23612,Logan Lerman,INFP,4,train
-36117,Kim Wonpil (DAY6),INFP,4,train
+36117,Kim Wonpil (DAY6),INFP,4,test
 282909,Björn Andrésen,INFP,4,train
 9728,Homer,INFP,4,train
 10339,David Attenborough,INFP,4,train
-23674,Dylan Minnette,INFP,4,train
+23674,Dylan Minnette,INFP,4,val
 20670,Michael Cera,INFP,4,train
 385379,Sakamoto Mashiro (Kep1er),INFP,3,val
 20216,Gotye,INFP,4,train
@@ -1928,13 +1928,13 @@ id,name,four_letter,images_fetched,split
 46670,Dacre Montgomery,INFP,4,train
 59665,Song Hayoung (fromis_9),INFP,4,train
 21357,Taco Hemingway,INFP,4,train
-26086,Stefanos Tsitsipas,INFP,4,test
-15609,Marcel Proust,INFP,4,train
+26086,Stefanos Tsitsipas,INFP,4,train
+15609,Marcel Proust,INFP,4,test
 26958,Umji (GFRIEND/VIVIZ),INFP,4,train
 203573,Roc Jou Morales (Rojuu),INFP,3,train
-41589,Indila,INFP,4,test
+41589,Indila,INFP,4,train
 217172,Seeun (STAYC),INFP,4,train
-60458,Sergei Yesenin,INFP,4,test
+60458,Sergei Yesenin,INFP,4,train
 57352,Esty Quesada (soyunapringada),INFP,4,train
 2373,Carl Rogers,INFP,4,train
 41447,Jacques Lacan,INFP,4,train
@@ -1943,147 +1943,147 @@ id,name,four_letter,images_fetched,split
 38880,Mesut Özil,INFP,3,train
 29782,Sandara Park,INFP,4,train
 11438,Wong Kar-wai,INFP,3,train
-41074,Marianne Williamson,INFP,4,train
-26389,Junkyu (TREASURE),INFP,4,val
+41074,Marianne Williamson,INFP,4,test
+26389,Junkyu (TREASURE),INFP,4,train
 193648,Alyona Shvets (Алёна Швец),INFP,4,train
 149151,Sushant Singh Rajput,INFP,4,train
 10098,Gary Oldman,INFP,3,train
-485439,Build Jakapan Puttha,INFP,4,train
+485439,Build Jakapan Puttha,INFP,4,test
 139184,David Pineda (La Oveja),INFP,3,train
 953,Mary-Kate Olsen,INFP,4,train
 11992,M. Night Shyamalan,INFP,4,train
 9252,Caparezza,INFP,3,train
 61693,"Bruno Bubarim"" Miranda""",INFP,4,train
-74854,Pomme,INFP,4,test
-211792,Soul (P1Harmony),INFP,4,test
+74854,Pomme,INFP,4,train
+211792,Soul (P1Harmony),INFP,4,train
 6296,Robert Schumann,INFP,3,train
 43893,Ray Bradbury,INFP,4,train
-11800,Rachel Weisz,INFP,4,train
+11800,Rachel Weisz,INFP,4,test
 109306,Virgil,INFP,4,train
 11299,Anaïs Nin,INFP,4,train
 20018,Paul Simon,INFP,4,train
-11691,Léa Seydoux,INFP,4,val
-87308,Savannah Brown,INFP,3,train
+11691,Léa Seydoux,INFP,4,train
+87308,Savannah Brown,INFP,3,test
 48400,Allison Harvard,INFP,3,train
 12206,Stephenie Meyer,INFP,3,train
-10326,Ji Chang-wook,INFP,4,train
-77143,Choi Woo-shik,INFP,4,test
+10326,Ji Chang-wook,INFP,4,val
+77143,Choi Woo-shik,INFP,4,train
 142348,Petrarch,INFP,4,train
-239637,Joel Haver,INFP,4,train
+239637,Joel Haver,INFP,4,val
 36722,Serge Gainsbourg,INFP,4,train
 40036,Naoko Takeuchi,INFP,4,train
-35826,Emma Mackey,INFP,4,val
+35826,Emma Mackey,INFP,4,test
 9264,Taissa Farmiga,INFP,3,train
-49287,Mark David Chapman,INFP,4,train
+49287,Mark David Chapman,INFP,4,val
 80874,ECCO2K,INFP,4,train
-43968,Alex Lawther,INFP,4,val
+43968,Alex Lawther,INFP,4,train
 82437,Andrew Scott,INFP,4,train
 392282,avogado6,INFP,4,train
 84199,Mikhail Lermontov,INFP,4,train
 16929,Edgar Wright,INFP,3,train
 117771,Nekfeu (Ken Samaras),INFP,4,train
-55434,Luis Alberto Spinetta,INFP,4,test
-11743,Hugh Dancy,INFP,3,train
-32322,Daniel Bryan,INFP,4,train
-19309,Lucy Hale,INFP,4,val
-36773,Dawid Podsiadło,INFP,3,train
+55434,Luis Alberto Spinetta,INFP,4,val
+11743,Hugh Dancy,INFP,3,test
+32322,Daniel Bryan,INFP,4,val
+19309,Lucy Hale,INFP,4,train
+36773,Dawid Podsiadło,INFP,3,val
 256096,Thomas Astruc,INFP,3,train
 28273,Chloë Sevigny,INFP,3,train
-147636,sanah,INFP,4,val
+147636,sanah,INFP,4,train
 102132,Alice Pagani,INFP,4,train
 3266,Ralph Waldo Emerson,INFP,4,train
-33323,Christina Ricci,INFP,3,test
+33323,Christina Ricci,INFP,3,train
 142430,Yoshi (TREASURE),INFP,4,train
 322400,Renata Litvinova,INFP,4,train
-14322,Rey Mysterio,INFP,4,train
+14322,Rey Mysterio,INFP,4,val
 156248,Kōki Uchiyama,INFP,4,train
 48408,Lisa Kudrow,INFP,4,train
-5460,Benicio Del Toro,INFP,4,train
+5460,Benicio Del Toro,INFP,4,val
 805,Elon Musk,INTJ,4,train
 4241,Suga (BTS),INTJ,4,train
-30660,Greta Thunberg,INTJ,4,train
+30660,Greta Thunberg,INTJ,4,test
 734,Nikola Tesla,INTJ,4,train
 446,Mark Zuckerberg,INTJ,4,train
 23604,Cillian Murphy,INTJ,4,train
 20191,Jada Pinkett Smith,INTJ,4,train
-398,Stephen Hawking,INTJ,3,test
-21593,G-Dragon (BIGBANG),INTJ,3,train
+398,Stephen Hawking,INTJ,3,train
+21593,G-Dragon (BIGBANG),INTJ,3,val
 2191,Bernie Sanders,INTJ,4,train
-5668,Ludwig van Beethoven,INTJ,3,val
+5668,Ludwig van Beethoven,INTJ,3,train
 2911,Stanley Kubrick,INTJ,4,train
-33144,Hajime Isayama,INTJ,4,test
+33144,Hajime Isayama,INTJ,4,train
 24806,Miyawaki Sakura (LE SSERAFIM),INTJ,4,train
 2486,Christopher Nolan,INTJ,4,train
 1015,Jane Austen,INTJ,4,train
 6388,Ted Kaczynski “Unabomber”,INTJ,4,train
-53802,Robert Greene,INTJ,4,val
+53802,Robert Greene,INTJ,4,train
 9129,Ayn Rand,INTJ,4,train
-5899,Eric Harris,INTJ,4,train
+5899,Eric Harris,INTJ,4,val
 2786,Varg Vikernes,INTJ,4,train
 31825,Krystal Jung,INTJ,4,train
-36201,J. Robert Oppenheimer,INTJ,4,val
+36201,J. Robert Oppenheimer,INTJ,4,train
 955,C. S. Lewis,INTJ,3,train
 3152,Jack the Ripper,INTJ,4,train
-63858,Hedy Lamarr,INTJ,4,train
+63858,Hedy Lamarr,INTJ,4,test
 24970,Woozi (SEVENTEEN),INTJ,3,train
-29777,Andrew Yang,INTJ,4,train
+29777,Andrew Yang,INTJ,4,val
 5398,David Fincher,INTJ,4,train
 1017,Jodie Foster,INTJ,4,train
 49546,New (The Boyz),INTJ,4,train
-141582,Kurzgesagt – In a nutshell,INTJ,4,val
-33913,Nikolai Gogol,INTJ,4,train
+141582,Kurzgesagt – In a nutshell,INTJ,4,train
+33913,Nikolai Gogol,INTJ,4,val
 3507,Jerry Seinfeld,INTJ,4,train
 10795,"Josep Pep"" Guardiola""",INTJ,4,train
 31904,Im Changkyun “I.M” (Monsta X),INTJ,4,train
-2910,Isaac Asimov,INTJ,4,train
+2910,Isaac Asimov,INTJ,4,val
 72789,Lee Dong-Wook,INTJ,3,train
 16793,Donna Tartt,INTJ,4,train
 3145,Russell Crowe,INTJ,4,train
 10520,Emily Brontë,INTJ,2,train
 65318,Qasem Soleimani,INTJ,4,train
 4976,Claude Monet,INTJ,4,train
-6537,Alan Moore,INTJ,4,train
+6537,Alan Moore,INTJ,4,test
 13914,Christoph Waltz,INTJ,4,train
 15144,Dick Cheney,INTJ,4,train
 354237,Lionel Scaloni,INTJ,4,train
 6128,CGP Grey,INTJ,4,train
-36621,Anna Wintour,INTJ,4,val
+36621,Anna Wintour,INTJ,4,test
 7191,Werner Heisenberg,INTJ,4,train
 72063,Baek Jiheon (fromis_9),INTJ,4,train
 20083,Linus Torvalds,INTJ,4,train
-102764,XkcdHatGuy,INTJ,4,val
+102764,XkcdHatGuy,INTJ,4,train
 166248,Oxxxymiron,INTJ,4,train
 35501,Solar Sands,INTJ,4,train
-9712,Christopher Hitchens,INTJ,4,train
+9712,Christopher Hitchens,INTJ,4,val
 18436,Neil Armstrong,INTJ,4,val
-11315,H.H. Holmes,INTJ,4,val
+11315,H.H. Holmes,INTJ,4,train
 319,Woodrow Wilson,INTJ,4,train
-2785,Anders Behring Breivik,INTJ,4,test
-48721,Iman Gadzhi,INTJ,4,train
+2785,Anders Behring Breivik,INTJ,4,train
+48721,Iman Gadzhi,INTJ,4,test
 30825,Dmitri Mendeleev,INTJ,4,train
-344,John Adams,INTJ,4,train
+344,John Adams,INTJ,4,test
 11588,Vladimir Nabokov,INTJ,4,train
-12010,Machado de Assis,INTJ,4,val
+12010,Machado de Assis,INTJ,4,train
 8716,The Undertaker,INTJ,4,train
 3740,Sergei Rachmaninoff,INTJ,4,train
 1019,Colin Firth,INTJ,4,train
 7345,Max Planck,INTJ,4,train
 11857,Minzy,INTJ,4,train
-113880,Ahn Hyo Seop,INTJ,4,train
+113880,Ahn Hyo Seop,INTJ,4,val
 2976,Patrick Stewart,INTJ,4,train
 1018,Ashley Olsen,INTJ,4,train
-114316,Kemal Sunal,INTJ,4,val
+114316,Kemal Sunal,INTJ,4,train
 84459,Anastasia Kreslina (Nastya),INTJ,4,train
-1714,Alex Trebek,INTJ,4,test
-846890,Asa (BABYMONSTER),INTJ,4,val
+1714,Alex Trebek,INTJ,4,train
+846890,Asa (BABYMONSTER),INTJ,4,train
 13092,John Maynard Keynes,INTJ,3,train
 28935,James Clerk Maxwell,INTJ,4,train
 171776,Sabine Hossenfelder,INTJ,4,train
-5780,Steve Bannon,INTJ,4,test
+5780,Steve Bannon,INTJ,4,train
 149327,Ahmad Alshugairi,INTJ,3,train
 568871,Sam Altman,INTJ,3,train
-67573,Zaha Hadid,INTJ,4,train
-340,John Quincy Adams,INTJ,4,train
+67573,Zaha Hadid,INTJ,4,val
+340,John Quincy Adams,INTJ,4,test
 20427,Steve Martin,INTJ,3,train
 60909,Thierry Henry,INTJ,4,train
 13087,Julia Stiles,INTJ,4,train
@@ -2091,37 +2091,37 @@ id,name,four_letter,images_fetched,split
 211790,Jiung (P1Harmony),INTJ,3,train
 24200,Peter Thiel,INTJ,4,train
 19310,Troian Bellisario,INTJ,4,train
-16076,Michael Bloomberg,INTJ,4,test
+16076,Michael Bloomberg,INTJ,4,val
 5807,Johannes Brahms,INTJ,4,train
 42736,Wooshin (Kim Wooseok),INTJ,3,train
 119924,Ahn Seongmin (CRAVITY),INTJ,4,train
-24961,Alexander Graham Bell,INTJ,4,train
+24961,Alexander Graham Bell,INTJ,4,test
 11747,Daniel Brühl,INTJ,4,train
 18649,Kyuhyun (Super Junior),INTJ,4,train
 48304,Thomas Sowell,INTJ,4,train
 9294,Jason Bateman,INTJ,3,train
-129088,Joshua Kimmich,INTJ,4,test
-35217,Dario Nardi,INTJ,3,train
+129088,Joshua Kimmich,INTJ,4,train
+35217,Dario Nardi,INTJ,3,test
 60894,Nassim Nicholas Taleb,INTJ,4,test
-18943,Ludwig von Mises,INTJ,4,train
+18943,Ludwig von Mises,INTJ,4,test
 11499,Michael Haneke,INTJ,3,train
-20988,Lou Salomé,INTJ,4,train
+20988,Lou Salomé,INTJ,4,val
 844505,Bryan Christopher Kohberger,INTJ,4,train
-7990,Bill Belichick,INTJ,4,train
+7990,Bill Belichick,INTJ,4,test
 34196,Kim Yoo-jung,INTJ,4,train
 26335,Ursula K. Le Guin,INTJ,4,train
-30238,Seth Rollins,INTJ,4,train
+30238,Seth Rollins,INTJ,4,val
 105942,Raini Rodriguez,INTJ,4,train
-80455,B.J. Novak,INTJ,4,val
+80455,B.J. Novak,INTJ,4,train
 189977,Giulia Tofana,INTJ,4,train
 16063,Timothy McVeigh,INTJ,4,train
 425494,Isabela Boscov,INTJ,3,train
 126428,Chubbyemu,INTJ,4,train
 499479,Payton Gendron (Buffalo shooter),INTJ,3,train
-29920,Antonio Salieri,INTJ,4,test
-6283,Rosalind Franklin,INTJ,3,val
+29920,Antonio Salieri,INTJ,4,train
+6283,Rosalind Franklin,INTJ,3,test
 6395,Susan Sontag,INTJ,4,train
-29914,Alexander Scriabin,INTJ,4,test
+29914,Alexander Scriabin,INTJ,4,val
 335,James K. Polk,INTJ,4,train
 11627,Cormac McCarthy,INTJ,4,train
 65253,Robert Eggers,INTJ,4,train
@@ -2129,88 +2129,88 @@ id,name,four_letter,images_fetched,split
 72040,Adam Scott,INTJ,4,train
 44047,Saadi Shirazi,INTJ,4,train
 590279,Sarina Esmailzadeh,INTJ,4,train
-170715,Victoria “V.E.“ Schwab,INTJ,4,test
-470108,Konstrakta,INTJ,4,val
-68629,Arsene Wenger,INTJ,4,train
+170715,Victoria “V.E.“ Schwab,INTJ,4,train
+470108,Konstrakta,INTJ,4,train
+68629,Arsene Wenger,INTJ,4,val
 19372,"Harold Shipman Dr Death""""",INTJ,4,train
 28940,James Watt,INTJ,4,train
 46553,Charlie Munger,INTJ,3,train
 189425,José Madero,INTJ,4,train
-3944,Dolph Lundgren,INTJ,4,train
-86799,Mayu Matsuoka,INTJ,4,train
+3944,Dolph Lundgren,INTJ,4,val
+86799,Mayu Matsuoka,INTJ,4,test
 46643,David Hilbert,INTJ,3,train
-35088,Haruma Miura,INTJ,4,test
+35088,Haruma Miura,INTJ,4,train
 28934,Évariste Galois,INTJ,4,train
 218652,Klaus Schwab,INTJ,4,train
 31196,Vangelis,INTJ,3,train
 22598,Dan Aykroyd,INTJ,4,train
-166640,Kinoko Nasu,INTJ,4,test
+166640,Kinoko Nasu,INTJ,4,train
 134792,Dilozof (Pelin Dilara Çolak),INTJ,3,train
 45428,Bryan Johnson,INTJ,3,train
-20438,Colin Powell,INTJ,3,test
+20438,Colin Powell,INTJ,3,train
 173594,Satoshi Nakamoto,INTJ,4,train
 14494,Antonín Dvořák,INTJ,4,train
-105893,Alma Deutscher,INTJ,3,train
-136163,Ali Babacan,INTJ,4,val
-60856,Michael Burry,INTJ,4,train
+105893,Alma Deutscher,INTJ,3,test
+136163,Ali Babacan,INTJ,4,train
+60856,Michael Burry,INTJ,4,test
 35797,Hieronymus Bosch,INTJ,4,train
 55652,Jay (OddJayAlter),INTJ,4,train
 33342,Steve Ditko,INTJ,4,train
 22771,Hans Asperger,INTJ,3,train
 28929,Alessandro Volta,INTJ,4,train
-34974,Ernest Rutherford,INTJ,4,test
-82623,Subin (VICTON),INTJ,3,val
-204960,Zach Star,INTJ,4,val
+34974,Ernest Rutherford,INTJ,4,train
+82623,Subin (VICTON),INTJ,3,train
+204960,Zach Star,INTJ,4,train
 547621,Majid Vasheghani,INTJ,3,train
-498557,Osamah almuslim,INTJ,3,test
+498557,Osamah almuslim,INTJ,3,train
 29904,Herbert von Karajan,INTJ,4,train
 76017,Chani (SF9),INTJ,4,train
 596079,Spartak Subbota/Спартак Суббота,INTJ,4,train
-259725,Lee Soo-hyuk,INTJ,4,val
+259725,Lee Soo-hyuk,INTJ,4,test
 11481,Sergio Leone,INTJ,3,train
 303205,Maitê Krummenauer,INTJ,4,train
-183177,Alexander Grothendieck,INTJ,3,train
+183177,Alexander Grothendieck,INTJ,3,test
 206020,"Phillip Brooks CM Punk""""",INTJ,4,train
 188242,Jeremy Strong,INTJ,4,test
-66957,Dominick Cruz,INTJ,4,test
+66957,Dominick Cruz,INTJ,4,train
 11692,Isabelle Huppert,INTJ,4,train
 86489,Ady Endre,INTJ,4,train
 5313,Ray Kurzweil,INTJ,3,train
-18941,Hans-Hermann Hoppe,INTJ,4,train
+18941,Hans-Hermann Hoppe,INTJ,4,val
 15849,Gregg Popovich,INTJ,3,train
 477952,Herve Renard,INTJ,4,train
 29951,Arnold Schönberg,INTJ,4,train
 42287,Yana Toboso,INTJ,4,train
-142898,Eric Weinstein,INTJ,4,test
+142898,Eric Weinstein,INTJ,4,train
 28942,Antoine Lavoisier,INTJ,4,train
-35960,Douglas Murray,INTJ,4,train
+35960,Douglas Murray,INTJ,4,val
 9680,Charles Dance,INTJ,4,train
 32659,Tim Ferriss,INTJ,4,train
-67666,Trey Sesler (Mr. Anime),INTJ,4,val
-175638,Nuri B. Ceylan,INTJ,3,train
+67666,Trey Sesler (Mr. Anime),INTJ,4,train
+175638,Nuri B. Ceylan,INTJ,3,test
 389891,Mike Mentzer,INTJ,4,train
 127744,Xabi Alonso,INTJ,4,val
 56580,Glenn Greenwald,INTJ,4,train
 74472,Ademo (PNL),INTJ,4,train
 49029,Bernhard Riemann,INTJ,3,train
 22770,Suzanne Collins,INTJ,4,train
-100124,Ken Jennings,INTJ,3,test
-469239,Larry Fink,INTJ,4,train
-90616,Tarek Lurcich (Rancore),INTJ,4,train
+100124,Ken Jennings,INTJ,3,train
+469239,Larry Fink,INTJ,4,val
+90616,Tarek Lurcich (Rancore),INTJ,4,val
 151878,Annalisa,INTJ,4,train
 442189,Kropka308,INTJ,3,train
 443,Bill Gates,INTP,4,train
 4242,Jin (BTS),INTP,4,train
-8831,Bo Burnham,INTP,4,test
+8831,Bo Burnham,INTP,4,train
 28430,Lee Know (Stray Kids),INTP,4,train
-567,George R. R. Martin,INTP,4,train
+567,George R. R. Martin,INTP,4,val
 3820,Aubrey Plaza,INTP,4,train
 529175,Haerin (NewJeans),INTP,4,train
 5997,Jeffrey Dahmer,INTP,4,train
-397,Charles Darwin,INTP,4,val
+397,Charles Darwin,INTP,4,train
 1732,Marie Skłodowska-Curie,INTP,3,train
 330,Abraham Lincoln,INTP,4,train
-682,Stephen King,INTP,4,val
+682,Stephen King,INTP,4,train
 3852,H.P. Lovecraft,INTP,4,train
 8923,Sehun (EXO),INTP,4,train
 11323,Avicii,INTP,3,train
@@ -2226,96 +2226,96 @@ id,name,four_letter,images_fetched,split
 197360,Faline San,INTP,3,train
 26717,Hendery (WayV) (NCT),INTP,4,train
 2528,Richard Dawkins,INTP,4,train
-8727,Aldous Huxley,INTP,4,train
+8727,Aldous Huxley,INTP,4,test
 2315,Galileo Galilei,INTP,4,train
-9362,Robert James Rallison (TheOdd1sOut),INTP,4,train
-31870,Yeosang (ATEEZ),INTP,4,test
+9362,Robert James Rallison (TheOdd1sOut),INTP,4,val
+31870,Yeosang (ATEEZ),INTP,4,train
 21100,Joana Ceddia,INTP,4,train
-28925,Blaise Pascal,INTP,4,val
+28925,Blaise Pascal,INTP,4,train
 236898,Nijiro Murakami,INTP,4,train
-46758,Jae Park (eaJ),INTP,4,test
-9573,Ed Kemper,INTP,4,train
-3550,Woody Allen,INTP,4,val
+46758,Jae Park (eaJ),INTP,4,train
+9573,Ed Kemper,INTP,4,test
+3550,Woody Allen,INTP,4,train
 59945,Kevin De Bruyne,INTP,3,train
 11629,Anton Chekhov,INTP,4,val
-2529,Tina Fey,INTP,4,train
-27308,Kang Hyewon,INTP,3,train
-404686,Park Hae-soo,INTP,4,train
-20422,Fernando Pessoa,INTP,4,train
+2529,Tina Fey,INTP,4,test
+27308,Kang Hyewon,INTP,3,val
+404686,Park Hae-soo,INTP,4,val
+20422,Fernando Pessoa,INTP,4,test
 32785,NileRed,INTP,4,train
 12000,Adam Smith,INTP,3,train
-6282,Dmitri Shostakovich,INTP,4,test
-29903,Maryam Mirzakhani,INTP,4,train
+6282,Dmitri Shostakovich,INTP,4,train
+29903,Maryam Mirzakhani,INTP,4,val
 80928,Tom Scott,INTP,4,train
-4151,Avicenna / Ibn Sina,INTP,3,test
+4151,Avicenna / Ibn Sina,INTP,3,train
 30688,Alexander McKechnie (Exurb1a),INTP,4,train
-62688,Mehran Modiri,INTP,4,train
-16881,Norm Macdonald,INTP,3,val
-19380,Adam Lanza,INTP,4,val
+62688,Mehran Modiri,INTP,4,test
+16881,Norm Macdonald,INTP,3,train
+19380,Adam Lanza,INTP,4,train
 16297,Hyungwon (Monsta X),INTP,3,train
-2716,Lewis Carroll,INTP,4,train
-4157,Gottfried Wilhelm Leibniz,INTP,4,val
-11498,Ridley Scott,INTP,4,test
+2716,Lewis Carroll,INTP,4,test
+4157,Gottfried Wilhelm Leibniz,INTP,4,train
+11498,Ridley Scott,INTP,4,train
 586,Martin Freeman,INTP,4,train
 47589,Banksy,INTP,4,train
 11859,Asa Butterfield,INTP,4,train
-26045,Antonio Vivaldi,INTP,3,val
+26045,Antonio Vivaldi,INTP,3,train
 2977,Bill Murray,INTP,4,train
 40116,Brandon Sanderson,INTP,4,train
 48701,Iberê Thenório (Manual do Mundo),INTP,4,train
-6125,Ian Hecox,INTP,4,train
+6125,Ian Hecox,INTP,4,test
 50204,Agustín Laje Arrigoni,INTP,4,train
-502369,Bible Wichapas Sumettikul,INTP,3,train
+502369,Bible Wichapas Sumettikul,INTP,3,val
 27703,Larry David,INTP,4,train
-43380,Daidus,INTP,3,val
-49302,Terence Tao,INTP,3,train
+43380,Daidus,INTP,3,train
+49302,Terence Tao,INTP,3,test
 11606,Jules Verne,INTP,3,train
 24522,Tsugumi Ohba,INTP,4,test
-3824,Freddie Highmore,INTP,4,val
+3824,Freddie Highmore,INTP,4,train
 29932,Erik Satie,INTP,4,train
-37838,Ahmed El-Ghandour (El-Da7ee7),INTP,4,train
+37838,Ahmed El-Ghandour (El-Da7ee7),INTP,4,val
 6762,Richard Ayoade,INTP,4,train
 35796,Zdzisław Beksiński,INTP,3,train
-7522,Carl Friedrich Gauss,INTP,3,test
+7522,Carl Friedrich Gauss,INTP,3,train
 11491,Paul Thomas Anderson,INTP,4,train
 23634,Sam O'Nella,INTP,4,train
-34164,Glenn Gould,INTP,4,train
+34164,Glenn Gould,INTP,4,test
 22657,Jamie (Casually Explained),INTP,2,train
 30398,Ari Aster,INTP,4,train
 342,James Madison,INTP,4,train
-223360,Kim Seon-ho,INTP,4,train
+223360,Kim Seon-ho,INTP,4,val
 146384,Song Kang,INTP,3,train
 1013,Larry Page,INTP,4,train
 28923,Paul Dirac,INTP,3,train
 18633,Matt Stone,INTP,3,train
 177518,Kalynn Koury,INTP,4,train
-50326,Pier Paolo Pasolini,INTP,3,train
+50326,Pier Paolo Pasolini,INTP,3,val
 108962,Arthur Petry,INTP,4,train
 11816,Christopher Walken,INTP,3,train
 27629,Jorge Luis Borges,INTP,4,train
 28210,Frank Herbert,INTP,4,train
-2182,Ron Paul,INTP,4,test
+2182,Ron Paul,INTP,4,train
 96767,Roberto Musso,INTP,4,train
 23651,Jim Parsons,INTP,4,train
 57392,Kurt Gödel,INTP,4,train
-42405,Rian Johnson,INTP,4,train
-48420,Gaspar Noé,INTP,4,test
-29216,Maurice Ravel,INTP,4,train
+42405,Rian Johnson,INTP,4,val
+48420,Gaspar Noé,INTP,4,train
+29216,Maurice Ravel,INTP,4,val
 28796,Michael Faraday,INTP,4,train
-29697,Milton Friedman,INTP,4,test
+29697,Milton Friedman,INTP,4,train
 338322,Fırat Albayram,INTP,3,train
-111441,Zerocalcare,INTP,4,train
+111441,Zerocalcare,INTP,4,val
 1014,Sergey Brin,INTP,4,train
 37395,Benjamin Steele (Rusty Cage),INTP,4,train
 41973,Zach Hadel (Psychicpebbles),INTP,4,train
-270601,Sérgio Sacani (Space Today),INTP,4,train
+270601,Sérgio Sacani (Space Today),INTP,4,val
 40966,Grigori Perelman,INTP,4,train
 20951,Wyatt Oleff,INTP,4,train
 20784,Stephen Hillenburg,INTP,4,train
-135888,Lester Green (Beetlejuice),INTP,4,val
-8844,Chevy Chase,INTP,4,train
+135888,Lester Green (Beetlejuice),INTP,4,train
+8844,Chevy Chase,INTP,4,test
 54444,Raditya Dika,INTP,4,train
-280031,Utopia Show,INTP,4,train
+280031,Utopia Show,INTP,4,val
 492239,Shannon J. Curry,INTP,3,train
 29566,Friedrich von Hayek,INTP,4,train
 10878,Sigourney Weaver,INTP,4,train
@@ -2323,72 +2323,72 @@ id,name,four_letter,images_fetched,split
 7192,Roger Penrose,INTP,4,train
 104661,Pedro Loos,INTP,3,train
 43795,ONE,INTP,2,train
-6936,Friedrich Schiller,INTP,4,train
+6936,Friedrich Schiller,INTP,4,test
 73937,Mikhail Bulgakov,INTP,4,train
-154568,Victor Gulenko,INTP,4,train
+154568,Victor Gulenko,INTP,4,test
 71460,Ryūnosuke Akutagawa,INTP,4,train
 851235,Rora (BABYMONSTER),INTP,4,train
 61563,Yegor Letov,INTP,4,train
-6238,Honoré de Balzac,INTP,4,val
+6238,Honoré de Balzac,INTP,4,train
 303052,Bizarrap,INTP,3,train
 11705,Charlotte Gainsbourg,INTP,4,train
 60507,Tomokazu Sugita,INTP,4,train
-11403,David Cronenberg,INTP,4,val
-3273,T. S. Eliot,INTP,4,val
+11403,David Cronenberg,INTP,4,train
+3273,T. S. Eliot,INTP,4,train
 33596,Miles Teller,INTP,4,train
 34964,Leonhard Euler,INTP,4,train
 16800,David Mitchell,INTP,4,train
 29158,Alexander Fleming,INTP,4,train
-5461,Don Cheadle,INTP,4,train
-15852,Tim Duncan,INTP,4,train
+5461,Don Cheadle,INTP,4,val
+15852,Tim Duncan,INTP,4,val
 71293,Luda (WJSN),INTP,4,train
 35126,Lee Nagyung (fromis_9),INTP,4,train
 2607,David Keirsey,INTP,4,train
-30006,Chris Hadfield,INTP,3,test
+30006,Chris Hadfield,INTP,3,train
 57359,Juan Román Riquelme,INTP,4,train
 60983,Stephen Chow,INTP,4,train
 260833,Maxim Katz,INTP,4,train
-36651,Louis Theroux,INTP,4,test
+36651,Louis Theroux,INTP,4,train
 464407,Cocona (XG),INTP,3,train
 6536,Frank Miller,INTP,3,train
-39992,Marilyn vos Savant,INTP,4,train
-70989,Aaron Swartz,INTP,4,test
+39992,Marilyn vos Savant,INTP,4,test
+70989,Aaron Swartz,INTP,4,val
 670,Terry Pratchett,INTP,4,train
 231100,Valerio Lundini,INTP,3,train
 31603,Alex Becker,INTP,4,train
 23602,Paul Bettany,INTP,4,train
-1012,Paul Allen,INTP,4,val
+1012,Paul Allen,INTP,4,train
 18597,Park Woojin (AB6IX),INTP,4,train
-54569,Oversimplified,INTP,4,val
-35215,Aušra Augustinavičiūtė,INTP,4,train
+54569,Oversimplified,INTP,4,train
+35215,Aušra Augustinavičiūtė,INTP,4,test
 23459,Philip Glass,INTP,4,train
 480240,Lofe,INTP,3,train
 264573,Ben Thomas (Sisyphus 55),INTP,4,train
-116279,Sally Rooney,INTP,4,test
+116279,Sally Rooney,INTP,4,train
 258716,uebermarginal (убермаргинал),INTP,4,train
 24991,Alexander Zverev,INTP,4,train
 287260,Yuriy Kaplan,INTP,4,train
 29841,Thomas “TomSka” Ridgewell,INTP,4,train
-2518,Gary Johnson,INTP,4,test
+2518,Gary Johnson,INTP,4,train
 34978,Johann Gregor Mendel,INTP,4,train
 65309,Tom Segura,INTP,3,train
 42712,Tsutomu Miyazaki,INTP,4,train
-178512,Matt Reeves,INTP,4,train
+178512,Matt Reeves,INTP,4,val
 200509,Sor Juana Inés de la Cruz,INTP,3,train
 71048,Euclid,INTP,3,train
 23916,John Malkovich,INTP,4,train
 178863,Liu Cixin,INTP,4,train
 296524,Ivan “Vanya” Usovich (Иван «Ваня» Усович),INTP,4,train
-136915,Hiroyuki Nishimura,INTP,4,val
+136915,Hiroyuki Nishimura,INTP,4,test
 42127,Mitch Hedberg,INTP,4,test
 16731,Issei Sagawa,INTP,4,test
 68891,Seoho (ONEUS),INTP,3,train
-13915,Dustin Hoffman,INTP,3,test
+13915,Dustin Hoffman,INTP,3,val
 551222,Mason Thames,INTP,4,train
-86429,"Alexandr Pichushkin chess killer""""",INTP,4,val
-45409,Cha Junho (DRIPPIN),INTP,4,val
+86429,"Alexandr Pichushkin chess killer""""",INTP,4,train
+45409,Cha Junho (DRIPPIN),INTP,4,train
 54045,Egon Schiele,INTP,4,train
-34993,Pierre Curie,INTP,4,train
+34993,Pierre Curie,INTP,4,test
 48564,Hippocrates,INTP,4,train
 32215,Jhonen Vasquez,INTP,4,train
 30038,Reza Pahlavi Junior,INTP,4,train
@@ -2402,58 +2402,58 @@ id,name,four_letter,images_fetched,split
 965,Elizabeth Olsen,ISFJ,4,train
 24953,Soobin (TXT),ISFJ,4,train
 19314,Sadie Sink,ISFJ,3,train
-28431,Yang Jeongin “I.N” (Stray Kids),ISFJ,4,test
+28431,Yang Jeongin “I.N” (Stray Kids),ISFJ,4,train
 152879,Jungwon (ENHYPEN),ISFJ,4,train
 28359,Kim Seungmin (Stray Kids),ISFJ,4,train
 10933,Bob Ross,ISFJ,4,train
-12138,Taeyeon (SNSD),ISFJ,4,test
+12138,Taeyeon (SNSD),ISFJ,4,train
 24928,Jaemin (NCT),ISFJ,3,train
 20608,Yoo Jeongyeon (TWICE),ISFJ,4,train
 14543,Henry Cavill,ISFJ,3,train
 10134,Bella Hadid,ISFJ,4,train
-26810,Yeji Hwang (ITZY),ISFJ,4,test
+26810,Yeji Hwang (ITZY),ISFJ,4,train
 26812,Lee Chaeryeong (ITZY),ISFJ,4,train
 24966,Jeonghan (SEVENTEEN),ISFJ,3,train
-88493,Carlo Ancelotti,ISFJ,4,train
-426044,Liz (IVE),ISFJ,3,val
+88493,Carlo Ancelotti,ISFJ,4,val
+426044,Liz (IVE),ISFJ,3,train
 16717,Natalia Dyer,ISFJ,4,train
 24967,Joshua (SEVENTEEN),ISFJ,4,train
 16695,Lili Reinhart,ISFJ,4,train
-31871,Seonghwa (ATEEZ),ISFJ,4,train
+31871,Seonghwa (ATEEZ),ISFJ,4,test
 20616,ViVi (Loossemble),ISFJ,3,train
 75,Jimmy Carter,ISFJ,4,train
 22652,"Catherine, Princess of Wales",ISFJ,4,train
 35113,Chung Ha,ISFJ,4,train
 1035,Mark Ruffalo,ISFJ,4,train
-55353,Barış Özcan,ISFJ,4,test
+55353,Barış Özcan,ISFJ,4,train
 1032,Anthony Hopkins,ISFJ,3,train
-24281,Marie Kondo,ISFJ,4,train
+24281,Marie Kondo,ISFJ,4,test
 16296,Wonho,ISFJ,4,train
-18696,"William, Prince of Wales",ISFJ,3,train
+18696,"William, Prince of Wales",ISFJ,3,val
 27313,Kun (WayV) (NCT),ISFJ,3,train
-97150,Kemal Kılıçdaroğlu,ISFJ,4,test
-1026,Bruce Willis,ISFJ,4,val
+97150,Kemal Kılıçdaroğlu,ISFJ,4,train
+1026,Bruce Willis,ISFJ,4,train
 28675,YoonA (SNSD),ISFJ,4,train
 454817,Sullyoon (NMIXX),ISFJ,3,train
 3153,Roger Federer,ISFJ,4,train
 28427,Kim Woojin,ISFJ,3,train
 575363,Nika Shakarami,ISFJ,4,train
-24809,Kim Minju,ISFJ,4,val
-75450,Jão,ISFJ,4,test
-373051,Shen Xiaoting (Kep1er),ISFJ,4,train
-21515,Kaia Gerber,ISFJ,3,train
+24809,Kim Minju,ISFJ,4,train
+75450,Jão,ISFJ,4,train
+373051,Shen Xiaoting (Kep1er),ISFJ,4,test
+21515,Kaia Gerber,ISFJ,3,val
 2303,Seth Meyers,ISFJ,4,train
-20432,Mitt Romney,ISFJ,4,train
-197131,Louis Partridge,ISFJ,4,val
+20432,Mitt Romney,ISFJ,4,test
+197131,Louis Partridge,ISFJ,4,train
 193975,Amy Coney Barrett,ISFJ,4,train
 25379,Arin (OH MY GIRL),ISFJ,4,train
-7536,Ed Gein,ISFJ,3,train
+7536,Ed Gein,ISFJ,3,val
 44239,Lee Jong-suk,ISFJ,3,train
 42412,Tiago Leifert,ISFJ,4,train
 3308,Andrés Iniesta,ISFJ,4,train
 503423,Julián Álvarez,ISFJ,4,train
 70231,Seyed Ebrahim Raisi,ISFJ,4,train
-19307,Leighton Meester,ISFJ,4,train
+19307,Leighton Meester,ISFJ,4,val
 39726,Toby Hendy (Tibees),ISFJ,3,train
 33310,Kirsten Dunst,ISFJ,4,train
 6486,Rachel McAdams,ISFJ,4,train
@@ -2463,129 +2463,129 @@ id,name,four_letter,images_fetched,split
 104394,Rupi Kaur,ISFJ,3,train
 8504,Sade Adu,ISFJ,4,train
 47821,Miranda Cosgrove,ISFJ,4,train
-88392,Onda (EVERGLOW),ISFJ,4,val
-26646,Minami Hamabe,ISFJ,4,test
-38735,Brooke Shields,ISFJ,4,train
+88392,Onda (EVERGLOW),ISFJ,4,train
+26646,Minami Hamabe,ISFJ,4,val
+38735,Brooke Shields,ISFJ,4,test
 2743,Anderson Cooper,ISFJ,4,train
 7847,Chuck Norris,ISFJ,4,train
-34201,Yui Aragaki,ISFJ,4,test
+34201,Yui Aragaki,ISFJ,4,train
 23259,Manny Pacquiao,ISFJ,4,train
 584204,Tan France,ISFJ,4,train
 9949,Lily James,ISFJ,3,train
 26392,Mashiho (Ex-Treasure),ISFJ,4,train
-1030,Halle Berry,ISFJ,4,train
+1030,Halle Berry,ISFJ,4,test
 540666,"Steven Wolfe Johnny Sins""""",ISFJ,3,train
-2578,Miranda Kerr,ISFJ,4,train
+2578,Miranda Kerr,ISFJ,4,val
 38162,Ben Fero,ISFJ,2,train
 263357,Paulo Muzy,ISFJ,4,train
-9229,Alicia Vikander,ISFJ,4,train
+9229,Alicia Vikander,ISFJ,4,val
 1883,James Stewart,ISFJ,4,val
-56997,Jenna Fischer,ISFJ,4,train
+56997,Jenna Fischer,ISFJ,4,test
 63346,Emine Erdoğan,ISFJ,4,train
 3195,Michael Caine,ISFJ,4,train
 33280,Ronnie Coleman,ISFJ,4,train
-93222,Katrina Kaif,ISFJ,4,train
+93222,Katrina Kaif,ISFJ,4,val
 18064,Harry Maguire,ISFJ,4,train
 846896,Pharita (BABYMONSTER),ISFJ,3,train
-21597,Daesung (BIGBANG),ISFJ,3,train
+21597,Daesung (BIGBANG),ISFJ,3,test
 217181,Sumin (STAYC),ISFJ,4,train
-66232,King Abdullah,ISFJ,4,train
+66232,King Abdullah,ISFJ,4,test
 243340,Kamila Valieva,ISFJ,3,train
 25378,Yubin (OH MY GIRL),ISFJ,4,val
 54483,E:U (EVERGLOW),ISFJ,4,train
-31082,Deepika Padukone,ISFJ,4,test
+31082,Deepika Padukone,ISFJ,4,train
 504092,Scott Christian Sava,ISFJ,3,train
 430093,Jungsu (Xdinary Heroes),ISFJ,4,train
 47461,Kaká,ISFJ,4,train
 43378,Kasumi Arimura,ISFJ,3,train
-320,William Howard Taft,ISFJ,4,test
-76142,Sadio Mané,ISFJ,4,val
+320,William Howard Taft,ISFJ,4,train
+76142,Sadio Mané,ISFJ,4,train
 34205,Tao Tsuchiya,ISFJ,4,train
 306023,Tunç Kurt,ISFJ,4,train
-30083,Andrew Lincoln,ISFJ,4,val
-514356,Lola Tung,ISFJ,4,train
+30083,Andrew Lincoln,ISFJ,4,train
+514356,Lola Tung,ISFJ,4,test
 9740,Gary Ridgway,ISFJ,4,train
-22845,King Salman,ISFJ,4,val
+22845,King Salman,ISFJ,4,train
 365711,Ran Takahashi,ISFJ,4,train
 65450,Hilary Hahn,ISFJ,4,train
-202669,Iga Świątek,ISFJ,4,val
+202669,Iga Świątek,ISFJ,4,test
 216202,Pattie Boyd,ISFJ,4,train
-104388,Ariel Helwani,ISFJ,4,val
+104388,Ariel Helwani,ISFJ,4,train
 377852,Kawaguchi Yurina,ISFJ,4,train
 130687,Liza Soberano,ISFJ,3,train
 31826,Victoria Song,ISFJ,4,train
 11670,Catherine Deneuve,ISFJ,4,train
-72487,Troy Baker,ISFJ,4,train
-25881,Candice Swanepoel,ISFJ,4,test
-39778,Mao Asada,ISFJ,4,val
-1031,Naomi Watts,ISFJ,4,train
-9043,Mariusz Pudzianowski,ISFJ,4,test
-844595,Rami (BABYMONSTER),ISFJ,4,test
+72487,Troy Baker,ISFJ,4,test
+25881,Candice Swanepoel,ISFJ,4,train
+39778,Mao Asada,ISFJ,4,test
+1031,Naomi Watts,ISFJ,4,test
+9043,Mariusz Pudzianowski,ISFJ,4,train
+844595,Rami (BABYMONSTER),ISFJ,4,train
 40854,Park Bo-young,ISFJ,4,train
 312475,Zé Felipe,ISFJ,3,train
 11082,Gianluigi Buffon,ISFJ,4,train
 380545,Shunsuke Michieda,ISFJ,4,train
 152020,Joshua Tomar,ISFJ,4,train
 45104,Sandy (Sandy & Junior),ISFJ,4,train
-71295,Yeoreum (WJSN),ISFJ,4,train
-141111,Shivani Paliwal (Now United),ISFJ,3,val
+71295,Yeoreum (WJSN),ISFJ,4,val
+141111,Shivani Paliwal (Now United),ISFJ,3,train
 393447,Clarissa Müller,ISFJ,3,train
 111473,Phillipa Soo,ISFJ,4,train
-19005,Hongseok (PENTAGON),ISFJ,4,val
+19005,Hongseok (PENTAGON),ISFJ,4,train
 232858,Yuki (Purple Kiss),ISFJ,4,train
 34930,Seunghee (CLC),ISFJ,3,train
-47845,Michel Teló,ISFJ,4,test
-20854,Alexis Bledel,ISFJ,4,train
+47845,Michel Teló,ISFJ,4,train
+20854,Alexis Bledel,ISFJ,4,val
 11411,Yasujiro Ozu,ISFJ,4,train
-45099,Roberto Carlos,ISFJ,4,train
-20288,Kate Mara,ISFJ,4,test
+45099,Roberto Carlos,ISFJ,4,val
+20288,Kate Mara,ISFJ,4,train
 68883,Hyojin (ONF),ISFJ,4,train
-191350,Jayson Tatum,ISFJ,4,test
+191350,Jayson Tatum,ISFJ,4,train
 47463,Alisson Becker,ISFJ,4,train
 11647,Johnny Carson,ISFJ,4,train
 121916,Alina Zagitova,ISFJ,4,train
-72396,Jung Chaeyeon,ISFJ,4,train
+72396,Jung Chaeyeon,ISFJ,4,test
 20192,Katie Holmes,ISFJ,4,train
-26402,Kim Jonghyeon (NU'EST),ISFJ,4,val
+26402,Kim Jonghyeon (NU'EST),ISFJ,4,train
 27155,Mirko Drotschmann (MrWissen2go),ISFJ,4,train
-86072,George MacKay,ISFJ,4,val
-8712,André the Giant,ISFJ,4,test
+86072,George MacKay,ISFJ,4,train
+8712,André the Giant,ISFJ,4,train
 157060,Fabio Fazio,ISFJ,4,train
-49336,Romee Strijd,ISFJ,4,train
-45419,Lee Eunsang (YOUNITE),ISFJ,4,train
+49336,Romee Strijd,ISFJ,4,test
+45419,Lee Eunsang (YOUNITE),ISFJ,4,val
 464408,Hinata (XG),ISFJ,3,train
 229354,Ju Jingyi,ISFJ,4,test
 161093,Soojin (Weeekly),ISFJ,4,train
-118288,Mahiro Takasugi,ISFJ,4,train
+118288,Mahiro Takasugi,ISFJ,4,val
 6613,Kurt Angle,ISFJ,4,train
-176482,Kant,ISFJ,4,train
+176482,Kant,ISFJ,4,test
 43554,Fátima Bernardes,ISFJ,4,train
 6267,Johannes Vermeer,ISFJ,3,train
-34195,Kim So-hyun,ISFJ,4,train
-128025,Mehmet Akif Ersoy,ISFJ,4,train
+34195,Kim So-hyun,ISFJ,4,test
+128025,Mehmet Akif Ersoy,ISFJ,4,test
 96307,Phillip Schofield,ISFJ,4,train
-141115,Savannah Clarke (Now United),ISFJ,4,test
+141115,Savannah Clarke (Now United),ISFJ,4,train
 99833,Nathan Yaffe (The Drawfee Channel),ISFJ,4,train
 56274,Hrithik Roshan,ISFJ,4,train
 95873,Nagita Slavina,ISFJ,3,train
 137075,Ziya Selçuk,ISFJ,4,train
-285304,Gong Jun,ISFJ,3,train
+285304,Gong Jun,ISFJ,3,test
 74018,Mahmoud Hessabi,ISFJ,4,train
 42427,Tamera Mowry,ISFJ,4,train
-44741,Elizabeth Lail,ISFJ,4,train
+44741,Elizabeth Lail,ISFJ,4,val
 49559,Ivan Turgenev,ISFJ,4,train
 112947,Lee Sujeong (Lovelyz),ISFJ,4,train
-61959,José José,ISFJ,4,val
+61959,José José,ISFJ,4,train
 119382,Rocío Vidal (La Gata de Schrödinger),ISFJ,4,train
 375930,Annie Ernaux,ISFJ,4,train
-121874,Fatih Portakal,ISFJ,4,test
+121874,Fatih Portakal,ISFJ,4,train
 108012,Tessa Virtue,ISFJ,2,train
-104598,Chorong (Apink),ISFJ,4,train
-232796,Angela Aguilar,ISFJ,4,train
+104598,Chorong (Apink),ISFJ,4,val
+232796,Angela Aguilar,ISFJ,4,val
 43548,Marina Ruy Barbosa,ISFJ,4,train
 20084,Renée Zellweger,ISFJ,4,train
 231386,Thiago Silva,ISFJ,4,train
-26080,Dominic Thiem,ISFJ,4,val
+26080,Dominic Thiem,ISFJ,4,train
 33503,James Comey,ISFJ,4,train
 45648,Norman Rockwell,ISFJ,4,train
 599913,Saena (FIFTY FIFTY),ISFJ,4,train
@@ -2597,110 +2597,110 @@ id,name,four_letter,images_fetched,split
 82621,Byungchan (VICTON),ISFJ,4,train
 660731,Seo Dahyun (tripleS),ISFJ,4,train
 127183,Jul,ISFJ,4,train
-196233,Abigail Adams,ISFJ,4,test
+196233,Abigail Adams,ISFJ,4,train
 28424,Hwang Hyunjin (Stray Kids),ISFP,4,train
 4243,Jungkook (BTS),ISFP,4,train
-12939,Jennie (BLACKPINK),ISFP,4,val
+12939,Jennie (BLACKPINK),ISFP,4,test
 131,Michael Jackson,ISFP,4,train
 45,Lionel Messi,ISFP,4,train
 20606,Hirai Momo (TWICE),ISFP,4,train
-567786,Emma Myers,ISFP,3,train
-8922,Kai (EXO),ISFP,4,test
+567786,Emma Myers,ISFP,3,test
+8922,Kai (EXO),ISFP,4,train
 15047,Elliot Rodger,ISFP,4,train
-31829,Sulli,ISFP,4,test
-52942,Alexa Demie,ISFP,3,train
+31829,Sulli,ISFP,4,train
+52942,Alexa Demie,ISFP,3,test
 24924,Taeyong (NCT),ISFP,4,train
-210511,Giselle (aespa),ISFP,4,test
-10254,Seulgi (Red Velvet),ISFP,4,test
-26712,Seo Soojin,ISFP,3,test
-6483,Ryan Gosling,ISFP,4,test
+210511,Giselle (aespa),ISFP,4,train
+10254,Seulgi (Red Velvet),ISFP,4,train
+26712,Seo Soojin,ISFP,3,train
+6483,Ryan Gosling,ISFP,4,train
 24810,Kim Chaewon (LE SSERAFIM),ISFP,4,train
 1048,Brad Pitt,ISFP,4,train
 4978,Frida Kahlo,ISFP,4,train
 5671,Frédéric Chopin,ISFP,4,train
 2958,Mike Tyson,ISFP,4,train
-8841,Adam Sandler,ISFP,4,train
+8841,Adam Sandler,ISFP,4,test
 31972,Hwasa (MAMAMOO),ISFP,3,train
-24974,THE8 (SEVENTEEN),ISFP,4,train
-58131,girl in red,ISFP,4,test
+24974,THE8 (SEVENTEEN),ISFP,4,val
+58131,girl in red,ISFP,4,train
 37147,Yuzuru Hanyu,ISFP,4,train
 31215,Ten (WayV) (NCT),ISFP,4,train
 27929,Lee Taemin (SHINee),ISFP,4,train
 24976,Vernon (SEVENTEEN),ISFP,4,train
 158321,Arthur Aguiar (BBB22),ISFP,4,train
-31872,San (ATEEZ),ISFP,4,test
+31872,San (ATEEZ),ISFP,4,train
 539524,Manoel Gomes (Caneta Azul),ISFP,3,train
 25425,Sunmi,ISFP,4,train
 132,Prince,ISFP,4,train
-20266,Dakota Johnson,ISFP,4,val
-27193,Charles Bukowski,ISFP,4,val
+20266,Dakota Johnson,ISFP,4,train
+27193,Charles Bukowski,ISFP,4,train
 482315,Hong Eunchae (LE SSERAFIM),ISFP,4,train
-16716,Sophie Turner,ISFP,3,train
-922,Sebastian Stan,ISFP,4,test
+16716,Sophie Turner,ISFP,3,test
+922,Sebastian Stan,ISFP,4,train
 47259,Fiuk,ISFP,3,train
-22128,Masashi Kishimoto,ISFP,4,val
+22128,Masashi Kishimoto,ISFP,4,train
 870458,Zhang Hao (ZEROBASEONE),ISFP,4,train
-1571,Steven Spielberg,ISFP,4,train
+1571,Steven Spielberg,ISFP,4,test
 21480,Tom Felton,ISFP,4,train
-12700,Zack Snyder,ISFP,4,train
+12700,Zack Snyder,ISFP,4,test
 74067,Hunter Schafer,ISFP,3,train
-21912,Kali Uchis,ISFP,4,train
+21912,Kali Uchis,ISFP,4,val
 1371,Jared Leto,ISFP,4,train
 34197,Bae Suzy,ISFP,4,train
 20366,Zoë Kravitz,ISFP,4,train
-26261,Michelangelo Caravaggio,ISFP,4,test
+26261,Michelangelo Caravaggio,ISFP,4,train
 120631,Han So-hee,ISFP,4,train
 17765,James Dean,ISFP,4,train
 793,Rami Malek,ISFP,4,train
 30485,Alan Walker,ISFP,4,train
 9917,Dennis Rodman,ISFP,4,train
-1054,Zac Efron,ISFP,4,train
+1054,Zac Efron,ISFP,4,val
 382,David Beckham,ISFP,4,train
-6242,Sappho,ISFP,4,train
+6242,Sappho,ISFP,4,val
 71867,Joe Alwyn,ISFP,4,train
 96041,Babu Santana,ISFP,4,train
 21596,Taeyang (BIGBANG),ISFP,4,train
 11302,Tommy Wiseau,ISFP,4,train
-16989,Ana de Armas,ISFP,4,train
-16772,Pamela Anderson,ISFP,4,test
+16989,Ana de Armas,ISFP,4,test
+16772,Pamela Anderson,ISFP,4,train
 49597,Kevin (The Boyz),ISFP,4,train
-237909,Christian Yu (DPR IAN),ISFP,3,val
+237909,Christian Yu (DPR IAN),ISFP,3,test
 136883,Haruto (TREASURE),ISFP,4,val
-170575,Natsumi Tsuji (Nevada-tan),ISFP,3,train
+170575,Natsumi Tsuji (Nevada-tan),ISFP,3,val
 22625,Brendan Fraser,ISFP,4,train
 23611,Joe Keery,ISFP,4,val
-23313,Antoine Griezmann,ISFP,4,train
-10460,Monica Bellucci,ISFP,4,train
+23313,Antoine Griezmann,ISFP,4,val
+10460,Monica Bellucci,ISFP,4,test
 69186,Leslie Cheung（张国荣）,ISFP,4,train
-13927,Norman Reedus,ISFP,4,val
+13927,Norman Reedus,ISFP,4,train
 832304,Seok Matthew (ZEROBASEONE),ISFP,4,train
-11856,Claude Debussy,ISFP,4,train
+11856,Claude Debussy,ISFP,4,test
 26954,Eunha (GFRIEND/VIVIZ),ISFP,3,train
 365924,Ezaki Hikaru (Kep1er),ISFP,4,train
 153077,Kai Havertz,ISFP,4,train
-43585,Halle Bailey,ISFP,4,val
-119074,Choi Youngjae (GOT7),ISFP,4,train
-62100,Mon Laferte,ISFP,4,test
-150891,Canserbero,ISFP,3,val
+43585,Halle Bailey,ISFP,4,train
+119074,Choi Youngjae (GOT7),ISFP,4,val
+62100,Mon Laferte,ISFP,4,train
+150891,Canserbero,ISFP,3,train
 931,Hayden Christensen,ISFP,4,train
 15624,Dave Bautista,ISFP,3,train
-20228,Nikolas Cruz,ISFP,4,train
+20228,Nikolas Cruz,ISFP,4,test
 11650,Emily Ratajkowski,ISFP,4,train
 328,Ulysses S. Grant,ISFP,3,train
-4961,George Michael,ISFP,4,val
-31774,Yung Lean,ISFP,4,val
-20085,Judy Garland,ISFP,4,test
+4961,George Michael,ISFP,4,train
+31774,Yung Lean,ISFP,4,train
+20085,Judy Garland,ISFP,4,train
 151842,Pocah,ISFP,3,train
-18594,Bae Jinyoung (CIX),ISFP,3,train
+18594,Bae Jinyoung (CIX),ISFP,3,test
 260136,Zemfira,ISFP,4,train
-34212,Nana Komatsu,ISFP,4,test
+34212,Nana Komatsu,ISFP,4,train
 67053,Angèle,ISFP,4,train
-30570,Gypsy Rose Blanchard,ISFP,4,val
+30570,Gypsy Rose Blanchard,ISFP,4,train
 410186,Pablo Gavi,ISFP,4,train
-53175,Sharon Tate,ISFP,3,train
+53175,Sharon Tate,ISFP,3,test
 75102,Ronaldo De Azevedo (Gato Galactico),ISFP,4,train
 21481,Rupert Grint,ISFP,4,train
-48652,Orlando Bloom,ISFP,4,train
+48652,Orlando Bloom,ISFP,4,test
 11582,Mohamed Salah,ISFP,4,train
 11301,Sofia Coppola,ISFP,4,train
 150307,Nicki Nicole,ISFP,3,train
@@ -2710,23 +2710,23 @@ id,name,four_letter,images_fetched,split
 38013,Lana Rhoades,ISFP,4,train
 17655,Luka Dončić,ISFP,3,train
 5210,Albert Fish,ISFP,4,train
-48972,Taylor Hill,ISFP,4,train
-28984,Dita Von Teese,ISFP,4,train
+48972,Taylor Hill,ISFP,4,val
+28984,Dita Von Teese,ISFP,4,test
 11754,Travis Fimmel,ISFP,4,train
 49530,Vincent Gallo,ISFP,4,train
 217178,J (STAYC),ISFP,4,train
 155747,Austin Butler,ISFP,4,train
 34929,Eunbin (CLC),ISFP,4,train
 326533,Ángel Di María,ISFP,4,train
-9821,Colin Farrell,ISFP,4,train
+9821,Colin Farrell,ISFP,4,val
 38384,Ethan Dolan,ISFP,4,train
 20364,Steven Yeun,ISFP,4,train
 33555,Jodie Comer,ISFP,4,train
 12436,Enrique Iglesias,ISFP,4,train
-281076,FACE,ISFP,3,test
-64121,Lucas Paquetá,ISFP,3,test
-34549,Richard Madden,ISFP,4,train
-118074,Matuê,ISFP,4,val
+281076,FACE,ISFP,3,train
+64121,Lucas Paquetá,ISFP,3,train
+34549,Richard Madden,ISFP,4,val
+118074,Matuê,ISFP,4,test
 138435,MC Bin Laden,ISFP,4,val
 25377,YooA (OH MY GIRL),ISFP,4,train
 106552,DPR Live,ISFP,4,train
@@ -2735,7 +2735,7 @@ id,name,four_letter,images_fetched,split
 429803,O.de (Xdinary Heroes),ISFP,4,train
 49568,Paul Newman,ISFP,4,train
 41635,Paul Walker,ISFP,4,train
-19390,Bonnie Parker,ISFP,4,test
+19390,Bonnie Parker,ISFP,4,train
 62957,Gia Carangi,ISFP,4,train
 56512,Yoon Dowoon (DAY6),ISFP,4,train
 15669,Leo (VIXX),ISFP,4,train
@@ -2743,8 +2743,8 @@ id,name,four_letter,images_fetched,split
 320310,Angus Cloud,ISFP,4,train
 88949,Goo Hara (KARA),ISFP,4,train
 19313,Phoebe Tonkin,ISFP,4,train
-50189,Brigitte Bardot,ISFP,4,train
-50190,Jane Birkin,ISFP,4,val
+50189,Brigitte Bardot,ISFP,4,test
+50190,Jane Birkin,ISFP,4,train
 23868,Bruna Marquezine,ISFP,4,train
 10156,Jean-Claude Van Damme,ISFP,4,train
 15529,Liv Tyler,ISFP,4,train
@@ -2757,11 +2757,11 @@ id,name,four_letter,images_fetched,split
 9951,Kit Harington,ISFP,4,train
 74407,Dilraba Dilmurat,ISFP,4,train
 9018,Sean Penn,ISFP,4,train
-502997,Salvador Ramos,ISFP,4,train
+502997,Salvador Ramos,ISFP,4,val
 427959,Moon Sua (Billlie),ISFP,4,train
 42750,Kim Yohan (WEi),ISFP,4,train
 45105,Cássia Eller,ISFP,4,train
-135302,Jennifer Pan,ISFP,4,train
+135302,Jennifer Pan,ISFP,4,test
 48533,Linda McCartney,ISFP,4,train
 94604,Miya (GWSN),ISFP,4,train
 43374,Suzu Hirose,ISFP,3,train
@@ -2769,54 +2769,54 @@ id,name,four_letter,images_fetched,split
 11613,Damien Chazelle,ISFP,4,train
 87393,Shohei Ohtani,ISFP,4,train
 37420,Bona (WJSN),ISFP,4,train
-8725,Jeff Hardy,ISFP,4,train
+8725,Jeff Hardy,ISFP,4,val
 54537,Francesco Totti,ISFP,4,train
 9672,Cary Grant,ISFP,4,train
-198129,Phil Foden,ISFP,4,test
-43852,Paul Gauguin,ISFP,3,val
-54905,Violeta Parra,ISFP,3,train
-45426,Tite Kubo,ISFP,4,train
+198129,Phil Foden,ISFP,4,train
+43852,Paul Gauguin,ISFP,3,train
+54905,Violeta Parra,ISFP,3,val
+45426,Tite Kubo,ISFP,4,test
 449915,Mikey Madison,ISFP,4,train
-36957,Seolhyun (AOA),ISFP,4,test
-19421,Pierce Brosnan,ISFP,4,train
+36957,Seolhyun (AOA),ISFP,4,val
+19421,Pierce Brosnan,ISFP,4,val
 19391,Clyde Barrow,ISFP,4,train
 33196,Camille Rowe,ISFP,4,train
-35801,Gustav Klimt,ISFP,4,test
+35801,Gustav Klimt,ISFP,4,val
 21391,Jinhwan / Jay (iKON),ISFP,4,train
 37451,DΞΔN,ISFP,2,train
 76013,Kim Woosung (The Rose),ISFP,3,train
 68896,Xion (ONEUS),ISFP,4,train
-285603,PHARAOH,ISFP,4,test
+285603,PHARAOH,ISFP,4,train
 208524,Muriel Benavides Torres (Piyoasdf),ISFP,4,train
 13719,Gareth Bale,ISFP,4,train
-72169,Ed Maverick,ISFP,4,val
+72169,Ed Maverick,ISFP,4,train
 567981,Miguel Cazares Mora,ISFP,4,train
 10345,Kevin Costner,ISFP,4,train
-194843,Chase Stokes,ISFP,4,val
+194843,Chase Stokes,ISFP,4,test
 9738,"David Berkowitz Son of Sam""""",ISFP,4,train
 73764,Arón Piper,ISFP,4,train
 338,Martin Van Buren,ISFP,4,train
 110220,Jang Gyuri,ISFP,4,train
 10253,Irene (Red Velvet),ISTJ,4,train
 20600,Tzuyu (TWICE),ISTJ,4,train
-10027,Queen Elizabeth II,ISTJ,4,train
+10027,Queen Elizabeth II,ISTJ,4,test
 17334,Jeff Bezos,ISTJ,4,train
-135,Natalie Portman,ISTJ,4,val
-969,Morgan Freeman,ISTJ,4,train
+135,Natalie Portman,ISTJ,4,train
+969,Morgan Freeman,ISTJ,4,val
 152875,Sunghoon (ENHYPEN),ISTJ,3,train
-5670,Johann Sebastian Bach,ISTJ,4,val
+5670,Johann Sebastian Bach,ISTJ,4,train
 8921,D.O. (EXO),ISTJ,3,train
 345,George Washington,ISTJ,4,train
 3202,Mike Pence,ISTJ,4,train
-9228,Link Neal,ISTJ,3,val
+9228,Link Neal,ISTJ,3,test
 72089,Park Jinyoung (GOT7),ISTJ,4,train
 16074,Warren Buffett,ISTJ,4,train
-8915,Xiumin (EXO),ISTJ,4,train
+8915,Xiumin (EXO),ISTJ,4,test
 31887,Jongho (ATEEZ),ISTJ,4,train
-1766,Robert de Niro,ISTJ,4,val
-77,Richard Nixon,ISTJ,4,test
+1766,Robert de Niro,ISTJ,4,test
+77,Richard Nixon,ISTJ,4,train
 133,Denzel Washington,ISTJ,4,train
-10867,Jennifer Connelly,ISTJ,3,test
+10867,Jennifer Connelly,ISTJ,3,train
 102250,Müge Anlı,ISTJ,4,train
 37415,Son Naeun (Apink),ISTJ,4,train
 111035,Anthony Fauci,ISTJ,4,train
@@ -2825,28 +2825,28 @@ id,name,four_letter,images_fetched,split
 14851,Tim Pool,ISTJ,4,train
 73,George H. W. Bush,ISTJ,4,train
 856,Matt Damon,ISTJ,4,train
-33414,Ruth Bader Ginsburg,ISTJ,3,train
+33414,Ruth Bader Ginsburg,ISTJ,3,val
 8729,Kawhi Leonard,ISTJ,4,train
 313,Dwight D. Eisenhower,ISTJ,4,train
 28679,Seohyun (SNSD),ISTJ,4,train
-653,Sean Connery,ISTJ,3,train
-28676,Sunny (SNSD),ISTJ,4,val
+653,Sean Connery,ISTJ,3,test
+28676,Sunny (SNSD),ISTJ,4,train
 24259,Tulsi Gabbard,ISTJ,4,train
 1025,Christopher Lee,ISTJ,4,train
 18668,Lee Min-ho,ISTJ,4,train
-317,Calvin Coolidge,ISTJ,4,test
-6480,Marco-Pierre White,ISTJ,4,test
+317,Calvin Coolidge,ISTJ,4,train
+6480,Marco-Pierre White,ISTJ,4,train
 59666,Roh Jisun (fromis_9),ISTJ,4,train
-425735,Gaeul (IVE),ISTJ,4,test
+425735,Gaeul (IVE),ISTJ,4,train
 55604,İlber Ortaylı,ISTJ,4,train
 41763,BoA,ISTJ,4,train
-26957,Sowon (GFRIEND),ISTJ,4,train
+26957,Sowon (GFRIEND),ISTJ,4,val
 45227,Matt D'Avella,ISTJ,4,train
-141480,Aldo Bartra (El Robot de Platón/Robotitus),ISTJ,4,test
+141480,Aldo Bartra (El Robot de Platón/Robotitus),ISTJ,4,train
 9739,Dennis Rader (BTK),ISTJ,4,test
-6501,Xavi,ISTJ,4,test
+6501,Xavi,ISTJ,4,train
 2187,Ben Carson,ISTJ,3,train
-7269,Alessandro Manzoni,ISTJ,4,val
+7269,Alessandro Manzoni,ISTJ,4,train
 10032,Josh Brolin,ISTJ,3,train
 2184,Jeb Bush,ISTJ,2,train
 41755,Max Changmin (TVXQ),ISTJ,2,train
@@ -2854,10 +2854,10 @@ id,name,four_letter,images_fetched,split
 307978,Petr Pavel,ISTJ,4,train
 55358,Ruhi Çenet,ISTJ,4,train
 49861,Akshay Kumar,ISTJ,4,train
-75907,Devlet Bahçeli,ISTJ,4,train
+75907,Devlet Bahçeli,ISTJ,4,val
 34287,Peyton List,ISTJ,4,train
 20143,Brett Kavanaugh,ISTJ,4,train
-396184,MD Chefe,ISTJ,3,train
+396184,MD Chefe,ISTJ,3,val
 39948,Dennis Prager,ISTJ,4,train
 6493,Paolo Maldini,ISTJ,4,train
 9560,Russell Wilson,ISTJ,4,train
@@ -2866,7 +2866,7 @@ id,name,four_letter,images_fetched,split
 45274,Aziz Sancar,ISTJ,4,train
 316,Herbert Hoover,ISTJ,4,train
 76146,Toni Kroos,ISTJ,4,train
-43782,William Bonner,ISTJ,4,test
+43782,William Bonner,ISTJ,4,train
 12032,Sean Bean,ISTJ,4,train
 32683,Chris Benoit,ISTJ,3,train
 45281,Condoleezza Rice,ISTJ,3,train
@@ -2874,81 +2874,81 @@ id,name,four_letter,images_fetched,split
 21103,Josef Fritzl,ISTJ,4,train
 13916,Tommy Lee Jones,ISTJ,4,train
 33921,Temple Grandin,ISTJ,3,val
-49864,Amitabh Bachchan,ISTJ,4,val
+49864,Amitabh Bachchan,ISTJ,4,train
 76144,Christian Eriksen,ISTJ,4,train
 39702,Dawid Myśliwiec (Uwaga! Naukowy Bełkot),ISTJ,4,train
-33469,Alec Guinness,ISTJ,4,test
-46475,Daniel Bernoulli,ISTJ,4,test
+33469,Alec Guinness,ISTJ,4,train
+46475,Daniel Bernoulli,ISTJ,4,train
 376,Derek Jeter,ISTJ,4,train
-407049,Ahn Bo-hyun,ISTJ,4,train
-6237,Emile Zola,ISTJ,4,val
-160274,Kamaru Usman,ISTJ,4,train
-21394,Chanwoo (iKON),ISTJ,4,test
-334,Zachary Taylor,ISTJ,4,train
-22880,Peter Hitchens,ISTJ,4,val
-119994,Nathan Chen,ISTJ,4,train
-512783,Yoon Seoyeon (tripleS),ISTJ,4,train
+407049,Ahn Bo-hyun,ISTJ,4,test
+6237,Emile Zola,ISTJ,4,train
+160274,Kamaru Usman,ISTJ,4,test
+21394,Chanwoo (iKON),ISTJ,4,train
+334,Zachary Taylor,ISTJ,4,test
+22880,Peter Hitchens,ISTJ,4,train
+119994,Nathan Chen,ISTJ,4,test
+512783,Yoon Seoyeon (tripleS),ISTJ,4,test
 28897,Henry Fonda,ISTJ,4,train
 52808,Maxim Gorky,ISTJ,4,train
 308276,Derek Chauvin,ISTJ,4,train
 120580,Pierluigi Collina,ISTJ,3,train
-278427,Dmitry Puchkov,ISTJ,4,train
+278427,Dmitry Puchkov,ISTJ,4,val
 34402,Ip Man (Yip Kai-man),ISTJ,3,train
-324,Benjamin Harrison,ISTJ,4,train
+324,Benjamin Harrison,ISTJ,4,test
 119539,Wellington Menezes de Oliveira,ISTJ,4,train
-56469,Ayaan Hirsi Ali,ISTJ,4,train
+56469,Ayaan Hirsi Ali,ISTJ,4,val
 35769,Clarence Thomas,ISTJ,4,train
 18699,King Felipe VI of Spain,ISTJ,4,train
-10461,Ed Harris,ISTJ,4,val
+10461,Ed Harris,ISTJ,4,train
 15081,Carl Panzram,ISTJ,4,train
 109300,Muqtada al-Sadr,ISTJ,4,train
 39977,Ahn Sohee,ISTJ,4,train
-67409,Kais Saied,ISTJ,4,train
-60343,Saori Hayami,ISTJ,3,train
-4732,Sidney Crosby,ISTJ,4,test
-34959,Tycho Brahe,ISTJ,4,train
+67409,Kais Saied,ISTJ,4,test
+60343,Saori Hayami,ISTJ,3,test
+4732,Sidney Crosby,ISTJ,4,train
+34959,Tycho Brahe,ISTJ,4,val
 6612,Bret Hart,ISTJ,4,train
-44566,Ajit Pai,ISTJ,4,test
+44566,Ajit Pai,ISTJ,4,train
 159499,Alan Sugar (Lord Sugar),ISTJ,3,train
 54884,Daymond John,ISTJ,3,train
 16759,Claudia Schiffer,ISTJ,4,val
 66496,Lim Nayoung,ISTJ,4,train
 122058,Sergio Busquets,ISTJ,4,train
-366053,"Lucas Saatkamp Lucão""""",ISTJ,4,train
+366053,"Lucas Saatkamp Lucão""""",ISTJ,4,val
 205284,Yulia Navalnaya,ISTJ,4,train
 24697,Robert Mueller,ISTJ,4,train
 2959,Evander Holyfield,ISTJ,4,train
 16705,Eliza Taylor,ISTJ,4,train
 370530,Pierre Poilievre,ISTJ,4,train
-70747,Maggie Smith,ISTJ,4,val
+70747,Maggie Smith,ISTJ,4,train
 227784,Zhao Liying (Zanilia Zhao),ISTJ,4,train
 25514,Sam Elliott,ISTJ,4,train
-40393,"Fred Trump, Sr.",ISTJ,4,train
-50005,Necip Fazıl Kısakürek,ISTJ,4,train
+40393,"Fred Trump, Sr.",ISTJ,4,test
+50005,Necip Fazıl Kısakürek,ISTJ,4,test
 107744,Dr. Sanjay Gupta,ISTJ,4,train
-96182,Ahmet Davutoğlu,ISTJ,4,train
+96182,Ahmet Davutoğlu,ISTJ,4,val
 119405,Thomas Pesquet,ISTJ,4,train
 142044,Giovanni Verga,ISTJ,4,train
 65474,Connor McDavid,ISTJ,4,train
 11365,John Ford,ISTJ,4,train
-109543,Yulia Lipnitskaya,ISTJ,4,train
+109543,Yulia Lipnitskaya,ISTJ,4,val
 103877,Jon Richardson,ISTJ,4,train
 74502,Arthur Shawcross,ISTJ,4,train
-19376,Peter Sutcliffe,ISTJ,4,train
+19376,Peter Sutcliffe,ISTJ,4,val
 39587,Greg Abbott,ISTJ,4,train
-200900,Jeff Bandelin (JohnnyUtah),ISTJ,3,test
+200900,Jeff Bandelin (JohnnyUtah),ISTJ,3,train
 82291,George Lincoln Rockwell,ISTJ,4,train
-29726,Jennifer Morrison,ISTJ,4,train
+29726,Jennifer Morrison,ISTJ,4,test
 12626,Henry Lee Lucas,ISTJ,4,train
 77885,John List,ISTJ,4,train
-168336,Tomohiro Kato,ISTJ,4,train
+168336,Tomohiro Kato,ISTJ,4,val
 34863,D. B. Weiss,ISTJ,4,train
-223785,Antony Blinken,ISTJ,4,test
-107135,Robbie Lawler,ISTJ,4,test
+223785,Antony Blinken,ISTJ,4,train
+107135,Robbie Lawler,ISTJ,4,train
 145464,Nozomi Sasaki,ISTJ,4,train
 262195,Lee Seo-jin,ISTJ,4,val
 144958,Joe Navarro,ISTJ,4,train
-191901,Canan Kaftancıoğlu,ISTJ,4,val
+191901,Canan Kaftancıoğlu,ISTJ,4,train
 36565,Jonathan Toews,ISTJ,4,train
 235411,Leonid Kanevsky,ISTJ,4,train
 176160,Ícaro de Carvalho,ISTJ,3,train
@@ -2960,166 +2960,166 @@ id,name,four_letter,images_fetched,split
 20681,Wolf Blitzer,ISTJ,4,train
 7989,Ross Perot,ISTJ,4,train
 36092,John Roberts,ISTJ,4,train
-371047,Sakurai Miu (ME:I),ISTJ,4,val
+371047,Sakurai Miu (ME:I),ISTJ,4,train
 22572,Roger Moore,ISTJ,4,train
 26813,Shin Ryujin (ITZY),ISTP,4,train
 210555,Winter (aespa),ISTP,4,train
 24956,Taehyun (TXT),ISTP,4,train
 1740,Kristen Stewart,ISTP,4,train
 1746,Megan Fox,ISTP,4,train
-24926,Jaehyun (NCT),ISTP,4,train
+24926,Jaehyun (NCT),ISTP,4,val
 1040,Bruce Lee,ISTP,4,train
-20625,Hyeju (Loossemble),ISTP,3,val
+20625,Hyeju (Loossemble),ISTP,3,train
 46,Kobe Bryant,ISTP,4,train
-471,Christian Bale,ISTP,4,train
+471,Christian Bale,ISTP,4,test
 463,Scarlett Johansson,ISTP,4,train
-6460,Tom Hardy,ISTP,3,train
+6460,Tom Hardy,ISTP,3,test
 48,Michael Jordan,ISTP,4,train
 24993,Jennette McCurdy,ISTP,3,train
 65246,HyunJin (Loossemble),ISTP,4,train
 11128,Bill Burr,ISTP,4,train
 14724,Khabib Nurmagomedov,ISTP,4,train
-434,Harrison Ford,ISTP,4,train
-24929,Jeno (NCT),ISTP,3,train
+434,Harrison Ford,ISTP,4,val
+24929,Jeno (NCT),ISTP,3,test
 31951,Lee Gahyeon (DREAMCATCHER),ISTP,4,train
-22677,Melania Trump,ISTP,4,train
+22677,Melania Trump,ISTP,4,val
 108122,Erling Haaland,ISTP,3,train
 362447,Richarlison,ISTP,4,train
 39979,Juyeon (The Boyz),ISTP,3,train
 19921,Ashton Kutcher,ISTP,4,train
 23906,Thomas Brodie-Sangster,ISTP,4,train
-34684,Bear Grylls,ISTP,3,val
+34684,Bear Grylls,ISTP,3,test
 97558,Wang Yibo,ISTP,4,train
 2718,Sasha Grey,ISTP,3,train
 3135,Sylvester Stallone,ISTP,4,train
-11085,Zinédine Zidane,ISTP,4,test
+11085,Zinédine Zidane,ISTP,4,train
 482307,Kim Garam (김가람),ISTP,3,train
 1043,Emily Blunt,ISTP,4,train
-832059,Ricky (ZEROBASEONE),ISTP,4,val
-10334,Shownu (MONSTA X),ISTP,3,test
+832059,Ricky (ZEROBASEONE),ISTP,4,train
+10334,Shownu (MONSTA X),ISTP,3,train
 4770,Jon Jones,ISTP,4,train
-2921,Jensen Ackles,ISTP,4,val
-1041,Daniel Craig,ISTP,4,test
+2921,Jensen Ackles,ISTP,4,test
+1041,Daniel Craig,ISTP,4,train
 1063,Michael Fassbender,ISTP,4,train
 269358,Chicha Amatayakul,ISTP,4,train
-8942,Mark Tuan (GOT7),ISTP,4,train
+8942,Mark Tuan (GOT7),ISTP,4,val
 31066,Tabbes,ISTP,3,train
 18057,Robert Lewandowski,ISTP,4,train
 75175,Pitty,ISTP,4,train
 386,Tiger Woods,ISTP,4,train
-104248,Acun Ilıcalı,ISTP,4,test
+104248,Acun Ilıcalı,ISTP,4,train
 519509,Eunseok (RIIZE),ISTP,3,train
 401233,Wi Hajoon,ISTP,3,train
 6749,Manuel Neuer,ISTP,4,train
 88395,Mia (EVERGLOW),ISTP,4,train
 16757,Kate Moss,ISTP,4,train
-65136,Tony Hawk,ISTP,4,test
-57632,Alyssa Bustamante,ISTP,4,test
-14696,Olivia Wilde,ISTP,4,val
+65136,Tony Hawk,ISTP,4,train
+57632,Alyssa Bustamante,ISTP,4,val
+14696,Olivia Wilde,ISTP,4,train
 36166,Stephen Ng (Actually Stephen),ISTP,3,train
 21565,Dylan Sprouse,ISTP,4,train
 10527,Øystein Aarseth (Euronymous),ISTP,3,train
 11084,Ronaldo,ISTP,4,train
 48172,Suzane von Richthofen,ISTP,3,test
 70509,Jack Dorsey,ISTP,4,train
-14823,Karl Pilkington,ISTP,4,train
+14823,Karl Pilkington,ISTP,4,test
 143358,Sora Choi,ISTP,4,train
-49420,Jean-Michel Basquiat,ISTP,3,test
-1037,Jeremy Renner,ISTP,4,test
+49420,Jean-Michel Basquiat,ISTP,3,train
+1037,Jeremy Renner,ISTP,4,val
 6496,Brock Lesnar,ISTP,4,train
-19009,Dawn,ISTP,4,test
+19009,Dawn,ISTP,4,train
 6494,Frank Lampard,ISTP,4,train
-17672,Roman Reigns,ISTP,4,train
+17672,Roman Reigns,ISTP,4,val
 98343,Frank Cuesta,ISTP,4,train
-30526,Chris Watts,ISTP,4,train
-211789,Theo (P1Harmony),ISTP,4,test
+30526,Chris Watts,ISTP,4,val
+211789,Theo (P1Harmony),ISTP,4,val
 6502,Aaron Rodgers,ISTP,4,test
 35137,Nikola Jokić,ISTP,4,train
-24920,Kim Doyeon (Weki Meki),ISTP,4,train
+24920,Kim Doyeon (Weki Meki),ISTP,4,val
 24985,Mackenyu Arata,ISTP,4,train
 28909,Niccolò Paganini,ISTP,4,train
 87757,Karim Benzema,ISTP,4,train
-10462,Alain Delon,ISTP,4,test
-41946,Chorão,ISTP,4,test
+10462,Alain Delon,ISTP,4,train
+41946,Chorão,ISTP,4,train
 136043,Franco Escamilla,ISTP,4,train
 19538,Jason Statham,ISTP,4,train
 50210,Supla,ISTP,4,train
-547627,Ali Karimi,ISTP,4,val
+547627,Ali Karimi,ISTP,4,train
 9955,Kim Yuna,ISTP,4,train
 39962,Bartek Sitek (Generator Frajdy),ISTP,4,train
 34971,Alfred Nobel,ISTP,4,train
 529614,Tiago Santineli,ISTP,4,train
-11410,Buster Keaton,ISTP,4,val
+11410,Buster Keaton,ISTP,4,train
 32818,Ronda Rousey,ISTP,4,train
 48159,Mano Brown,ISTP,3,train
 127801,D.B. Cooper,ISTP,4,train
 10157,Steven Seagal,ISTP,3,train
-74471,Damso,ISTP,4,train
-162922,Bright Vachirawit Chivaaree,ISTP,4,train
-13357,Harry Kane,ISTP,4,train
-283008,Jeff Satur,ISTP,3,val
+74471,Damso,ISTP,4,test
+162922,Bright Vachirawit Chivaaree,ISTP,4,val
+13357,Harry Kane,ISTP,4,test
+283008,Jeff Satur,ISTP,3,train
 148251,Casemiro,ISTP,4,val
 340202,Lázaro Barbosa,ISTP,4,train
 9055,Randy Orton,ISTP,4,train
 227580,Ethan Cutkosky,ISTP,4,train
 75832,Gina Carano,ISTP,4,train
-28983,Amanda Knox,ISTP,4,train
+28983,Amanda Knox,ISTP,4,val
 39847,Alex Honnold,ISTP,4,train
 98947,Hakim Ziyech,ISTP,4,train
 102059,Jiwoo (KARD),ISTP,3,train
 169233,Bruno Henrique,ISTP,4,train
-2183,Rand Paul,ISTP,4,train
-68893,Leedo (ONEUS),ISTP,4,train
-29247,Greta Garbo,ISTP,4,val
+2183,Rand Paul,ISTP,4,test
+68893,Leedo (ONEUS),ISTP,4,test
+29247,Greta Garbo,ISTP,4,train
 29698,Dylann Roof,ISTP,4,train
-11081,Andrea Pirlo,ISTP,4,train
+11081,Andrea Pirlo,ISTP,4,val
 29699,Pedrinho Matador,ISTP,4,train
 34080,John Carpenter,ISTP,4,train
 45156,Liu Yifei,ISTP,3,train
 124316,Kim Jung Gi,ISTP,4,train
 49595,Tom Kaulitz,ISTP,4,train
-18596,Lai Guanlin,ISTP,3,val
+18596,Lai Guanlin,ISTP,3,train
 114317,Kıvanç Tatlıtuğ,ISTP,4,train
 34513,Jamie Dornan,ISTP,4,train
 29452,Eden Hazard,ISTP,4,train
 2168,James Harden,ISTP,4,train
 3549,David Blaine,ISTP,3,train
 152873,Nicholas (&Team),ISTP,4,train
-11908,Ian Brady,ISTP,4,val
+11908,Ian Brady,ISTP,4,test
 349088,High Boi,ISTP,4,train
 54292,Steve McQueen,ISTP,4,train
-15798,Joe Pesci,ISTP,4,test
-34945,Andrzej Sapkowski,ISTP,4,val
+15798,Joe Pesci,ISTP,4,train
+34945,Andrzej Sapkowski,ISTP,4,train
 17679,Henrique Fogaça,ISTP,4,train
 365925,Cai Bing (KSGIRLS),ISTP,4,train
 178860,Yūichi Nakamura,ISTP,4,train
-41944,Seu Jorge,ISTP,4,val
+41944,Seu Jorge,ISTP,4,train
 8806,Klay Thompson,ISTP,3,train
-274772,Trent Alexander-Arnold,ISTP,4,train
+274772,Trent Alexander-Arnold,ISTP,4,val
 100515,Devon Aoki,ISTP,4,train
 3144,Clive Owen,ISTP,4,train
 30239,Jon Moxley,ISTP,4,train
 9000,"Hafþór Thor"" Júlíus Björnsson""",ISTP,4,train
 323440,Uzi,ISTP,4,train
-466006,It's Stefano,ISTP,3,train
+466006,It's Stefano,ISTP,3,test
 43703,Takeru Satoh,ISTP,4,train
 182875,Takehiko Inoue,ISTP,4,train
-36887,Demi Moore,ISTP,4,train
+36887,Demi Moore,ISTP,4,val
 81738,Mahendra Singh Dhoni,ISTP,4,train
 329,Andrew Johnson,ISTP,4,train
 381,Wayne Rooney,ISTP,4,train
-23808,Brenda Ann Spencer,ISTP,4,train
-979946,MC Guimê,ISTP,4,val
+23808,Brenda Ann Spencer,ISTP,4,test
+979946,MC Guimê,ISTP,4,train
 132076,Matías Ignacio Vera Oyarzo (Peluchin Entertainment),ISTP,4,train
-16930,Takeshi Kitano,ISTP,4,train
-117215,"Saúl Canelo"" Álvarez""",ISTP,3,train
-160191,Ricardo Lozoya (RAL NEGAS),ISTP,4,train
+16930,Takeshi Kitano,ISTP,4,val
+117215,"Saúl Canelo"" Álvarez""",ISTP,3,val
+160191,Ricardo Lozoya (RAL NEGAS),ISTP,4,test
 16703,Adelaide Kane,ISTP,4,train
 293137,Abel Ferreira,ISTP,4,train
-11317,Mary Bell,ISTP,3,test
+11317,Mary Bell,ISTP,3,train
 3540,Cheloo,ISTP,3,train
 99835,Julia Lepetit (The Drawfee Channel),ISTP,4,train
-11765,Nikolaj Coster-Waldau,ISTP,4,val
+11765,Nikolaj Coster-Waldau,ISTP,4,train
 27082,Larry Bird,ISTP,4,test
 208011,Lorenzo Zurzolo,ISTP,4,train
 137146,Mikhail Kalashnikov,ISTP,4,train
@@ -3134,23 +3134,23 @@ id,name,four_letter,images_fetched,split
 163695,Chen Feiyu,ISTP,4,train
 400457,Brian Laundrie,ISTP,4,train
 32321,A.J. Styles,ISTP,4,train
-21960,Danny Trejo,ISTP,4,test
+21960,Danny Trejo,ISTP,4,train
 74180,Vladislav Roslyakov,ISTP,4,train
 96527,Paris Bennett,ISTP,3,train
 232855,Goeun (Purple Kiss),ISTP,4,train
-137132,Nejat İşler,ISTP,4,val
-15672,Hongbin (VIXX),ISTP,4,val
+137132,Nejat İşler,ISTP,4,train
+15672,Hongbin (VIXX),ISTP,4,train
 35131,Yeonwoo,ISTP,4,train
-9131,Adriano Celentano,ISTP,4,val
+9131,Adriano Celentano,ISTP,4,test
 36987,Ruby Rose,ISTP,4,train
 52040,Jamie Hewlett,ISTP,4,train
-159757,Kenjiro Tsuda,ISTP,4,val
-89752,Lucas Jade Zumann,ISTP,4,train
-101404,Kim Sungkyu (INFINITE),ISTP,4,train
+159757,Kenjiro Tsuda,ISTP,4,train
+89752,Lucas Jade Zumann,ISTP,4,val
+101404,Kim Sungkyu (INFINITE),ISTP,4,test
 29813,Charlie Hunnam,ISTP,4,train
 93377,Jun Ji-hyun,ISTP,4,train
 128846,Marcos 'Bola' Chiesa,ISTP,4,train
-48151,Zeca Pagodinho,ISTP,3,test
+48151,Zeca Pagodinho,ISTP,3,train
 199812,"Kyriakos Grizzly"" Kapakoulak""",ISTP,3,train
 287240,Keita (Ciipher) (EVNNE),ISTP,3,train
 42518,Humphrey Bogart,ISTP,4,train
@@ -3158,7 +3158,7 @@ id,name,four_letter,images_fetched,split
 43698,Ryo Yoshizawa,ISTP,3,train
 60344,Jun Fukuyama,ISTP,4,train
 31023,Ichiro Suzuki,ISTP,4,train
-1518,Milo Ventimiglia,ISTP,4,test
-349356,XARAKTER,ISTP,4,train
-318389,Tiago Carvalho,ISTP,2,train
+1518,Milo Ventimiglia,ISTP,4,train
+349356,XARAKTER,ISTP,4,test
+318389,Tiago Carvalho,ISTP,2,val
 32732,The Undertaker (American Badass / Big Evil),ISTP,4,train

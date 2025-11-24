@@ -5,3 +5,4 @@ faces_yolo*/
 affectnet-yolo-format/
 affectnet-yolo-format*
 *.pt
+*.zip

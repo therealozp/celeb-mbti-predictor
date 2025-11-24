@@ -1,4 +1,4 @@
-from torchvision.models import resnet18, ResNet18_Weights
+from torchvision.models import resnet18, ResNet18_Weights, efficientnet_v2_s
 import torch.nn as nn
 import torch
 
@@ -53,3 +53,63 @@ class MBTIMultiHeadAffectNetPretrained(nn.Module):
         # Concatenate them to match target shape [Batch, 4]
         # This makes it compatible with your existing loop/Loss function
         return torch.cat([out_ie, out_ns, out_tf, out_jp], dim=1)
+
+
+class MBTISingleHeadMulticlass(nn.Module):
+    def __init__(self, freeze_backbone=False, num_classes=16):
+        super().__init__()
+
+        base_model = resnet18()
+
+        num_ftrs = base_model.fc.in_features
+        base_model.fc = nn.Linear(num_ftrs, 8)
+        base_model.load_state_dict(torch.load("resnet18_affectnet_best.pth"))
+
+        self.backbone = nn.Sequential(*list(base_model.children())[:-1])
+        self.fc = nn.Sequential(
+            nn.Flatten(),
+            nn.Linear(512, 128),
+            nn.BatchNorm1d(128),  # Helps stability
+            nn.ReLU(),
+            nn.Dropout(0.5),  # Critical for your small dataset
+            nn.Linear(128, num_classes),  # Output num_classes logits
+        )
+
+        if freeze_backbone:
+            for param in self.backbone.parameters():
+                param.requires_grad = False
+
+    def forward(self, x):
+        features = self.backbone(x)
+        out = self.fc(features)
+        return out
+
+
+class MBTIEfficientNetV2Small(nn.Module):
+    def __init__(self, freeze_backbone=False, num_classes=16, model_weights=None):
+        super().__init__()
+
+        base_model = efficientnet_v2_s(weights="DEFAULT")
+        self.model = base_model
+
+        num_ftrs = base_model.classifier[1].in_features
+        self.model.classifier = nn.Sequential(
+            nn.Flatten(),
+            nn.Linear(num_ftrs, 128),
+            nn.BatchNorm1d(128),  # Helps stability
+            nn.ReLU(),
+            nn.Dropout(0.5),  # Critical for your small dataset
+            nn.Linear(128, num_classes),  # Output num_classes logits
+        )
+
+        if freeze_backbone:
+            for param in base_model.features.parameters():
+                param.requires_grad = False
+
+        if model_weights is not None:
+            self.model.load_state_dict(torch.load(model_weights))
+            print(f"[INFO] Loaded EfficientNetV2-S weights from {model_weights}")
+
+    def forward(self, x):
+        out = self.model(x)
+        return out

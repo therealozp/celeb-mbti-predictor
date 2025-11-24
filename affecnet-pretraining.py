@@ -12,6 +12,8 @@ import time
 from tqdm import tqdm
 from typing import Optional, Callable, Tuple
 
+from models import MBTIEfficientNetV2Small
+
 
 # --- 1. The Dataset Class (YOLO Format) ---
 class AffectNetYoloDataset(Dataset):
@@ -99,26 +101,14 @@ def train_affectnet(
     )
     val_loader = DataLoader(val_ds, batch_size=batch_size, shuffle=False, num_workers=4)
 
-    # C. Initialize Model (Double Transfer Strategy)
-    print("Loading ImageNet weights...")
-    model = models.resnet18(weights="IMAGENET1K_V1")
-
-    # Replace Final Layer for 8 Emotions
-    # 0:Neutral, 1:Happy, 2:Sad, 3:Surprise, 4:Fear, 5:Disgust, 6:Anger, 7:Contempt
-    num_ftrs = model.fc.in_features
-    model.fc = nn.Linear(num_ftrs, 8)
+    model = MBTIEfficientNetV2Small(num_classes=8, freeze_backbone=True)
 
     model = model.to(device)
 
     # D. Setup Training
     criterion = nn.CrossEntropyLoss()
-    # train the classifier head first
-    for param in model.parameters():
-        param.requires_grad = False
 
-    for param in model.fc.parameters():
-        param.requires_grad = True
-
+    # First, train only the final layer
     optimizer_classifier = optim.Adam(
         filter(lambda p: p.requires_grad, model.parameters()), lr=lr
     )
@@ -184,6 +174,7 @@ def train_affectnet(
     ## Unfreeze all layers and continue training
     for param in model.parameters():
         param.requires_grad = True
+
     optimizer = optim.Adam(model.parameters(), lr=lr * 0.1, weight_decay=1e-4)
     scheduler = ReduceLROnPlateau(optimizer, mode="min", factor=0.1, patience=3)
 
@@ -259,7 +250,7 @@ def train_affectnet(
         # Save Best Model
         if avg_val_loss < best_val_loss:
             best_val_loss = avg_val_loss
-            torch.save(model.state_dict(), "resnet18_affectnet_best.pth")
+            torch.save(model.state_dict(), save_path)
             print("  >>> Best model saved.")
 
         print(
@@ -279,5 +270,5 @@ if __name__ == "__main__":
         )
         sys.exit(1)
     train_affectnet(
-        root_dir=DATA_ROOT, epochs=50, save_path="resnet18_affectnet_new.pth"
+        root_dir=DATA_ROOT, epochs=50, save_path="efficientnetv2_affectnet_best.pth"
     )

@@ -1,0 +1,420 @@
+
+Epoch 1/20
+Train Loss: 2.7097, Train Acc: 0.130
+Val Loss: 2.6980, Val Acc: 0.121, Top-3 Acc: 0.311
+Validation per-class accuracy:
+  Class 0: 0.013
+  Class 1: 0.013
+  Class 2: 0.065
+  Class 3: 0.269
+  Class 4: 0.221
+  Class 5: 0.179
+  Class 6: 0.143
+  Class 7: 0.053
+  Class 8: 0.013
+  Class 9: 0.115
+  Class 10: 0.093
+  Class 11: 0.171
+  Class 12: 0.176
+  Class 13: 0.301
+  Class 14: 0.097
+  Class 15: 0.013
+
+Epoch 2/20
+Train Loss: 2.6291, Train Acc: 0.162
+Val Loss: 2.6867, Val Acc: 0.118, Top-3 Acc: 0.313
+Validation per-class accuracy:
+  Class 0: 0.000
+  Class 1: 0.052
+  Class 2: 0.039
+  Class 3: 0.282
+  Class 4: 0.169
+  Class 5: 0.167
+  Class 6: 0.143
+  Class 7: 0.053
+  Class 8: 0.026
+  Class 9: 0.128
+  Class 10: 0.093
+  Class 11: 0.158
+  Class 12: 0.135
+  Class 13: 0.301
+  Class 14: 0.097
+  Class 15: 0.053
+
+Epoch 3/20
+Train Loss: 2.5928, Train Acc: 0.171
+Val Loss: 2.6852, Val Acc: 0.115, Top-3 Acc: 0.313
+Validation per-class accuracy:
+  Class 0: 0.013
+  Class 1: 0.013
+  Class 2: 0.039
+  Class 3: 0.269
+  Class 4: 0.169
+  Class 5: 0.179
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.077
+  Class 9: 0.090
+  Class 10: 0.067
+  Class 11: 0.158
+  Class 12: 0.149
+  Class 13: 0.260
+  Class 14: 0.097
+  Class 15: 0.053
+
+Epoch 4/20
+Train Loss: 2.5721, Train Acc: 0.173
+Val Loss: 2.6908, Val Acc: 0.119, Top-3 Acc: 0.311
+Validation per-class accuracy:
+  Class 0: 0.000
+  Class 1: 0.026
+  Class 2: 0.078
+  Class 3: 0.231
+  Class 4: 0.156
+  Class 5: 0.167
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.090
+  Class 9: 0.167
+  Class 10: 0.067
+  Class 11: 0.171
+  Class 12: 0.149
+  Class 13: 0.274
+  Class 14: 0.065
+  Class 15: 0.053
+
+Epoch 5/20
+Train Loss: 2.5594, Train Acc: 0.179
+Val Loss: 2.6972, Val Acc: 0.107, Top-3 Acc: 0.311
+Validation per-class accuracy:
+  Class 0: 0.013
+  Class 1: 0.026
+  Class 2: 0.117
+  Class 3: 0.179
+  Class 4: 0.156
+  Class 5: 0.167
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.103
+  Class 9: 0.115
+  Class 10: 0.067
+  Class 11: 0.105
+  Class 12: 0.135
+  Class 13: 0.219
+  Class 14: 0.048
+  Class 15: 0.053
+
+Epoch 6/20
+Train Loss: 2.5508, Train Acc: 0.180
+Val Loss: 2.7032, Val Acc: 0.115, Top-3 Acc: 0.306
+Validation per-class accuracy:
+  Class 0: 0.013
+  Class 1: 0.026
+  Class 2: 0.117
+  Class 3: 0.244
+  Class 4: 0.156
+  Class 5: 0.192
+  Class 6: 0.200
+  Class 7: 0.027
+  Class 8: 0.077
+  Class 9: 0.103
+  Class 10: 0.080
+  Class 11: 0.145
+  Class 12: 0.135
+  Class 13: 0.219
+  Class 14: 0.048
+  Class 15: 0.053
+
+Epoch 7/20
+Train Loss: 2.5450, Train Acc: 0.178
+Val Loss: 2.7104, Val Acc: 0.106, Top-3 Acc: 0.304
+Validation per-class accuracy:
+  Class 0: 0.026
+  Class 1: 0.026
+  Class 2: 0.078
+  Class 3: 0.205
+  Class 4: 0.156
+  Class 5: 0.167
+  Class 6: 0.171
+  Class 7: 0.027
+  Class 8: 0.103
+  Class 9: 0.064
+  Class 10: 0.080
+  Class 11: 0.132
+  Class 12: 0.135
+  Class 13: 0.219
+  Class 14: 0.048
+  Class 15: 0.053
+
+Epoch 8/20
+Train Loss: 2.5405, Train Acc: 0.181
+Val Loss: 2.7160, Val Acc: 0.102, Top-3 Acc: 0.303
+Validation per-class accuracy:
+  Class 0: 0.026
+  Class 1: 0.026
+  Class 2: 0.065
+  Class 3: 0.205
+  Class 4: 0.156
+  Class 5: 0.141
+  Class 6: 0.157
+  Class 7: 0.027
+  Class 8: 0.090
+  Class 9: 0.077
+  Class 10: 0.080
+  Class 11: 0.092
+  Class 12: 0.122
+  Class 13: 0.247
+  Class 14: 0.048
+  Class 15: 0.066
+
+Epoch 9/20
+Train Loss: 2.5374, Train Acc: 0.179
+Val Loss: 2.7198, Val Acc: 0.105, Top-3 Acc: 0.306
+Validation per-class accuracy:
+  Class 0: 0.039
+  Class 1: 0.026
+  Class 2: 0.078
+  Class 3: 0.218
+  Class 4: 0.143
+  Class 5: 0.141
+  Class 6: 0.171
+  Class 7: 0.027
+  Class 8: 0.103
+  Class 9: 0.077
+  Class 10: 0.080
+  Class 11: 0.092
+  Class 12: 0.149
+  Class 13: 0.233
+  Class 14: 0.048
+  Class 15: 0.053
+
+Epoch 10/20
+Train Loss: 2.5350, Train Acc: 0.181
+Val Loss: 2.7248, Val Acc: 0.103, Top-3 Acc: 0.305
+Validation per-class accuracy:
+  Class 0: 0.026
+  Class 1: 0.052
+  Class 2: 0.065
+  Class 3: 0.205
+  Class 4: 0.143
+  Class 5: 0.154
+  Class 6: 0.186
+  Class 7: 0.027
+  Class 8: 0.103
+  Class 9: 0.077
+  Class 10: 0.080
+  Class 11: 0.105
+  Class 12: 0.149
+  Class 13: 0.192
+  Class 14: 0.032
+  Class 15: 0.053
+
+Epoch 11/20
+Train Loss: 2.5332, Train Acc: 0.182
+Val Loss: 2.7290, Val Acc: 0.107, Top-3 Acc: 0.301
+Validation per-class accuracy:
+  Class 0: 0.039
+  Class 1: 0.039
+  Class 2: 0.065
+  Class 3: 0.179
+  Class 4: 0.156
+  Class 5: 0.141
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.103
+  Class 9: 0.103
+  Class 10: 0.080
+  Class 11: 0.118
+  Class 12: 0.149
+  Class 13: 0.192
+  Class 14: 0.081
+  Class 15: 0.053
+
+Epoch 12/20
+Train Loss: 2.5318, Train Acc: 0.182
+Val Loss: 2.7330, Val Acc: 0.101, Top-3 Acc: 0.296
+Validation per-class accuracy:
+  Class 0: 0.026
+  Class 1: 0.039
+  Class 2: 0.052
+  Class 3: 0.167
+  Class 4: 0.169
+  Class 5: 0.141
+  Class 6: 0.171
+  Class 7: 0.027
+  Class 8: 0.077
+  Class 9: 0.090
+  Class 10: 0.080
+  Class 11: 0.118
+  Class 12: 0.149
+  Class 13: 0.219
+  Class 14: 0.032
+  Class 15: 0.053
+
+Epoch 13/20
+Train Loss: 2.5306, Train Acc: 0.184
+Val Loss: 2.7356, Val Acc: 0.112, Top-3 Acc: 0.304
+Validation per-class accuracy:
+  Class 0: 0.052
+  Class 1: 0.039
+  Class 2: 0.065
+  Class 3: 0.192
+  Class 4: 0.169
+  Class 5: 0.128
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.077
+  Class 9: 0.115
+  Class 10: 0.080
+  Class 11: 0.105
+  Class 12: 0.189
+  Class 13: 0.219
+  Class 14: 0.081
+  Class 15: 0.066
+
+Epoch 14/20
+Train Loss: 2.5301, Train Acc: 0.183
+Val Loss: 2.7380, Val Acc: 0.107, Top-3 Acc: 0.303
+Validation per-class accuracy:
+  Class 0: 0.039
+  Class 1: 0.026
+  Class 2: 0.065
+  Class 3: 0.179
+  Class 4: 0.169
+  Class 5: 0.128
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.103
+  Class 9: 0.090
+  Class 10: 0.067
+  Class 11: 0.132
+  Class 12: 0.162
+  Class 13: 0.219
+  Class 14: 0.065
+  Class 15: 0.053
+
+Epoch 15/20
+Train Loss: 2.5291, Train Acc: 0.184
+Val Loss: 2.7404, Val Acc: 0.105, Top-3 Acc: 0.301
+Validation per-class accuracy:
+  Class 0: 0.026
+  Class 1: 0.039
+  Class 2: 0.065
+  Class 3: 0.192
+  Class 4: 0.156
+  Class 5: 0.141
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.090
+  Class 9: 0.103
+  Class 10: 0.067
+  Class 11: 0.118
+  Class 12: 0.162
+  Class 13: 0.219
+  Class 14: 0.032
+  Class 15: 0.053
+
+Epoch 16/20
+Train Loss: 2.5288, Train Acc: 0.184
+Val Loss: 2.7437, Val Acc: 0.104, Top-3 Acc: 0.301
+Validation per-class accuracy:
+  Class 0: 0.026
+  Class 1: 0.039
+  Class 2: 0.065
+  Class 3: 0.179
+  Class 4: 0.169
+  Class 5: 0.115
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.090
+  Class 9: 0.103
+  Class 10: 0.067
+  Class 11: 0.118
+  Class 12: 0.176
+  Class 13: 0.219
+  Class 14: 0.032
+  Class 15: 0.053
+
+Epoch 17/20
+Train Loss: 2.5282, Train Acc: 0.184
+Val Loss: 2.7455, Val Acc: 0.106, Top-3 Acc: 0.299
+Validation per-class accuracy:
+  Class 0: 0.026
+  Class 1: 0.052
+  Class 2: 0.052
+  Class 3: 0.179
+  Class 4: 0.169
+  Class 5: 0.141
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.077
+  Class 9: 0.103
+  Class 10: 0.067
+  Class 11: 0.105
+  Class 12: 0.162
+  Class 13: 0.219
+  Class 14: 0.065
+  Class 15: 0.066
+
+Epoch 18/20
+Train Loss: 2.5278, Train Acc: 0.182
+Val Loss: 2.7478, Val Acc: 0.102, Top-3 Acc: 0.297
+Validation per-class accuracy:
+  Class 0: 0.026
+  Class 1: 0.039
+  Class 2: 0.065
+  Class 3: 0.179
+  Class 4: 0.169
+  Class 5: 0.128
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.103
+  Class 9: 0.090
+  Class 10: 0.053
+  Class 11: 0.092
+  Class 12: 0.122
+  Class 13: 0.260
+  Class 14: 0.048
+  Class 15: 0.053
+
+Epoch 19/20
+Train Loss: 2.5276, Train Acc: 0.186
+Val Loss: 2.7482, Val Acc: 0.104, Top-3 Acc: 0.301
+Validation per-class accuracy:
+  Class 0: 0.039
+  Class 1: 0.052
+  Class 2: 0.065
+  Class 3: 0.167
+  Class 4: 0.156
+  Class 5: 0.141
+  Class 6: 0.171
+  Class 7: 0.040
+  Class 8: 0.103
+  Class 9: 0.103
+  Class 10: 0.067
+  Class 11: 0.092
+  Class 12: 0.135
+  Class 13: 0.233
+  Class 14: 0.048
+  Class 15: 0.053
+
+Epoch 20/20
+Train Loss: 2.5270, Train Acc: 0.185
+Val Loss: 2.7503, Val Acc: 0.108, Top-3 Acc: 0.300
+Validation per-class accuracy:
+  Class 0: 0.039
+  Class 1: 0.039
+  Class 2: 0.065
+  Class 3: 0.179
+  Class 4: 0.156
+  Class 5: 0.167
+  Class 6: 0.157
+  Class 7: 0.040
+  Class 8: 0.103
+  Class 9: 0.141
+  Class 10: 0.067
+  Class 11: 0.079
+  Class 12: 0.135
+  Class 13: 0.205
+  Class 14: 0.097
+  Class 15: 0.066
