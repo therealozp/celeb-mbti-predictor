@@ -56,14 +56,16 @@ class MBTIMultiHeadAffectNetPretrained(nn.Module):
 
 
 class MBTISingleHeadMulticlass(nn.Module):
-    def __init__(self, freeze_backbone=False, num_classes=16):
+    def __init__(self, freeze_backbone=False, num_classes=16, device="cpu"):
         super().__init__()
 
         base_model = resnet18()
 
         num_ftrs = base_model.fc.in_features
         base_model.fc = nn.Linear(num_ftrs, 8)
-        base_model.load_state_dict(torch.load("resnet18_affectnet_best.pth"))
+        base_model.load_state_dict(
+            torch.load("resnet18_affectnet_best.pth", map_location=device)
+        )
 
         self.backbone = nn.Sequential(*list(base_model.children())[:-1])
         self.fc = nn.Sequential(

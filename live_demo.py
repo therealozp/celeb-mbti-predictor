@@ -7,10 +7,11 @@ from ultralytics import YOLO
 from PIL import Image
 import numpy as np
 
+import time
 from models import MBTISingleHeadMulticlass
 
 # --- Configuration ---
-YOLO_WEIGHTS = "yolov12l-face.pt"  # Face detection model
+YOLO_WEIGHTS = "yolov12s-face.pt"  # Face detection model
 MBTI_WEIGHTS = "resnet_mbti_classification.pth"  # Path to your saved 16-class model
 CONF_THRESH = 0.5  # YOLO confidence
 TARGET_SIZE = 224  # ResNet input size
@@ -115,7 +116,9 @@ def main():
             break
 
         # YOLO Detection
+        start = time.time()
         results = face_model(frame, verbose=False, conf=CONF_THRESH)
+        print(f"[DEBUG] YOLO Inference Time: {time.time() - start:.3f} seconds")
         detections = results[0].boxes
 
         # --- PROCESS ONLY THE FIRST FACE ---
@@ -138,7 +141,11 @@ def main():
                 pil_face = Image.fromarray(face_crop_rgb)
 
                 # --- PREDICT ---
+                start = time.time()
                 pred_label, conf = predict_single_face(mbti_model, pil_face, DEVICE)
+                print(
+                    f"[DEBUG] MBTI Prediction Time: {time.time() - start:.3f} seconds"
+                )
 
                 # --- DRAW ---
                 # Green box
