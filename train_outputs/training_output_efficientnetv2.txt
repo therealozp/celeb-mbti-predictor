@@ -1,0 +1,49 @@
+                                                                              
+Epoch 01 | train loss 2.8687/ train accuracy 0.070 | val loss 2.7620/ val accuracy 0.098
+                                                                              
+Epoch 02 | train loss 2.7997/ train accuracy 0.088 | val loss 2.7506/ val accuracy 0.100
+                                                                              
+Epoch 03 | train loss 2.7792/ train accuracy 0.096 | val loss 2.7431/ val accuracy 0.101
+                                                                              
+Epoch 04 | train loss 2.7625/ train accuracy 0.103 | val loss 2.7364/ val accuracy 0.102
+                                                                              
+Epoch 05 | train loss 2.7449/ train accuracy 0.107 | val loss 2.7345/ val accuracy 0.099
+                                                                              
+Epoch 06 | train loss 2.7305/ train accuracy 0.110 | val loss 2.7335/ val accuracy 0.102
+                                                                              
+Epoch 07 | train loss 2.7234/ train accuracy 0.119 | val loss 2.7370/ val accuracy 0.110
+                                                                              
+Epoch 08 | train loss 2.7158/ train accuracy 0.116 | val loss 2.7318/ val accuracy 0.106
+                                                                              
+Epoch 00 | train loss 2.6994/ train accuracy 0.127 | val loss 2.7296/ val accuracy 0.111
+                                                                              
+Epoch 01 | train loss 2.6793/ train accuracy 0.135 | val loss 2.7296/ val accuracy 0.116
+                                                                              
+Epoch 02 | train loss 2.6553/ train accuracy 0.148 | val loss 2.7291/ val accuracy 0.105
+                                                                              
+Epoch 03 | train loss 2.6360/ train accuracy 0.151 | val loss 2.7368/ val accuracy 0.104
+                                                                              
+Epoch 04 | train loss 2.6221/ train accuracy 0.156 | val loss 2.7328/ val accuracy 0.116
+                                                                              
+Epoch 05 | train loss 2.5986/ train accuracy 0.175 | val loss 2.7318/ val accuracy 0.111
+                                                                              
+Epoch 06 | train loss 2.5706/ train accuracy 0.186 | val loss 2.7319/ val accuracy 0.110
+                                                                              
+Epoch 07 | train loss 2.5608/ train accuracy 0.190 | val loss 2.7357/ val accuracy 0.105
+                                                                              
+Epoch 08 | train loss 2.5255/ train accuracy 0.213 | val loss 2.7417/ val accuracy 0.111
+                                                                              
+Epoch 09 | train loss 2.5140/ train accuracy 0.213 | val loss 2.7459/ val accuracy 0.111
+                                                                              
+Epoch 10 | train loss 2.4884/ train accuracy 0.224 | val loss 2.7434/ val accuracy 0.115
+                                                                              
+Epoch 11 | train loss 2.4630/ train accuracy 0.244 | val loss 2.7494/ val accuracy 0.114
+                                                                              
+Epoch 12 | train loss 2.4275/ train accuracy 0.262 | val loss 2.7515/ val accuracy 0.113
+                                                                              
+Epoch 13 | train loss 2.4055/ train accuracy 0.281 | val loss 2.7509/ val accuracy 0.116
+                                                                              
+Epoch 14 | train loss 2.3724/ train accuracy 0.288 | val loss 2.7669/ val accuracy 0.105
+                                                                              
+Epoch 15 | train loss 2.3394/ train accuracy 0.317 | val loss 2.7718/ val accuracy 0.101
+                                                                              

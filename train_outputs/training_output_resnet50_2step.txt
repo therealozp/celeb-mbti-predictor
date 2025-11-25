@@ -1,0 +1,39 @@
+Epoch 00 | train loss 2.7296/ train accuracy 0.102 | val loss 2.6895/ val accuracy 0.127
+                                                                              
+Epoch 01 | train loss 2.5744/ train accuracy 0.190 | val loss 2.7063/ val accuracy 0.122
+                                                                              
+Epoch 02 | train loss 2.3168/ train accuracy 0.312 | val loss 2.7044/ val accuracy 0.161
+                                                                              
+Epoch 03 | train loss 1.8546/ train accuracy 0.522 | val loss 2.7575/ val accuracy 0.171
+                                                                              
+Epoch 04 | train loss 1.3431/ train accuracy 0.736 | val loss 2.9254/ val accuracy 0.169
+                                                                               
+Epoch 00 | train loss 0.9566/ train accuracy 0.902 | val loss 2.7491/ val accuracy 0.197
+                                                                               
+Epoch 01 | train loss 0.8297/ train accuracy 0.953 | val loss 2.7742/ val accuracy 0.212
+                                                                               
+Epoch 02 | train loss 0.7712/ train accuracy 0.972 | val loss 2.7496/ val accuracy 0.200
+                                                                               
+Epoch 03 | train loss 0.7281/ train accuracy 0.983 | val loss 2.7429/ val accuracy 0.215
+                                                                               
+Epoch 04 | train loss 0.7001/ train accuracy 0.992 | val loss 2.7257/ val accuracy 0.206
+                                                                               
+Epoch 05 | train loss 0.6847/ train accuracy 0.993 | val loss 2.7461/ val accuracy 0.218
+                                                                               
+Epoch 06 | train loss 0.6675/ train accuracy 0.996 | val loss 2.7241/ val accuracy 0.218
+                                                                               
+Epoch 07 | train loss 0.6605/ train accuracy 0.997 | val loss 2.7220/ val accuracy 0.222
+                                                                               
+Epoch 08 | train loss 0.6524/ train accuracy 0.998 | val loss 2.7136/ val accuracy 0.223
+                                                                               
+Epoch 09 | train loss 0.6463/ train accuracy 0.999 | val loss 2.7115/ val accuracy 0.219
+                                                                               
+Epoch 10 | train loss 0.6406/ train accuracy 0.998 | val loss 2.6946/ val accuracy 0.215
+                                                                               
+Epoch 11 | train loss 0.6378/ train accuracy 0.999 | val loss 2.6626/ val accuracy 0.232
+                                                                               
+Epoch 12 | train loss 0.6326/ train accuracy 0.999 | val loss 2.6670/ val accuracy 0.215
+                                                                               
+Epoch 13 | train loss 0.6275/ train accuracy 0.999 | val loss 2.6760/ val accuracy 0.222
+                                                                               
+Epoch 14 | train loss 0.6272/ train accuracy 0.999 | val loss 2.6614/ val accuracy 0.231

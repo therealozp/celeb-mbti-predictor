@@ -1,0 +1,102 @@
+                                                                               
+Epoch 01 | Global Tr Acc: 0.549 | Global Val Acc: 0.586
+   Val Loss -> IE:0.68 NS:0.68 TF:0.67 JP:0.68
+   Val Acc  -> IE:0.59 NS:0.57 TF:0.61 JP:0.57
+                                                                               
+Epoch 02 | Global Tr Acc: 0.575 | Global Val Acc: 0.579
+   Val Loss -> IE:0.68 NS:0.68 TF:0.68 JP:0.68
+   Val Acc  -> IE:0.58 NS:0.58 TF:0.59 JP:0.57
+                                                                               
+Epoch 03 | Global Tr Acc: 0.583 | Global Val Acc: 0.581
+   Val Loss -> IE:0.68 NS:0.68 TF:0.68 JP:0.67
+   Val Acc  -> IE:0.59 NS:0.57 TF:0.58 JP:0.58
+                                                                               
+Epoch 04 | Global Tr Acc: 0.587 | Global Val Acc: 0.588
+   Val Loss -> IE:0.67 NS:0.68 TF:0.67 JP:0.68
+   Val Acc  -> IE:0.60 NS:0.57 TF:0.60 JP:0.58
+                                                                               
+Epoch 05 | Global Tr Acc: 0.592 | Global Val Acc: 0.582
+   Val Loss -> IE:0.68 NS:0.68 TF:0.68 JP:0.68
+   Val Acc  -> IE:0.59 NS:0.57 TF:0.58 JP:0.58
+                                                                               
+Epoch 06 | Global Tr Acc: 0.592 | Global Val Acc: 0.585
+   Val Loss -> IE:0.67 NS:0.68 TF:0.67 JP:0.68
+   Val Acc  -> IE:0.60 NS:0.58 TF:0.59 JP:0.57
+                                                                               
+Epoch 07 | Global Tr Acc: 0.597 | Global Val Acc: 0.582
+   Val Loss -> IE:0.68 NS:0.68 TF:0.67 JP:0.67
+   Val Acc  -> IE:0.58 NS:0.59 TF:0.59 JP:0.57
+                                                                               
+Epoch 08 | Global Tr Acc: 0.596 | Global Val Acc: 0.581
+   Val Loss -> IE:0.68 NS:0.68 TF:0.67 JP:0.67
+   Val Acc  -> IE:0.57 NS:0.59 TF:0.58 JP:0.57
+
+
+Epoch 01 | Global Tr Acc: 0.602 | Global Val Acc: 0.582
+   Val Loss -> IE:0.68 NS:0.67 TF:0.67 JP:0.68
+   Val Acc  -> IE:0.58 NS:0.58 TF:0.59 JP:0.57
+                                                                               
+Epoch 02 | Global Tr Acc: 0.617 | Global Val Acc: 0.581
+   Val Loss -> IE:0.67 NS:0.68 TF:0.67 JP:0.68
+   Val Acc  -> IE:0.59 NS:0.58 TF:0.58 JP:0.56
+                                                                               
+Epoch 03 | Global Tr Acc: 0.623 | Global Val Acc: 0.585
+   Val Loss -> IE:0.67 NS:0.68 TF:0.67 JP:0.68
+   Val Acc  -> IE:0.59 NS:0.58 TF:0.59 JP:0.58
+                                                                               
+Epoch 04 | Global Tr Acc: 0.631 | Global Val Acc: 0.589
+   Val Loss -> IE:0.68 NS:0.67 TF:0.67 JP:0.68
+   Val Acc  -> IE:0.59 NS:0.59 TF:0.59 JP:0.59
+                                                                               
+Epoch 05 | Global Tr Acc: 0.641 | Global Val Acc: 0.583
+   Val Loss -> IE:0.68 NS:0.68 TF:0.67 JP:0.68
+   Val Acc  -> IE:0.58 NS:0.58 TF:0.59 JP:0.58
+                                                                               
+Epoch 06 | Global Tr Acc: 0.650 | Global Val Acc: 0.582
+   Val Loss -> IE:0.68 NS:0.68 TF:0.67 JP:0.69
+   Val Acc  -> IE:0.58 NS:0.59 TF:0.58 JP:0.57
+                                                                               
+Epoch 07 | Global Tr Acc: 0.664 | Global Val Acc: 0.578
+   Val Loss -> IE:0.69 NS:0.70 TF:0.68 JP:0.69
+   Val Acc  -> IE:0.59 NS:0.58 TF:0.59 JP:0.57
+                                                                               
+Epoch 08 | Global Tr Acc: 0.674 | Global Val Acc: 0.584
+   Val Loss -> IE:0.68 NS:0.69 TF:0.68 JP:0.69
+   Val Acc  -> IE:0.59 NS:0.59 TF:0.59 JP:0.58
+                                                                               
+Epoch 09 | Global Tr Acc: 0.687 | Global Val Acc: 0.572
+   Val Loss -> IE:0.69 NS:0.72 TF:0.69 JP:0.70
+   Val Acc  -> IE:0.59 NS:0.57 TF:0.58 JP:0.55
+                                                                               
+Epoch 10 | Global Tr Acc: 0.700 | Global Val Acc: 0.575
+   Val Loss -> IE:0.70 NS:0.71 TF:0.69 JP:0.70
+   Val Acc  -> IE:0.58 NS:0.58 TF:0.58 JP:0.56
+                                                                               
+Epoch 11 | Global Tr Acc: 0.713 | Global Val Acc: 0.577
+   Val Loss -> IE:0.71 NS:0.71 TF:0.69 JP:0.72
+   Val Acc  -> IE:0.58 NS:0.58 TF:0.59 JP:0.56
+                                                                               
+Epoch 12 | Global Tr Acc: 0.723 | Global Val Acc: 0.575
+   Val Loss -> IE:0.72 NS:0.73 TF:0.71 JP:0.73
+   Val Acc  -> IE:0.57 NS:0.58 TF:0.58 JP:0.57
+                                                                               
+Epoch 13 | Global Tr Acc: 0.737 | Global Val Acc: 0.573
+   Val Loss -> IE:0.72 NS:0.72 TF:0.72 JP:0.74
+   Val Acc  -> IE:0.57 NS:0.58 TF:0.59 JP:0.55
+                                                                               
+Epoch 14 | Global Tr Acc: 0.756 | Global Val Acc: 0.567
+   Val Loss -> IE:0.73 NS:0.75 TF:0.72 JP:0.75
+   Val Acc  -> IE:0.57 NS:0.57 TF:0.58 JP:0.55
+                                                                               
+Epoch 15 | Global Tr Acc: 0.769 | Global Val Acc: 0.572
+   Val Loss -> IE:0.74 NS:0.75 TF:0.73 JP:0.75
+   Val Acc  -> IE:0.56 NS:0.59 TF:0.58 JP:0.57
+                                                                               
+Epoch 16 | Global Tr Acc: 0.782 | Global Val Acc: 0.568
+   Val Loss -> IE:0.74 NS:0.78 TF:0.75 JP:0.78
+   Val Acc  -> IE:0.56 NS:0.57 TF:0.57 JP:0.57
+                                                                               
+Epoch 17 | Global Tr Acc: 0.794 | Global Val Acc: 0.566
+   Val Loss -> IE:0.75 NS:0.77 TF:0.77 JP:0.78
+   Val Acc  -> IE:0.56 NS:0.57 TF:0.58 JP:0.55
+                                                         

@@ -1,0 +1,57 @@
+                                                                               
+Epoch 00 | Tr Acc: 0.552 | Va Acc: 0.572 | Val Losses -> IE:0.664 NS:0.687 TF:0.688 JP:0.697
+                                                                               
+Epoch 01 | Tr Acc: 0.583 | Va Acc: 0.576 | Val Losses -> IE:0.653 NS:0.682 TF:0.680 JP:0.693
+                                                                               
+Epoch 02 | Tr Acc: 0.588 | Va Acc: 0.567 | Val Losses -> IE:0.651 NS:0.686 TF:0.676 JP:0.691
+                                                                               
+Epoch 03 | Tr Acc: 0.596 | Va Acc: 0.570 | Val Losses -> IE:0.657 NS:0.682 TF:0.679 JP:0.693
+                                                                               
+Epoch 04 | Tr Acc: 0.599 | Va Acc: 0.588 | Val Losses -> IE:0.654 NS:0.680 TF:0.670 JP:0.688
+                                                                               
+Epoch 05 | Tr Acc: 0.608 | Va Acc: 0.591 | Val Losses -> IE:0.659 NS:0.678 TF:0.674 JP:0.688
+                                                                               
+Epoch 06 | Tr Acc: 0.604 | Va Acc: 0.573 | Val Losses -> IE:0.659 NS:0.684 TF:0.668 JP:0.695
+                                                                               
+Epoch 07 | Tr Acc: 0.602 | Va Acc: 0.576 | Val Losses -> IE:0.653 NS:0.684 TF:0.669 JP:0.691
+
+                                                                               
+Epoch 00 | Tr Acc: 0.603 | Va Acc: 0.581 | Val Losses -> IE:0.666 NS:0.672 TF:0.671 JP:0.701
+                                                                               
+Epoch 01 | Tr Acc: 0.639 | Va Acc: 0.603 | Val Losses -> IE:0.654 NS:0.662 TF:0.662 JP:0.696
+                                                                               
+Epoch 02 | Tr Acc: 0.666 | Va Acc: 0.596 | Val Losses -> IE:0.653 NS:0.663 TF:0.661 JP:0.695
+                                                                               
+Epoch 03 | Tr Acc: 0.697 | Va Acc: 0.630 | Val Losses -> IE:0.643 NS:0.655 TF:0.669 JP:0.681
+                                                                               
+Epoch 04 | Tr Acc: 0.734 | Va Acc: 0.620 | Val Losses -> IE:0.663 NS:0.638 TF:0.699 JP:0.686
+                                                                               
+Epoch 05 | Tr Acc: 0.763 | Va Acc: 0.630 | Val Losses -> IE:0.677 NS:0.679 TF:0.708 JP:0.700
+                                                                               
+Epoch 06 | Tr Acc: 0.791 | Va Acc: 0.639 | Val Losses -> IE:0.655 NS:0.650 TF:0.747 JP:0.687
+                                                                               
+Epoch 07 | Tr Acc: 0.820 | Va Acc: 0.653 | Val Losses -> IE:0.670 NS:0.657 TF:0.731 JP:0.696
+                                                                               
+Epoch 08 | Tr Acc: 0.841 | Va Acc: 0.670 | Val Losses -> IE:0.656 NS:0.645 TF:0.730 JP:0.768
+                                                                               
+Epoch 09 | Tr Acc: 0.868 | Va Acc: 0.666 | Val Losses -> IE:0.754 NS:0.683 TF:0.758 JP:0.727
+                                                                               
+Epoch 10 | Tr Acc: 0.883 | Va Acc: 0.688 | Val Losses -> IE:0.709 NS:0.721 TF:0.721 JP:0.805
+                                                                               
+Epoch 11 | Tr Acc: 0.896 | Va Acc: 0.698 | Val Losses -> IE:0.699 NS:0.689 TF:0.781 JP:0.734
+                                                                               
+Epoch 12 | Tr Acc: 0.906 | Va Acc: 0.691 | Val Losses -> IE:0.718 NS:0.761 TF:0.734 JP:0.783
+                                                                               
+Epoch 13 | Tr Acc: 0.916 | Va Acc: 0.706 | Val Losses -> IE:0.725 NS:0.694 TF:0.749 JP:0.784
+                                                                               
+Epoch 14 | Tr Acc: 0.921 | Va Acc: 0.698 | Val Losses -> IE:0.778 NS:0.829 TF:0.740 JP:0.775
+                                                                               
+Epoch 15 | Tr Acc: 0.926 | Va Acc: 0.715 | Val Losses -> IE:0.744 NS:0.745 TF:0.828 JP:0.776
+                                                                                
+Epoch 16 | Tr Acc: 0.935 | Va Acc: 0.703 | Val Losses -> IE:0.722 NS:0.776 TF:0.793 JP:0.825
+                                                                                
+Epoch 17 | Tr Acc: 0.940 | Va Acc: 0.715 | Val Losses -> IE:0.885 NS:0.761 TF:0.795 JP:0.862
+                                                                                
+Epoch 18 | Tr Acc: 0.941 | Va Acc: 0.714 | Val Losses -> IE:0.860 NS:0.807 TF:0.945 JP:0.934
+                                                                                
+Epoch 19 | Tr Acc: 0.941 | Va Acc: 0.723 | Val Losses -> IE:0.733 NS:0.748 TF:0.813 JP:0.810
